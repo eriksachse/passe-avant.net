@@ -1,0 +1,32 @@
+{
+  "name": "passe-avant.net",
+  "version": "1.0.0",
+  "description": "From 2016 to 2017 curator and writer Carina Bukuts and artist Sonia Knop have organised exhibitions in Frankfurt, Germany, and Tel-Aviv, Israel, and founded PASSE-AVANT as a platform for exhibition making, discourse and discussion. Soon, PASSE-AVANT developed further as a journalistic medium and is now an online magazine for contemporary art. With a focus on the Rhine-Main area and its jungle of exhibitions and initiatives, our aim is to pay attention to artistic practices and exhibitions that can easily be overlooked.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "postcss site/stylesheets/main.css -o assets/style.css",
+    "watch": "postcss site/stylesheets/main.css -o assets/style.css --watch",
+    "production": "cross-env NODE_ENV=production postcss site/stylesheets/main.css -o assets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriksachse/passe-avant.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriksachse/passe-avant.net/issues"
+  },
+  "homepage": "https://github.com/eriksachse/passe-avant.net#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-nesting": "^7.0.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

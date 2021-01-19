@@ -1,0 +1,449 @@
+Title: For the Forthcoming Epoch of the Salamander
+
+----
+
+Subtitle: Ádám Ulbert
+
+----
+
+Person: 
+
+----
+
+Place: ENA Viewing Space, Budapest
+
+----
+
+Preview: Sonja Teszler and and Ádám Ulbert had a lengthy conversation about various influences behind Ulbert's solo exhibition ‘For the Forthcoming Epoch of the Salamander’ at ENA Viewing Space in Budapest and his views on monsters, the anthropocene, western dualism, fungi, nostalgia, alchemy, self-thought artists and David Attenborough, an English broadcaster and historian.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-little-salamander-portrait-2019-mixed-media-on-paper-a5-size.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/697899226-1606828939/web-adam-ulbert-little-salamander-portrait-2019-mixed-media-on-paper-a5-size.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-little-salamander-portrait-2019-mixed-media-on-paper-a5-size.jpg",
+            "ratio": 0.70696359137504416469965917713125236332416534423828125,
+            "caption": "All images: Artist: \u00c1d\u00e1m Ulbert , 'For the Forthcoming Epoch for the Salamander', 2020, installation view, ENA Viewing Space, Budapest. Courtesy: the artist and ENA Viewing Space, Budapest; photograph: Aron Weber"
+        },
+        "content": "",
+        "id": "_s8t5siiqa",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<em>'Humans' connection to the non-human world has always oscillated between awe and familiarity, between control and embracement, exploitation and empathy. As in the realm of cultural samsara, the layers of past cultural masquerades will probably always be present. It is a matter of humility and sensitivity how one utilises it to articulate something hopefully valid in the present moment.'</em>",
+        "id": "_b501y8yw8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2013 \u00c1d\u00e1m Ulbert",
+        "id": "_dj17psodi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As a segue into our conversation, I told \u00c1d\u00e1m Ulbert about a podcast explaining the victorious survival of mammals on post-asteroid earth some 66 million years ago. The fungi that thrived in that desolate environment spared warm-blooded animals while effectively wiping out other cold-blooded species and remaining dinosaurs. Flash forward to 2019, hospitals across the globe started reporting incidents of mysterious fungal infections (Candida Auris)Candida Auris) in humans, which have shown stubborn resistance to antibiotics.",
+        "id": "_tdeLDIUSx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This is rather ominous news for us (as if we didn\u2019t have a pandemic on our hands already), but good news for amphibians like the salamander, the main protagonist in Ulbert\u2019s current exhibition at ENA Viewing Space in Budapest. He and I quickly recognized each other as kindred nerds of ecological thought and had a lengthy conversation about various influences behind his show and his views on monsters, the Anthropocene, Western dualism, fungi, nostalgia, alchemy, self-thought artists and David Attenborough, an English broadcaster and historian.",
+        "id": "_yS5ruuD6Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_vaJYR1N4t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Sonja Teszler:</strong> Fungi make numerous appearances across your paintings and publication for \u2018For the Forthcoming Epoch of the Salamander\u2019, your first solo exhibition at ENA Viewing Space, Budapest. In what ways are you thinking about them?",
+        "id": "_h3IIhX8GP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\u00c1d\u00e1m Ulbert:</strong> Originally, I didn\u2019t want to deal with fungi for this project out of respect for the fungal world. I have the feeling when a topic becomes too fashionable, it can lose its vitality. If this should happen to the mycelium, we will all obviously die out; which won\u2019t be a big deal on a galactic or planetary scale but will still hurt. So, I didn't want to deal with this just yet.",
+        "id": "_MeKjVRovb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "My focus was on the resurrection of the salamander. Of course, I found out that this certain chytrid fungus is to blame for the pandemics that have raged amongst the salamanders and amphibians around the globe for decades. I stayed with the fungi through following that track. It\u2019s a tremendous field so I\u2019m trying to take small steps at the time and be responsible.",
+        "id": "_flsol6of2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_7.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/81504821-1606828938/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_7.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_7.jpg",
+            "ratio": 1.4992503748125936002821845249854959547519683837890625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_bjyhnhi3l",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-salamanderglobe-2020-mixed-media-on-paper-a3-size.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/514103358-1606829060/web-adam-ulbert-salamanderglobe-2020-mixed-media-on-paper-a3-size.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-salamanderglobe-2020-mixed-media-on-paper-a3-size.jpg",
+            "ratio": 1.4144271570014144145943646435625851154327392578125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_1ny7j4l41",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> The salamander is associated with rebirth and transformation, also, throughout religious and folkloric histories, with magic and the occult. It strikes me as a reincarnation of the various liminal, transgressive beings that appear in your works such as <em>Fables from the Ship of Fools </em>(2018) and <em>THALASSA II. / FISH, VOLCANO, TWINS</em> (2017), whom you depict in a state of fluid entanglement between multiple bodies, heads, species, fact and fiction.",
+        "id": "_iscf9oa94",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> Some of these figures are part of our cultural memory with heavy tradition \u2013 like the monster or the fool. I find these characters to be the opposite of duality; they\u2019re intermingled creatures that have no need for categorisation. They have a myriad of consciousnesses that help us overcome our dualistic, Western dilemma. I attended a residency in South Korea for 3 months as a part of the ACC-Rijksakademie Dialogue and Exchange program in 2019 with the The Asia Culture Center in Gwangju, which helped me with my understanding of backdrops of cultural cognition that aren\u2019t based on dichotomies, such as shamanism or Buddhism.",
+        "id": "_2R1uDxwNh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> Can you talk more about this residency and how it fed into your work?",
+        "id": "_DT5zEzibs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> It was the first time I spent a long time in Southeast Asia. From the first moment, my consciousness was very heightened, almost delirious. Partly because I was ill with sinusitis and taking antibiotics for most of the time, but also because I felt that the so-called Western comprehension or its energy weren\u2019t valid for me anymore, at least not how I expected.",
+        "id": "_f94YVqXcH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Originally, I wanted to follow traces of the chytrid fungus infection (which probably stemmed somewhere in East Asia). I was also interested in the complex topic of seemingly different layers of traditional or pre-modern cultural layers that still actively influence contemporary consciousness in South Korea, such as shamanism.",
+        "id": "_2XMFQjIsf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I spent a couple of days with Mr. Hanh, the shaman on Jeju island, which was the most wonderful part of my trip. I always thought that the intuitive was more interesting in art than any general conceptualisation. However, I also didn\u2019t really have a choice but to suspend any endeavour for extensive understandings. Since my sinuses were clogged, I felt like I was in a terrarium, much like salamanders. It was a mind-altering state that lasted three months, but the trip itself was very sobering. I\u2019m still recovering and hoping to go back to some other part of Asia as soon as I can.",
+        "id": "_ZLh8YE9TD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_FtNxdOVr9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> Alongside shamanism, you also have an ongoing interest in the tradition of animism. In what ways do you find it relevant for the contemporary moment?",
+        "id": "_oSmlgHXBY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> The first time I thought animism was the missing link, was my experience with the group exhibition \u2018Animism\u2019\u2018Animism\u2019",
+        "id": "_7LlxbgEh6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "at Berliner Haus der Kulturen der Welt in 2012. It was an almost impossible show to comprehend, which is also probably the main quality about animism. Something distant but familiar, a d\u00e9javu of entanglement in accord with the humble realization that you can\u2019t untangle it and it\u2019s probably better not to.",
+        "id": "_Pv8cs1GCi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I would say animism is extremely relevant today because of the ongoing ecological shift we are experiencing. Through animism one can stay curiously open to equal realms of human, animal, plant, spirit and machinic pentagonal rhizome. I also think the human comprehension of animism really doesn\u2019t matter. Though modernity conceptualized it as a tool for understanding, I think it is also more of an ontological paste or lubricant. It is there, acting without our realisation. My current DLA research at the Hungarian University of Fine Art explores parallels between contemporary art and ecological thought and the findings of modernism and the avantgarde about the animistic nature of non-Western thought, then labelled as \u201cprimitive\u201d. I\u2019m interested in the ecological sensitivity in vernacular, self-taught, minority and/or non-academic practices outside of the dominant artistic canon.",
+        "id": "_XlHY0pDtP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-fungivase-2020-mixed-media-on-paper-a3-size.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/404348565-1606829002/web-adam-ulbert-fungivase-2020-mixed-media-on-paper-a3-size.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-fungivase-2020-mixed-media-on-paper-a3-size.jpg",
+            "ratio": 0.70696359137504416469965917713125236332416534423828125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_mgw1dqedx",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST</strong>: You\u2019ve mentioned before that you don\u2019t like the word <em>symbol</em> in relation to alchemy, which I found interesting\u2026",
+        "id": "_u4vZHgZeI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> I consider alchemical thinking to mark the very end of the history of animist knowledge or attitude in Western cognition, which is based on analogy instead of symbolism. I think analogy means connection. A certain colour or mineral in alchemy is not the symbol of a certain alchemical process or quality of object but it is somewhat the same or has a vital connection with it. I think whenever we talk about symbols, we are already distancing things from each other. The enlightened scientific approach is detaching itself from objects in order to justify utilising them without respect and care. Symbolism might be a remorse for all the dissection Western science did. But if you want to approach things, any sort, from an alchemical point of view you have to immerse yourself in the matter which is not dead. It can\u2019t be dead since it is connected to all other forms of matters. It is vital, as long as it is connected.",
+        "id": "_nt94tiOlt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ATFvzih0L",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> In the context of your exhibition, the salamander dwells in a kind of cross-spatial/temporal swamp, which is also an intermingled environment. I believe you\u2019ve also mentioned that Swamp Thing is one of your favourite monsters, who\u2019s a humanoid swamp creature from DC comics, devoted to protecting his habitat from various forms of human destruction.",
+        "id": "_c1AaKm6Ba",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> Swamp Thing was a rather dull character until Alan Moore started to take over his previous plotline and wrote him into this very complex creature in the 12-book comic series <em>Saga of the Swamp Thing</em> in 2012, in which he strongly engages with prescient contemporary socio-political and ecological issues. I think the swamp is the perfect location for multiple states of mind. To quote Michael Taussig\u2019s book <em>Palma Africana </em>(2018):",
+        "id": "_xkFg4NMez",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2018Under Western eyes the swamp is the fetid sinkhole of pestilence and rot, frightening and worse on account of its ambiguity, a nothingness, and everythingness, neither land nor water, neither life nor death but a life-in-death bubbly purulence conflating subject with object...From the eighteenth century onward in European history, the swamp was blatantly negative space. (\u2026) Swamps present something of a threat to the meaning and hence hegemony of the state with its need for hard edges.\u2019",
+        "id": "_OsB9393BZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_7N3FwLlhd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> For this exhibition, you took on the salamander\u2019s voice to make it your all-knowing narrator, arguably in the effort to move away from Anthropocentrism. Can you talk about this and its relationship to storytelling within creative practice?",
+        "id": "_CjpBFd4Nx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> I\u2019m trying to avoid storytelling all the time, but it is like a swamp dragging you back. I studied film and cultural anthropology for years, so it probably also stems from that. On the other hand, storytelling as a sort of folkloristic approach to make sense of the world that surrounds us, is also a natural drive. I hope that by converting myths and theory into stories, I\u2019m able to create more of a micro-fable than a universal declaration. Softening the edges of storytelling is something I\u2019m heading towards with this booklet of the salamander\u2019s monologue. I thought assigning this task to the salamander would make it less arrogant and more credible. You\u2019re hearing an annunciation about ecology from a creature that is closer to animist sensibility. It is of course anthropomorphising the salamander, but currently I don\u2019t have a better language to access it. I like Jane Bennett\u2019s remarks in her book <em>Vibrant Matter: A Political Ecology of Things</em> (2009) on how anthropomorphism might create additional empathy towards the more -than- human world, much like in the works of self-taught artists.",
+        "id": "_kScWFUzLp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Challenging anthropocentric thinking is probably the toughest mission we, as humankind, can set ourselves. I\u2019m definitely inspired by the likes of Georges Bataille, who\u2019s transgressive, revolutionary thinking has pushed Anthropocentric boundaries. In general, we still all have the challenges of early modernism, such as ethnocentric and phallocentric thinking. But I don\u2019t think that problem solving is a linear process, so there is still hope.",
+        "id": "_VucXrdE2i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-still-life-with-mask-snake-and-mushroom-2020-oil-on-linen-120x90-cm.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/975204382-1606828935/web-adam-ulbert-still-life-with-mask-snake-and-mushroom-2020-oil-on-linen-120x90-cm.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-still-life-with-mask-snake-and-mushroom-2020-oil-on-linen-120x90-cm.jpg",
+            "ratio": 0.775193798449612447853951380238868296146392822265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_2vobprkhf",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_5.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/2115762517-1606829457/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_5.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_5.jpg",
+            "ratio": 0.66666666666666662965923251249478198587894439697265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_ify9bth5t",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> What do you think about David Attenborough-style narration and romanticized documentaries about the natural world?",
+        "id": "_R7shBuDFj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> I was recently talking with a 16-year-old and she told me that one of the reasons why she likes the new \u2018tragic\u2019 Attenborough is, because it feels nostalgic even for her. And through nostalgia and beauty she can more easily process the dark landscape Attenborough creates. She is already anxious about the crisis we have, and she is also trying to act on it, but she doesn\u2019t always need to be confronted with the brutality underneath the layers of beautiful photography and calming voice. I think that critique is very valid.",
+        "id": "_h2f5fj21o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_4sHDf2h9N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> I would say that a collective longing for a lost intimacy with nature and non-humans is prevalent in both your work and today\u2019s zeitgeist. Yet much like all other aspects of life, nostalgia is becoming a territory that is marketized and politicized. To what extent can this longing be genuine in our culture where things, ideas and signs are recycled and increasingly embedded within capitalist structures?",
+        "id": "_hJPIVjZti",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> Humans\u2019 connection to the non-human world has always oscillated between awe and familiarity, between control and embracement, exploitation and empathy. As in the realm of \u2018cultural samsara\u2019, the layers of past cultural masquerades will probably always be present. It is a matter of humility and sensitivity how one utilises it to articulate something hopefully valid in the present moment. If we consider capitalism as something that is the embodiment of the human drive \u2013 psychologically and metabolically too \u2013 then it is understandable that we want to overexploit and re-utilise it again and again. It is also a matter of systemic awareness, which doesn\u2019t happen without self-awareness, I\u2019m afraid.",
+        "id": "_q3Dy2WLdP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_9YZdh9DYv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> We\u2019ve talked about your complicated personal evolution with oil painting and bronze sculptures. Can you describe your journey with these materials and mediums?",
+        "id": "_CYVRdOIiu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_eReXKiJcv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> At the beginning, I was afraid of oil painting and the historical burden it holds. Every time I showed a painting everyone would read into it through art history and any direction I headed, I ended up with Philip Guston, whom I most admired. The only part I found stimulating was the material \u2018ontology\u2019 of oil painting and so I would emphasise on \u201coiliness\u201d.",
+        "id": "_Fxkz1PCVS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bronze is a bit of a different story. I was experimenting with showing paintings together with sculptures for years and noticed that it only worked with some dimensional distance between the two. Mould making and casting seemed like a good solution because it was the machine or hidden intelligence in the bardo pouring the matter, not me. By this method, I could gain some distance from the works as auteur. I\u2019m attracted to bronze because it reacts more visibly and actively to its environment than the initial plastic or rubber pieces I created, and there are more uncontrollable elements during the process.",
+        "id": "_9oh59fg1w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Although the different artworks are part of an underlying web of connections by a story, I want them to function independently as well. One can trace it back to its alleged narrative, but it is not crucial.",
+        "id": "_WuvNciayf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_wXHVcYerw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> Have you found an answer to what art\u2019s function can be at this point within a broader intellectual and social discourse, perhaps even universal cosmology?",
+        "id": "_ffC4Q7Ti8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> Absolutely not. Honestly, I think I stopped questioning what the role of artistic practice can be nowadays, though I can indulge in some egalitarian, solar punk-ish utopian intentions. There are many forms of somewhat legitim articulations of art, from political activism to hanging oil paintings in some rich person\u2019s salon. I selfishly think that all formats are meaningful additions to the whole, as long as they originate from proper intentions. Of course, I might be lying to myself just to avoid moral confrontation...I can\u2019t imagine any coherent strategy about the contemporary utilisation of artistic practice. That would have been too naively purist and modernist.",
+        "id": "_MzpmZalSI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/interviews+adam-ulbert-the-epoch-of-the-salamander/files/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_1.jpg",
+            "src": "http://passe-avant.net/media/pages/interviews/adam-ulbert-the-epoch-of-the-salamander/2342215573-1606829457/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_1.jpg",
+            "id": "interviews/adam-ulbert-the-epoch-of-the-salamander/web-adam-ulbert-for-the-forthcoming-epoch-of-the-salamander-ena-viewing-space_1.jpg",
+            "ratio": 0.66666666666666662965923251249478198587894439697265625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_g41dr2skk",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_FPcdOF2M1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> What\u2019s your next big project?",
+        "id": "_7uTIzUV3N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> I want to avoid big projects and, in a sense, coherent narratives in the future. I\u2019m working on an additional and slightly different presentation of the salamander piece for the Off-Biennale Budapest in the spring, curated by the xtro realm artist group. I\u2019m trying to implement a more intuitive and micro-focused practice \u2013 that might be more sustainable for me and for the collective as well.",
+        "id": "_RH6x6Ot0f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_eCWtfquAQ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>ST:</strong> Finally \u2013 if you weren\u2019t an artist what would you be?",
+        "id": "_2DpCXq2qF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>AU:</strong> A biologist.",
+        "id": "_78p2SBR7z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_24EcW2J0s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>Sonja Teszler</em></strong><em> is a curator and writer based between Budapest and London. She is Associate Curator at Kunstraum, Co-Director of the art space Wells Projects and regular contributor to Arts publications such as thisistomorrow, Calvert Journal, Floor Magazine and MAAKE. She has an MA in Contemporary Art from Sotheby\u2019s Institute London.</em>",
+        "id": "_I1T2aXzqk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><em>\u00c1d\u00e1m Ulbert</em></strong><em> (1984, Budapest) completed his studies in aesthetics, film theory and cultural anthropology (ELTE, 2003-2007) and his BA at the Moholy-Nagy University of Art and Design in Budapest in 2010. In 2014, he finished his MFA at the Sandberg Instituut in Amsterdam and participated in the prestigious two-year Rijksakademie residency program in 2016. He has had solo and duo presentation in Birmingham (2014, The Lombard Method), Amsterdam (2014, Stedelijk Museum Bureau), Budapest (Trap\u00e9z Gallery, Artkartell projectspace, Pince, ENA Viewing Space), Prague (2017, Karl\u00edn Studios) and Paris (2018, Paris Internationale). He was featured in numerous group exhibitions from Graz to Madrid, Shanghai and New York.</em>",
+        "id": "_cs05noc8n",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Date: 2020-12-02
+
+----
+
+Author:
+
+- rp0f0Nc7
+
+----
+
+Tags: 
+
+----
+
+Toggle: true
+
+----
+
+Order: -1
+
+----
+
+Cover:
+
+- >
+  web-adam-ulbert-still-life-with-mask-snake-and-mushroom-2020-oil-on-linen-120x90-cm.jpg
