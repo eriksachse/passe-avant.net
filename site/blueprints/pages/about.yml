@@ -1,0 +1,54 @@
+title: About
+preset: page
+# columns:
+#   - width: 1/2
+#     fields:
+#       headline:
+#         label: Headline
+#         type: text
+#       text:
+#         label: Text
+#         type: textarea
+#         size: huge
+
+#   - width: 1/2
+
+#     sections:
+#       content:
+#         type: fields
+#         fields:
+#           editorinchief:
+#             label: Editor-in-Chief
+#             type: text
+#           editors:
+#             label: Editors
+#             type: textarea
+#           founders:
+#             label: Founders
+#             type: textarea
+#           contact:
+#             label: Contact
+#             type: textarea
+#           email:
+#             label: Email
+#             type: email
+#           phone:
+#             label: Phone
+#             type: tel
+#           social:
+#             label: On the web
+#             type: structure
+#             fields:
+#               platform:
+#                 label: Platform
+#                 type: text
+#                 width: 1/2
+#               url:
+#                 label: URL
+#                 type: url
+#                 width: 1/2
+#       images:
+#         label: About Image
+#         type: files
+#         min: 1
+#         size: large

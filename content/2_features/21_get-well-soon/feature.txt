@@ -1,0 +1,61 @@
+Title: Get Well Soon
+
+----
+
+Subtitle: 
+
+----
+
+Place: Kunsthaus Nürnberg
+
+----
+
+Preview: Wann sind wir eigentlich 'völlig gesund'? Und wer diagnostiziert aufgrund welcher Indizien und Befunde, dass wir 'krank' sind oder es bald zu werden drohen? Ob Weltgesundheitsorganisation, Krankenkasse, Arbeitgeberin, Familienangehörige – jeder hat eine Meinung dazu, wie es uns gehen sollte und was das für unsere Rechte und Pflichten in der Gesellschaft bedeutet.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_aids-3ddanielkeller-nikkosmas_worldcommunitygridwaterfeatures4.jpg"],"src":"","alt":"","caption":"AIDS-3D (Daniel Keller &amp; Nik Kosmas), World Community Grid Water Features, 2010, installation view, Kunsthaus N\u00fcrnberg, 2019. Courtesy: the artists and Geddert Hronjec Collection Berlin; photograph: Annette Kradisch","link":"","ratio":"","crop":"false"},"id":"045f0073-c6e8-4b15-99b0-a808ba4a61ab","isHidden":false,"type":"image"},{"content":{"text":"Wann sind wir eigentlich 'v\u00f6llig gesund'? Und wer diagnostiziert aufgrund welcher Indizien und Befunde, dass wir 'krank' sind oder es bald zu werden drohen? Ob Weltgesundheitsorganisation, Krankenkasse, Arbeitgeberin, Familienangeh\u00f6rige \u2013 jeder hat eine Meinung dazu, wie es uns gehen sollte und was das f\u00fcr unsere Rechte und Pflichten in der Gesellschaft bedeutet."},"id":"7e941888-4a5c-4557-a632-0375e94e4955","isHidden":false,"type":"text"},{"content":{"text":"Die Ausstellung 'Get Well Soon' verzichtet auf klare Definitionen von 'krank' und 'gesund'. Sie blickt auf die Schwelle zwischen beiden Zust\u00e4nden, die immer aufeinander bezogen sind: Meint Gesundheit nicht letztlich auch die Anf\u00e4lligkeit daf\u00fcr, krank zu werden? Und kann Kranksein \u2013 bei allem Leid, das es hervorruft \u2013 nicht auch f\u00fcr die eigene Lebendigkeit und Eingebundenheit in das Soziale und in ganze \u00d6kosysteme sensibilisieren?"},"id":"5807646b-27d6-4cb6-9147-25b72c188ddd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_lindaweiss_einladung-zum-storen-edition-rauhnachte3.jpg"],"src":"","alt":"","caption":"Linda Wei\u00df, <em>Einladung zum St\u00f6ren, Rauhn\u00e4chte Edition<\/em>, 2019, installation view, Kunsthaus N\u00fcrnberg. Courtesy: the artist; photograph: Annette Kradisch","link":"","ratio":"","crop":"false"},"id":"bd91ec0f-f88f-4fec-b195-81455d4ff03c","isHidden":false,"type":"image"},{"content":{"text":"Als Bekr\u00e4ftigung und zugleich Hinterfragung der Idee, ges\u00fcnder durch R\u00fcckzug, Meditation und Naturverbundenheit zu werden, k\u00f6nnen Linda Wei\u00df\u2019 <em>Einladung zum St\u00f6ren<\/em> (2019) aus Keramik und Handyhaltern oder Daniel Kiss\u2019 an eine br\u00fcchige Wohlf\u00fchlumgebung mit k\u00fcnstlichen Pflanzen und transparenten Paravents erinnernde Anordnung betrachtet werden \u2013 aber auch die dekorativen Zimmerbrunnen von AIDS-3D, die mit leistungsstarken PCs kombiniert wurden, um Rechenleistung f\u00fcr gemeinn\u00fctzige Forschung bereitzustellen."},"id":"6dd2c34a-8d8f-4755-9336-33e6d386d743","isHidden":false,"type":"text"},{"content":{"text":"<br>Immer wieder trifft man auf organisch wirkende Materialien, die sich biegen, dehnen, stretchen \u2013 oder aber aufrei\u00dfen, aufweichen und verschwimmen, als wollten sie sich einer Reha-Ma\u00dfnahme des Wieder-Beweglichwerdens widersetzen. Anpassungsf\u00e4higkeit einerseits und das st\u00f6rrische Beharren auf dem Br\u00fcchigen andererseits k\u00f6nnen dabei stellvertretend f\u00fcr k\u00f6rperliche und geistige Zust\u00e4nde gelesen werden, die sich in einem Wandlungsprozess befinden."},"id":"0d37fd96-c9d6-4a60-84b8-24b286cf9ec0","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_danielkiss_installationsansicht3.jpg"],"src":"","alt":"","caption":"Daniel Kiss, installation view, 2019, Kunsthaus N\u00fcrnberg, Courtesy: the artist; photograph: Annette Kradisch","link":"","ratio":"","crop":"false"},"id":"22730eff-2f62-4348-ada3-468492632ae5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_benjaminzuber_installationsansicht.jpg"],"src":"","alt":"","caption":"Benjamin Zuber, <em>grounded<\/em>, 2019, installation view, Kunsthaus N\u00fcrnberg. Courtesy: the artist; photograph: Annette Kradisch \u00a9 VG Bild-Kunst, Bonn 2019.","link":"","ratio":"","crop":"false"},"id":"0596fd20-3ed0-44ab-9585-b6d711e6c48e","isHidden":false,"type":"image"},{"content":{"text":"Bei Benjamin Zuber m\u00fcndet die Verarbeitung eines eigenen Unfalls, getrieben von der Faszination f\u00fcr die Optik des Funktionalen in Klinikumgebungen, in einer \u00c4sthetisierung zweiten Grades, die auf Abstrahierung und Rhythmisierung von Mustern beruht. Textlich scheinen auch Kai Altmanns Sonnensegel auf krisenhafte Durchgangsstadien anzuspielen, wo in der Vermeldung individueller K\u00f6rper- und Geisteszust\u00e4nde die Lage des gesamten \u00d6kosystems mitzuschwingen beginnt."},"id":"2d64e6f6-c959-4c43-96c6-bee85ae298b2","isHidden":false,"type":"text"},{"content":{"text":"Im Hintergrund klingt Stanya Kahns und Llyn Foulkes\u2019 <em>Happy Song for You <\/em>(2011) \u2013 ein ironisch-melancholisches, beschwingt, dann wieder schleppend sich voranbewegendes St\u00fcck Musik, bebildert von Szenen zwischen F\u00fcrsorglichkeit und Bedrohung."},"id":"128d9d55-d7e7-40d6-8ab9-e17a12891207","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_stanyakahn-llynfoulkes_happysongforyou_still2.jpg"],"src":"","alt":"","caption":"<br>Stanya Kahn &amp; Lyon Foulkes, <em>Happy Song For You,<\/em> 2011, installation view, Kunsthaus N\u00fcrnberg, 2019. Courtesy: the artist and Electronic Arts Intermix (EAI), New York; photograph: Annette Kradisch","link":"","ratio":"","crop":"false"},"id":"8e332364-7713-4a73-adcb-73795a146f8c","isHidden":false,"type":"image"},{"content":{"text":"<strong>Get Well Soon <br>von #Kunst, #Selbstoptimierung und #Gesundheit<br><\/strong>7. Dezember 2019 - 16. Feburar 2020"},"id":"d1e7621c-36d8-4e66-8332-0687d4a1519e","isHidden":false,"type":"text"},{"content":{"text":"<strong>artists<\/strong><br>IDS-3D, Kari Altmann, Stanya Kahn, Daniel Kiss, Linda Wei\u00df, Benjamin Zuber"},"id":"58cd5d06-3909-4c93-a7c6-acd19983d816","isHidden":false,"type":"text"},{"content":{"text":"<strong>Kunsthaus im KunstKulturQuartier<br><\/strong>K\u00f6nigstra\u00dfe 93<br>90402 N\u00fcrnberg"},"id":"e2d73cad-a1d8-4b12-b2c1-8dd994695ba0","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  web_benjaminzuber_installationsansicht.jpg
+
+----
+
+Author:
+
+- qsu5YBmV
+
+----
+
+Published: 
+
+----
+
+Frontpage: false
+
+----
+
+Category: Exhibition Note
+
+----
+
+Date: 2020-01-19
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Cover:
+
+- >
+  web_aids-3ddanielkeller-nikkosmas_worldcommunitygridwaterfeatures4.jpg

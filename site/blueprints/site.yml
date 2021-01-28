@@ -1,3 +1,39 @@
 title: Site
-preset: pages
-unlisted: true
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  delete: false
+  duplicate: false
+  preview: false
+
+tabs:
+  content:
+    label: Content
+    icon: 📚
+    sections:
+      content_tab:
+        type: pages
+        status: listed
+        headline: Subpages
+        layout: cards
+        image:
+          ratio: 3/2
+          cover: true
+        info: "{{ page.children.count }}"
+  site:
+    label: Everything else
+    icon: 🔍
+    fields:
+      fetch: site.find("hoaboutme").text
+
+  stats:
+    label: Stats
+    icon: 📊
+    sections:
+      stats_tab:
+      fields:
+        text:
+          type: text

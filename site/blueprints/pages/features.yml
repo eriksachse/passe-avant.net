@@ -1,0 +1,31 @@
+title: Features Page
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  changeTitle: false
+  delete: false
+  duplicate: false
+  preview: false
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: feature
+
+  unlisted:
+    headline: Unlisted
+    type: pages
+    status: unlisted
+    templates: feature
+
+  published:
+    headline: Published Articles
+    type: pages
+    status: listed
+    templates: feature
+    layout: cards
+    image:
+      cover: true

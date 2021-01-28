@@ -1,0 +1,57 @@
+Title: Samantha Bohatsch
+
+----
+
+Subtitle: BB
+
+----
+
+Place: in isolation
+
+----
+
+Preview: For the exhibtion 'Body. Gaze. Power' at Kunsthalle Baden-Baden, Samantha Bohatsch created the audio-visual work *BB * which is installed in the Roman bath ruins on site. Since the exhibition is currently closed due to the pandemic, PASSE-AVANT invited the artist to work on an online version of her performance.
+
+----
+
+Text: [{"content":{"text":"For the exhibition 'Body. Gaze. Power' at Kunsthalle Baden-Baden, Samantha Bohatsch created the audio-visual work <em>BB<\/em> which is installed in the Roman bath ruins on site. Since the exhibition is currently closed due to the pandemic, PASSE-AVANT collaborated with Kunsthalle Baden-Baden and invites the artist to work on an online version of her performance."},"id":"bf3a4899-d1a1-4f6c-a987-88f19281b7a2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["01.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7f874962-5bab-486d-8e44-d33af80e79e9","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["03.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"994bf796-d737-44a3-b26a-29d9ad3f378a","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["04.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"401e9502-fe28-4d57-ae40-996e265d69ef","isHidden":false,"type":"image"},{"content":{"text":"I'm deep down<br>the pressure is growing<br>I'm losing my senses<br>my shape is melting<br>losing its borders<br>becoming fluid<br>waiting<br>to seal its fate"},"id":"a0d14039-cb2c-48f9-bd85-d834984e5d4c","isHidden":false,"type":"text"},{"content":{"text":""},"id":"192ab606-b45f-48bb-94f6-2f168b64f01a","isHidden":false,"type":"text"},{"content":{"text":""},"id":"6c721802-7c16-435d-8cb0-a2f23d671aea","isHidden":false,"type":"text"},{"content":{"text":"I look outside the window<br>and see the day fading<br>I get ready<br>to meet you at the pool"},"id":"5ab1ebc3-12f5-485b-be83-6600161bdef5","isHidden":false,"type":"text"},{"content":{"text":""},"id":"72a128f8-48ae-4ad0-abb1-30032c0928ac","isHidden":false,"type":"text"},{"content":{"text":""},"id":"2f93997c-33c4-4b51-ab45-a07494b96f97","isHidden":false,"type":"text"},{"content":{"text":"my longing is burning<br>my lips are salty<br>my body is stretching"},"id":"1539d41b-2ed9-4e1b-81ee-8f8b429e9cb1","isHidden":false,"type":"text"},{"content":{"text":""},"id":"01a3f4e5-d261-4e62-a24f-a5c6689885b3","isHidden":false,"type":"text"},{"content":{"text":"<em>come closer to me<\/em><br>"},"id":"02d470b3-56c8-4821-a55d-31a5c6384c1f","isHidden":false,"type":"text"},{"content":{"text":"your armor lays on the ground<br>around your soft throat<br>a satin scarf<br>the motion of light<br>on your skin<br>your soft shape<br>you look at me<br>shyly"},"id":"aa1df68b-582e-4a3a-888b-ae69b1b4821e","isHidden":false,"type":"text"},{"content":{"text":""},"id":"e6fc9c74-c80c-4530-a9f1-9e01d76fc4c3","isHidden":false,"type":"text"},{"content":{"text":"<em>my darling one<\/em>"},"id":"655c6454-d692-480b-b959-bbde5ef1d534","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["05.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"825778d8-f917-41fb-89a3-81542ebd033b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["06.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"865f1d4f-b9b7-4589-93e6-d1f67af09dc4","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["07.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"bc407550-263b-467b-9b66-d87388e8b417","isHidden":false,"type":"image"},{"content":{"text":""},"id":"c0aca665-2f71-411f-abc3-33bd849db90c","isHidden":false,"type":"text"},{"content":{"text":"the oil is dripping from my body<br>your hair is dark and soft and wet<br>it falls down your back<br>in waves<br>our wooden platform shoes<br>are clattering<br>on the stone floor<br>"},"id":"51ba803c-b227-4faa-8b15-f8074c2fdba7","isHidden":false,"type":"text"},{"content":{"text":"the water is hot<br>and deep blue<br>it glows softly"},"id":"ccb092eb-0217-48c3-8c44-7ee8e690c434","isHidden":false,"type":"text"},{"content":{"text":""},"id":"3fe7852d-2755-4536-b36e-3f99d18f54fd","isHidden":false,"type":"text"},{"content":{"text":"we swim<br>together<br>naked"},"id":"5543adef-0fcb-4c7f-b0b8-86d23bba072c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["08.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a32c3998-2c19-43dd-8f03-d0c13a4ff7bd","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["09.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4d2fddbb-1e75-487d-b6dc-e212132b39cd","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["10.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d52a4434-d193-4b55-addd-455765f8c489","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["11.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"96c14d8f-060c-4929-b3c9-a6718a7ea2af","isHidden":false,"type":"image"},{"content":{"text":""},"id":"ef38935d-b30e-44ad-bfa5-cdd3447c8736","isHidden":false,"type":"text"},{"content":{"text":"das Wasser l\u00e4uft an meinen Schultern herab<br>unsere Zehenspitzen<br>ber\u00fchren fast den Boden<br>das Wasser umschliesst uns<br>umh\u00fcllt uns<br>wir tauchen unter<br>kleine Wellen<br>schlagen \u00fcber unseren K\u00f6pfen zusammen<br>"},"id":"1de206f4-e20d-4008-b298-2a64b488d48b","isHidden":false,"type":"text"},{"content":{"text":""},"id":"2cb2d4fa-03d3-4f11-8061-ca1c0a90b8b0","isHidden":false,"type":"text"},{"content":{"text":"the reflections in the water<br>lines are bending<br>connecting on the surface<br>what was solid<br>becomes soft and amorphous<br>a net of colors and lines"},"id":"9cb54055-f296-49d2-94b7-ed2dbd002f46","isHidden":false,"type":"text"},{"content":{"text":""},"id":"57a0e0b6-34bb-4f6a-ab54-2c1c1e075957","isHidden":false,"type":"text"},{"content":{"text":"we lay deep in each others arms<br>my hands run down your hips, your thighs<br>I feel the softness and strength<br>you enclose my fingers<br>I feel the soft pulse<br>I am crazy for you"},"id":"fe8a87dc-015b-4137-bf1c-b85676c5c43f","isHidden":false,"type":"text"},{"content":{"text":""},"id":"ec597b23-0291-415f-b469-57eebb567979","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["12.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0b56f19f-99c3-4fa1-b414-fadd1dab752e","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["13.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6f6195f5-772e-4408-a2f9-d65d4562fc12","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["14.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7ed3162e-26d8-4b74-ade9-bee24b13c007","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["15.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0c9a8339-315c-4768-b33b-00a7ac71f6d0","isHidden":false,"type":"image"},{"content":{"text":"our molecules<br>arrange themselves<br>in a new way<br>I forget<br>where you start<br>and where I end<br>our outlines are fading<br>"},"id":"0c1ad4d3-28a4-4f51-add6-390be27bc490","isHidden":false,"type":"text"},{"content":{"text":"<em>the most beautiful thing in the world<br>is what you love<\/em><br>"},"id":"e9595c07-46cb-4a95-a351-20729ab23e6a","isHidden":false,"type":"text"},{"content":{"text":"wir liegen Seite an Seite<br>unsere Schultern ber\u00fchren sich<br>ich fasse deine Hand<br>und sinke in meine Tr\u00e4ume"},"id":"c1f2f665-c42c-4ef0-aa6f-00e58a7117a4","isHidden":false,"type":"text"},{"content":{"text":""},"id":"9dacad04-244d-44ea-8bfd-fcd7d57254f7","isHidden":false,"type":"text"},{"content":{"text":"they say<br>this is like Sodom and Gomorrah<br>for me<br>it is the best place I could be"},"id":"f5b55217-1637-47a6-8d0e-4d9852c50ac2","isHidden":false,"type":"text"},{"content":{"text":""},"id":"b804c7c9-7860-4a66-ad70-e909f1f67241","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["16.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6e7da29c-2078-44ef-b18f-eaae8fe1074e","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["17.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e500303d-bfa6-4222-aa83-5b13e873ea98","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["18.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"77ad275f-2e29-443e-9b58-5f773556dc63","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["19.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"756fa5b3-d301-4e23-9d3e-ed4585db7da4","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["20.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4e3a799d-cada-4fa1-b474-cb9753657cc6","isHidden":false,"type":"image"},{"content":{"text":"<em><a href=\"http:\/\/samanthabohatsch.com\/\">Samantha Bohatsch<\/a> (born 1984, Berlin) lives and works in Berlin. Her reading performances, sound pieces, texts, prints and installations are about fictional female protagonists who are confronted with internal or external resistances and try to overcome them. They are hybrids of personal experiences, observations from the internet, queer and feminist literature, history and pop culture. Her work has been shown at Kunsthalle Baden-Baden (D); CAN, Neuch\u00e2tel (CH); Bob's Pogo Bar\/ KW Institute for Contemporary Art Berlin; Forum Stadtpark, Graz (AT) and Kunstverein Reutlingen (D). She has been honored with artist fellowships by the Federal State Baden-W\u00fcrttemberg (D), the Arts Foundation Baden-W\u00fcrttemberg (D) and the German Academic Scholarship Foundation.<\/em>"},"id":"b4489e6b-d474-4f6c-9392-d67d6428e300","isHidden":false,"type":"text"},{"content":{"text":"<br><strong>K\u00f6rper. Blicke. Macht \u2013 Eine Kulturgeschichte des Bades<\/strong><br>7 March - 21 June"},"id":"c474bf8e-5955-4d10-bd1d-97541e8db1ce","isHidden":false,"type":"text"},{"content":{"text":"<strong>Kunsthalle Baden-Baden<\/strong><br>Lichtentaler Allee 8a<br>76530 Baden-Baden"},"id":"6a88584a-6b9c-4141-a4df-783dd54312ee","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- 09.jpg
+
+----
+
+Author:
+
+- AGbw3wEX
+
+----
+
+Published: 
+
+----
+
+Frontpage: false
+
+----
+
+Category: Artist text
+
+----
+
+Date: 2020-04-18
+
+----
+
+Tags: Samantha Bohatsch, Performance, Reading, Sound, Video
+
+----
+
+Toggle: false
+
+----
+
+Cover: - 15.jpg

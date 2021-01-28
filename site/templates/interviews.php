@@ -1,20 +1,22 @@
-<?php snippet('header') ?>
+<?php
+snippet('header', ['template' => $page->template()])
+?>
 
-<section class="content blog">
-
-  <h1><?= $page->title()->html() ?></h1>
-  <?= $page->text()->kirbytext() ?>
-
-  <?php foreach($page->children()->listed()->flip() as $article): ?>
-
-  <article>
-    <h1><?= $article->title()->html() ?></h1>
-    <p><?= $article->text()->excerpt(300) ?></p>
-    <a href="<?= $article->url() ?>">Read more…</a>
-  </article>
-
-  <?php endforeach ?>
-
-</section>
-
+<div class="mt-28">
+    <?php
+    snippet('projects', ['template' => $page->template()])
+    ?>
+</div>
 <?php snippet('footer') ?>
+
+<script>
+    const borders = ["b1", "b2", "b3", "b4", "b5", "b6"];
+
+    const articles = document.querySelectorAll("img");
+
+    for (var i = 0; i < articles.length; i++) {
+        var randomBorder = borders[Math.floor(Math.random() * borders.length)];
+        console.log(randomBorder);
+        articles[i].classList.add(randomBorder);
+    }
+</script>

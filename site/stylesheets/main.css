@@ -1,6 +1,188 @@
 @tailwind base;
 @tailwind components;
+/*
+ * Legal Disclaimer
+ *
+ * These Fonts are licensed only for use on these domains and their subdomains:
+ * passe-avant.net
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ */
 
-/* ---- custom css and @apply components go here ---- */
+@font-face {
+  font-family: "Pirelli-Regular";
+  src: url("fonts/Pirelli-Regular.eot");
+  src: url("fonts/Pirelli-Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Pirelli-Regular.woff") format("woff"),
+    url("fonts/Pirelli-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pirelli-RegularItalic";
+  src: url("fonts/Pirelli-RegularItalic.eot");
+  src: url("fonts/Pirelli-RegularItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Pirelli-RegularItalic.woff") format("woff"),
+    url("fonts/Pirelli-RegularItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pirelli-Bold";
+  src: url("fonts/Pirelli-Bold.eot");
+  src: url("fonts/Pirelli-Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Pirelli-Bold.woff") format("woff"),
+    url("fonts/Pirelli-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pirelli-BoldItalic";
+  src: url("fonts/Pirelli-BoldItalic.eot");
+  src: url("fonts/Pirelli-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Pirelli-BoldItalic.woff") format("woff"),
+    url("fonts/Pirelli-BoldItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+  background: grey;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center; /*
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;*/
+  background: #ddd;
+  position: relative;
+
+  width: 42vw;
+  transition: border-radius 0.4s linear;
+}
+.swiper-image,
+.interviews {
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+}
+.swiper-title,
+.swiper-type {
+  position: absolute;
+  display: none;
+  top: 0;
+  margin-top: 50vh;
+}
+.swiper-type {
+  padding: 3px 10px 5px 10px;
+}
+.swiper-title {
+  margin-top: 25vh;
+  text-shadow: 1px 1px 3px #f50;
+  transition: text-shadow 0.8s linear;
+}
+.swiper-title:hover {
+  text-shadow: 1px 1px 20px #f50;
+}
+.swiper-slide-active .swiper-title,
+.swiper-slide-active .swiper-type {
+  display: block;
+}
+.swiper-pagination {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .swiper-slide {
+    width: 100vw;
+  }
+  .swiper-pagination {
+    display: block;
+  }
+}
+.orange-shadow {
+  text-shadow: 1px 1px 3px rgba(255, 102, 0, 0.8);
+}
+.home_interview {
+  color: white;
+}
+.home_review {
+  color: #f60;
+}
+.home_feature {
+  color: black;
+}
+
+.features-grid {
+  grid-template-columns: auto auto auto;
+  /* grid-auto-rows: 20px; */
+}
+
+.interviews img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 40vw;
+  margin: 0 auto;
+  display: inline-block;
+}
+.interviews a {
+}
+.interviews-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-size: 29px;
+  line-height: 31px;
+  pointer-events: none;
+  max-width: 40vw;
+}
+article img {
+  transition: border-radius 0.4s linear;
+}
+.b1:hover {
+  border-radius: 50% 20% 20% 0;
+}
+.b2:hover {
+  border-radius: 50% 4vw 50% 20%;
+}
+.b3:hover {
+  border-radius: 0 50% 0vw 20%;
+}
+.b4:hover {
+  border-radius: 0 50% 20% 0vw;
+}
+.b5:hover {
+  border-radius: 50% 20% 50% 4vw;
+}
+.b6:hover {
+  border-radius: 0vw 50% 50% 20%;
+}
 
 @tailwind utilities;
+
+.active-menu {
+  color: #f60;
+}

@@ -1,0 +1,23 @@
+title: Reviews Page
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: review
+
+  unlisted:
+    headline: Unlisted
+    type: pages
+    status: unlisted
+    templates: review
+
+  published:
+    headline: Published Reviews
+    type: pages
+    status: listed
+    templates: review
+    layout: cards
+    image:
+      cover: true

@@ -1,5 +1,8 @@
-<html><head>
-<?= css('assets/style.css') ?>
+<html>
+
+<head>
+    <?= css('assets/style.css') ?>
 </head>
-<body>
-<?php snippet('menu') ?>
+
+<body class="font-Pregular subpixel-antialiased <?php e($page->template() == "interviews", ' bg-interviews') ?>">
+    <?php snippet('menu') ?>

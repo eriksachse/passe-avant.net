@@ -1,0 +1,55 @@
+Title: TC (Take Care)
+
+----
+
+Subtitle: Samantha Bohatsch
+
+----
+
+Place: 
+
+----
+
+Preview: In Zusammenarbeit mit der Galerie Bernau bei Berlin haben wir am 30. Dezember 2020 die Performance 'TC (Take Care) von Samantha Bohatsch auf unserem Instagram-Kanal gestreamt. In Erweiterung erscheint hier der Text mit Bildern von der Performance in der Galerie.
+
+----
+
+Text: [{"content":{"text":"In Zusammenarbeit mit der Galerie Bernau bei Berlin haben wir am 30. Dezember 2020 die Performance 'TC (Take Care) von Samantha Bohatsch auf unserem Instagram-Kanal gestreamt. In Erweiterung erscheint hier der Text mit Bildern von der Performance in der Galerie."},"id":"f37652c9-2f70-4529-b31d-fc8dbb3724f8","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sam_galerie_bernau-1.jpg"],"src":"","alt":"","caption":"All photographs: Paul Niedermayer","link":"","ratio":"","crop":"false"},"id":"8950b5aa-abfe-4ba6-8bd4-a64e3d0731ab","isHidden":false,"type":"image"},{"content":{"text":"Ich fahre durch die Nacht"},"id":"6d3c4fee-4147-434c-be12-578acf66a5ab","isHidden":false,"type":"text"},{"content":{"text":"ich bin allein"},"id":"135d17dd-6205-443b-bad2-f0974a2628be","isHidden":false,"type":"text"},{"content":{"text":"<em>Der Himmel schimmert r\u00f6tlich<\/em>"},"id":"7c3c9ebd-3146-4390-957d-58d04e8f780e","isHidden":false,"type":"text"},{"content":{"text":"<p><\/p>"},"id":"e1f7bd91-982e-459e-a91f-0090685f4259","isHidden":false,"type":"text"},{"content":{"text":"Ein Stern leuchtet st\u00e4rker als die anderen"},"id":"941c527f-b357-4e4b-98fe-335a1ed9761f","isHidden":false,"type":"text"},{"content":{"text":"er zeigt mir den Weg"},"id":"eb6786b6-da15-4dda-8c79-a462d53a0143","isHidden":false,"type":"text"},{"content":{"text":"<em>I trust that I am on the right path<\/em>"},"id":"c5ad0628-089c-4bcc-89e1-22842911a5b3","isHidden":false,"type":"text"},{"content":{"text":""},"id":"7175028c-3ab2-40fd-8d50-db58a4b2d1b7","isHidden":false,"type":"text"},{"content":{"text":"<em>I think of you each step of the way<\/em>"},"id":"541336fd-427b-471f-bc64-b0d06a55a2dc","isHidden":false,"type":"text"},{"content":{"text":"<em>and I will always love you<\/em>"},"id":"8b3d6fa2-429f-4e52-9eb1-c38336bc0965","isHidden":false,"type":"text"},{"content":{"text":""},"id":"58bf4b54-6ca2-449f-99fb-9bd17891f44a","isHidden":false,"type":"text"},{"content":{"text":"Wir fuhren durch die Stadt"},"id":"d4888d69-1fb3-4169-90f5-7e5957a49adc","isHidden":false,"type":"text"},{"content":{"text":"auf deinem Motorrad"},"id":"776c7558-f9ae-4709-b216-e3e49c29d9d1","isHidden":false,"type":"text"},{"content":{"text":"Wettrennen mit M\u00e4nnern"},"id":"69bc7487-a25e-4cf6-8e89-e90a7d03cc34","isHidden":false,"type":"text"},{"content":{"text":"die sich an der Ampel in dich verliebten"},"id":"352caa14-2d16-4e21-9501-3d93ba972d27","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f63f695a-d300-4188-b8a5-b7ff3d57ae98","isHidden":false,"type":"image"},{"content":{"text":""},"id":"3d8169ba-4f64-440c-8422-385f305a6ef9","isHidden":false,"type":"text"},{"content":{"text":"Ich sehe den Stern vor mir"},"id":"2e2e37df-7630-41f6-928a-0dfe79eb98b7","isHidden":false,"type":"text"},{"content":{"text":"ich fahre schneller"},"id":"d6b10a77-23eb-449b-ae86-d94a9e071655","isHidden":false,"type":"text"},{"content":{"text":""},"id":"922c32d6-ec6e-48ef-958f-e81037113de6","isHidden":false,"type":"text"},{"content":{"text":"<em>I can imagine a world<\/em>"},"id":"79419bd9-0750-4592-9370-542731960978","isHidden":false,"type":"text"},{"content":{"text":"<em>where we hold each other close<\/em>"},"id":"445146bf-4d2a-4742-9154-ea7a9ac19309","isHidden":false,"type":"text"},{"content":{"text":"Wir werden uns wiedersehen"},"id":"b5b6522e-4cea-4285-a2aa-268d2c34b739","isHidden":false,"type":"text"},{"content":{"text":"und es wird sein wie am ersten Tag"},"id":"54d76528-fb3e-43c9-8476-8e3eb097c5df","isHidden":false,"type":"text"},{"content":{"text":"<em>Doesn\u2019t have to be the last time<\/em>"},"id":"ff82e0a6-fcb4-487c-a18e-f0dbc29cc1b4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"eca4dc94-88ea-4a21-98a2-0f12a75cfddc","isHidden":false,"type":"image"},{"content":{"text":"Du und ich im Sonnenlicht"},"id":"d677cbfe-9c42-437e-8f27-8b38a52c3cc7","isHidden":false,"type":"text"},{"content":{"text":"um uns das Gras"},"id":"a847254e-1ed8-4fa3-8566-25711bb5c6a1","isHidden":false,"type":"text"},{"content":{"text":"und die Wolken"},"id":"5f40efa9-7147-468f-a1e0-5a1e8944a519","isHidden":false,"type":"text"},{"content":{"text":"du hast geleuchtet"},"id":"dc180662-237e-4bfe-9726-a6b0787d00b7","isHidden":false,"type":"text"},{"content":{"text":"<em>Dein Blick traf mich<\/em>"},"id":"7fe31e2f-ab89-4761-83b0-7c19e2933ceb","isHidden":false,"type":"text"},{"content":{"text":"<em>wie ein Blitz in mein Herz<\/em>"},"id":"1f99c784-d40f-4d3b-aa92-c7767aed3305","isHidden":false,"type":"text"},{"content":{"text":""},"id":"9a329581-764e-4daf-b30b-a8a961d29950","isHidden":false,"type":"text"},{"content":{"text":"Der Stern leuchtet auf"},"id":"cb26345a-429b-4e3d-8a36-a835c14752f6","isHidden":false,"type":"text"},{"content":{"text":"glei\u00dfendes Licht"},"id":"3848dc6a-4f34-4378-91ec-e8e1795cd969","isHidden":false,"type":"text"},{"content":{"text":""},"id":"20da0264-0987-413e-b76c-4b6fc8d3c974","isHidden":false,"type":"text"},{"content":{"text":"Ich sehe die Druckwelle"},"id":"36c1d6c1-286d-429d-823a-cf8428c39a4b","isHidden":false,"type":"text"},{"content":{"text":"sie kommt auf mich zu"},"id":"3ddd3200-0f2d-46fd-8662-440aba0ec458","isHidden":false,"type":"text"},{"content":{"text":""},"id":"d19bacf0-25c7-42f0-b034-520ff46fbf5f","isHidden":false,"type":"text"},{"content":{"text":"Ich kann nicht zur\u00fcck"},"id":"334aba53-ec28-4fa5-9e6f-e46f956a7789","isHidden":false,"type":"text"},{"content":{"text":"ich trete aufs Gas"},"id":"450e5296-7747-4448-98aa-f04e57fbb669","isHidden":false,"type":"text"},{"content":{"text":"und fahre ihr entgegen"},"id":"48699aa0-6fc8-4181-a47e-4d17689923a0","isHidden":false,"type":"text"},{"content":{"text":""},"id":"9485dcd6-e963-4f2a-961a-078ac63205a4","isHidden":false,"type":"text"},{"content":{"text":"\u00ad\u00ad\u00ad\u00ad\u00adDie B\u00e4ume brechen"},"id":"a8668580-2442-4ddc-ba3b-39fd0d63b8a1","isHidden":false,"type":"text"},{"content":{"text":"der Asphalt kr\u00fcmmt sich"},"id":"a7a59df7-6fa0-4c56-8e80-f5d7b49cd289","isHidden":false,"type":"text"},{"content":{"text":"das Metall zerrei\u00dft"},"id":"fd427725-9134-4485-878a-f3a5119339ff","isHidden":false,"type":"text"},{"content":{"text":""},"id":"ec347ac4-9a0d-414c-90f3-92772d728d5f","isHidden":false,"type":"text"},{"content":{"text":"Ich sehe dein Gesicht vor mir"},"id":"6d1c6b27-9c24-47bb-b371-3e7326e5188a","isHidden":false,"type":"text"},{"content":{"text":"du l\u00e4chelst mich an"},"id":"61b4b212-0d74-4360-a9b2-851145ca8cbc","isHidden":false,"type":"text"},{"content":{"text":"und alles ist gut"},"id":"62cda3bc-1129-401b-a369-12ea12bd7079","isHidden":false,"type":"text"},{"content":{"text":""},"id":"b542aea0-2be1-4816-ad42-9ac5a1551629","isHidden":false,"type":"text"},{"content":{"text":"Ich will deine Hand greifen"},"id":"5493ab39-4a9c-4ad0-bae0-78ad5b16229e","isHidden":false,"type":"text"},{"content":{"text":"doch meine Hand gleitet durch sie hindurch"},"id":"0a7b0b93-6543-48c9-9fc7-b67fc5153bdf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"137fea0c-9b22-4dbe-933b-610b530ef778","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5037b3c8-dc7c-4a49-8d7b-ec296d99bb1b","isHidden":false,"type":"image"},{"content":{"text":"Ich schwebe"},"id":"0ab8dba8-6936-404a-9cc3-b82f6fdf6258","isHidden":false,"type":"text"},{"content":{"text":"um mich Tausende von Glassplitter"},"id":"97e78373-e5c9-4400-8521-76a616d106dd","isHidden":false,"type":"text"},{"content":{"text":"sie glitzern wie Diamanten"},"id":"d94a60e7-fa79-436e-81cd-3f8ea4cbf899","isHidden":false,"type":"text"},{"content":{"text":"sie dringen in meine Haut ein"},"id":"15b48e27-e98e-45ab-bc4d-9cc4018ba229","isHidden":false,"type":"text"},{"content":{"text":"sie durchbrechen meine Schutzh\u00fclle"},"id":"0ae1765b-574a-4e9e-9ce8-0eeb3f792686","isHidden":false,"type":"text"},{"content":{"text":"doch ich sp\u00fcre nichts"},"id":"e499df2c-286c-4c45-99a0-e86fdf853421","isHidden":false,"type":"text"},{"content":{"text":""},"id":"3c560a12-88f5-4b30-a5fc-8a7318b0b7b1","isHidden":false,"type":"text"},{"content":{"text":"Ich wei\u00df"},"id":"6012ffee-ecb2-484e-ba54-feecb1b235d7","isHidden":false,"type":"text"},{"content":{"text":"das ist das Ende"},"id":"9fb0bda8-14e4-4c42-a78b-a25b72b7cb88","isHidden":false,"type":"text"},{"content":{"text":"aber ich habe keine Angst"},"id":"7e51af83-14e4-4314-abd8-5fc359a6c71c","isHidden":false,"type":"text"},{"content":{"text":""},"id":"e90adc6f-b671-4f4f-a41e-f29a7b8e7984","isHidden":false,"type":"text"},{"content":{"text":"Take care<br><br> "},"id":"5c06666c-df7d-4965-ac62-7862bf0b6152","isHidden":false,"type":"text"},{"content":{"text":"\u2013 Samantha Bohatsch,<em> TC <\/em>(2020)"},"id":"9bc77988-08d8-45b8-a021-bb8ef6a1d649","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- sam_galerie_bernau-1.jpg
+
+----
+
+Author: 
+
+----
+
+Published: 
+
+----
+
+Frontpage: true
+
+----
+
+Category: Artist text
+
+----
+
+Date: 2020-12-30
+
+----
+
+Tags: 
+
+----
+
+Toggle: true
+
+----
+
+Cover: - sam_galerie_bernau-2x.jpg

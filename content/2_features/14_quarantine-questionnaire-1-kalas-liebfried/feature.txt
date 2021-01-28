@@ -1,0 +1,554 @@
+Title: Quarantine Questionnaire #1 Kalas Liebfried
+
+----
+
+Subtitle: Inspired by Max Frisch, Marcel Proust and life in isolation
+
+----
+
+Category: Collaboration
+
+----
+
+Place: Munich
+
+----
+
+Preview: Due to the outspread of the coronavirus many performances have been either cancelled or postponed. In order to pay attention to the work of young artists, who are affected by these circumstances, PASSE-AVANT initiated a livestream series on Instagram titled 'Sunday's Stream On'. For the first episode, Munich based artist Kalas Liebfried did a sound performance and answered our 'Quarantine Questionnaire.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Due to the outspread of the coronavirus many performances and readings have been either cancelled or postponed. In order to pay attention to the work of young artists, who are affected by these circumstances, PASSE-AVANT initiated a livestream series on Instagram titled 'Sunday's Stream On', in which artists can perform on our channel. Inspired by questionnaires of Max Frisch, Marcel Proust and life in isolation, we ask all contributing artists to fill out our 'Quarantine Questionnaire'.",
+        "id": "_ysxna0ci9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the first episode, Munich based artist Kalas Liebfried did a sound performance which you can watch <a href=\"https://www.instagram.com/tv/B-m_98FlclZ/\">here</a>. Read his recommendations and thoughts on the coronacrisis below and scroll down to listen to the beautiful playlist that he created for us.",
+        "id": "_h0uwgusuq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/features+quarantine-questionnaire-1-kalas-liebfried/files/web_-2-kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "src": "http://passe-avant.net/media/pages/features/quarantine-questionnaire-1-kalas-liebfried/2512244737-1586593705/web_-2-kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "id": "features/quarantine-questionnaire-1-kalas-liebfried/web_-2-kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "Kalas Liebfried,<em> Black Mesa</em>, 2019, installation view, Haus der Kunst, Munich. Courtesy: the artist; photograph: Mathias R. Zausinger"
+        },
+        "content": "",
+        "id": "_767lsqv6f",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>How long have you been in quarantine?</strong>",
+        "id": "_oilna2uuy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I\u2019m not in quarantine.",
+        "id": "_2y9fnat1c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What do you miss most?</strong>",
+        "id": "_0px0m55a3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201eTake me out tonight<br>Where there's music and there's people<br>And they're young and alive<br>Driving in your carI never never want to go home\u2026\u201c<br><em><a href=\"https://www.youtube.com/watch?v=siO6dkqidc4\">The Smiths \u2013 There's a Light that Never Goes Out</a></em>",
+        "id": "_5ddb1e79a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><del>What don\u2019t you miss at all?</del></strong>",
+        "id": "_w4rm2aurv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Which music helps you through the day?</strong>",
+        "id": "_qjw6gx80z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "A loop of Takashi Kokubo\u2019s album \u201eJamaica\u201c is accompanying most of my time (you can find it in the playlist below). I love the mixture of calm natural sounds (waves, birds), Caribbean rhythms and Japanese new-age synth pads. The detemporalized structure of the pieces brings the currently shifting perception of time to a positive thinking space.",
+        "id": "_2e0fjlcbq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What was the first song that ever meant something to you?</strong>",
+        "id": "_4sple7alj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I can\u2019t remember the first one, but here you go with the last one:<br><em><a href=\"https://www.youtube.com/watch?v=frZSfExPtMc\">Lena Platonos / Savina Yiannatou \u2013 Mono Ti Skia Tis</a></em>",
+        "id": "_h3vcv1p54",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Which artwork could you devote hours to?</strong>",
+        "id": "_6OpjXr3xm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Regarding the lock down: If there was a high quality stream of Matthew Barney\u2019s complete <em>Cremaster Cycle</em> (1994\u20132002) I would join for the 8 hour session and then repeat immediately.",
+        "id": "_9e0vsasgf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/features+quarantine-questionnaire-1-kalas-liebfried/files/web_ambient-for-a-silent-forest-kalas-liebfried-pinakothek-der-moderne-2019-2019franziska-pietsch.jpg",
+            "src": "http://passe-avant.net/media/pages/features/quarantine-questionnaire-1-kalas-liebfried/282078654-1586593705/web_ambient-for-a-silent-forest-kalas-liebfried-pinakothek-der-moderne-2019-2019franziska-pietsch.jpg",
+            "id": "features/quarantine-questionnaire-1-kalas-liebfried/web_ambient-for-a-silent-forest-kalas-liebfried-pinakothek-der-moderne-2019-2019franziska-pietsch.jpg",
+            "ratio": 0.6654999999999999804600747665972448885440826416015625,
+            "caption": "Kalas Liebfried, <em>Ambient for a Silent Forest</em>, 2019, installation view, Pinakothek der Moderne, Munich. Courtesy: the artist; photograph: Franziska Pietsch"
+        },
+        "content": "",
+        "id": "_rth660zm5",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What is the best title for an artwork / book / film / album?</strong>",
+        "id": "_uqdw63m94",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "John Frusciante's album <em>To Record Only Water for Ten Days</em> (2001).",
+        "id": "_s01nur6n8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What will change after COVID-19?</strong>",
+        "id": "_capja6d6v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No idea what will really change. But I can share some general hopes: rebuilding the European Union into a humanitarian and solidary community (which is deeply missed right now), a clear shift in terms of sustainability (we may all realize that we are able to live with less during the shut down). I think we will have to work through the traumatic experiences if we want changes. So a personal hope is that there will be a period of pure and vivid Dionysian hedonism as a process of self-awareness.",
+        "id": "_ez3lev5rb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>What will probably remain the same?</strong>",
+        "id": "_82g1guzou",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Systems are lazy. Most of the things will probably remain unchanged.",
+        "id": "_cxfqj8f3q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/features+quarantine-questionnaire-1-kalas-liebfried/files/web_kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "src": "http://passe-avant.net/media/pages/features/quarantine-questionnaire-1-kalas-liebfried/4106232006-1586593705/web_kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "id": "features/quarantine-questionnaire-1-kalas-liebfried/web_kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg",
+            "ratio": 0.66649999999999998134825318629737012088298797607421875,
+            "caption": "Kalas Liebfried,<em> Black Mesa</em>, 2019, installation view, Haus der Kunst, Munich. Courtesy: the artist; photograph: Mathias R. Zausinger"
+        },
+        "content": "",
+        "id": "_6tyxbffb9",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/features+quarantine-questionnaire-1-kalas-liebfried/files/web_installation-view-selected-ambient-works-85-92-kalas-liebfried-nir-altman-2019-nir-altman.jpg",
+            "src": "http://passe-avant.net/media/pages/features/quarantine-questionnaire-1-kalas-liebfried/3808931233-1586593705/web_installation-view-selected-ambient-works-85-92-kalas-liebfried-nir-altman-2019-nir-altman.jpg",
+            "id": "features/quarantine-questionnaire-1-kalas-liebfried/web_installation-view-selected-ambient-works-85-92-kalas-liebfried-nir-altman-2019-nir-altman.jpg",
+            "ratio": 1.4992503748125936002821845249854959547519683837890625,
+            "caption": "Kalas Liebfried, <em>Selected Ambient Works 85-92</em>, 2019, installation view, Nir Altman, Munich. Courtesy: the artist and Nir Altman, Munich"
+        },
+        "content": "",
+        "id": "_5mf5iu2bf",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Which online/virtual website or project do you recommend during quarantine days?</strong>",
+        "id": "_zgm1p8xtt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Radio 80000. It\u2019s a Munich based community radio, which quickly changed its program to \u201eLive at Home\u201c after they closed the broadcast studio. You can listen to it and also see a lot of great DJs and musicians playing amazing sets and live performances surrounded by huge monstera plants. Tune in <a href=\"https://www.radio80k.de/\">here</a>.",
+        "id": "_jo8j1o5qs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Why should we listen to your playlist?</strong>",
+        "id": "_6pj7jez9z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Japanese Ambient Music from the 80s and 90s brings the ambient genre to a global and ecological level. Satoshi Ashikawa noticed that \u201cthe world of sound shouldn\u2019t be eroded by humans.\u201d Japanese ambient follows concepts of an equal relationship between nature and technology, biosphere and network. It seems like there is nothing else left during our current lock down: we go out in the nature and urban biotopes, or use technology at home. This playlist is a great soundtrack to the current state of limitation.",
+        "id": "_vxccw987b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Do you have a tip for our daily routines?</strong>",
+        "id": "_tre4mlnqm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Too much coffee makes you fall asleep!",
+        "id": "_sfilxvpwc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/features+quarantine-questionnaire-1-kalas-liebfried/files/web_kalas-liebfried-in-d-adbk-2019-kalas-liebfried.jpg",
+            "src": "http://passe-avant.net/media/pages/features/quarantine-questionnaire-1-kalas-liebfried/318291682-1586593706/web_kalas-liebfried-in-d-adbk-2019-kalas-liebfried.jpg",
+            "id": "features/quarantine-questionnaire-1-kalas-liebfried/web_kalas-liebfried-in-d-adbk-2019-kalas-liebfried.jpg",
+            "ratio": 1.498127340823970143901533447206020355224609375,
+            "caption": "Kalas Liebfried, <em>In D</em>, 2019, installation view, Akademie der Bildenden K\u00fcnste, Munich. Courtesy: the artist"
+        },
+        "content": "",
+        "id": "_tql78wwcf",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>A Playlist of Japanese Ambient and New-Age albums</strong>",
+        "id": "_sjub5vntn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Takashi Kokubo \u2013 Jamaica \uff5e Waves And Light And Earth (1993)",
+        "id": "_jbdd3fg82",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=oi6qRw4Ry_8",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_1fyrf2wnj",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Hiroshi Yoshimura \u2013 Green (1986)",
+        "id": "_1md9aus4e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=D7aYjRl_6Zw&t=661s",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_hf76d2rw6",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Haruomi Hosono \u2013 Mercuric Dance (1985)",
+        "id": "_578u4q76p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=nZ_R9MbLiaA",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnZ_R9MbLiaA%26fbclid%3DIwAR1kAlYMKQwYJ6rFo8E4msvoi4Sr-CPIa0FHEQ4V124LRPRu6CMwbq8Yo6A&amp;h=AT1qfKR58wIx0umtNiARlZqSkzaGaK77ifzZs4TgPI3Fxl00Sy1J5Y0k0WqSuc6BuoBaaMHbPJDW03rO_aZouFDpfpnePw2qMwgcB-y0RjmMWrZfW6DXJsjNvyKtWnRk8ToJdio_XeNZ-wp8-AraWRY&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=nZ_R9MbLiaA</a></u>",
+        "id": "_b194373fz",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Hiroshi Yoshimura \u2013 Soundscape 1 surround (1986)",
+        "id": "_0l87o79c7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=ZJSuKb8YAYI&t=1s",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_pr0lqrvpo",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Hiroshi Yoshimura \u2013 A\u00b7I\u00b7R (Air In Resort) (1984)",
+        "id": "_j1hy98zms",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=ProvVFrF6b8",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_yys4hn4zr",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Hiroshi Yoshimura \u2013 Music For Nine Post Cards (1982)",
+        "id": "_3xwkyy0wk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": " https://www.youtube.com/watch?v=zyY7NU4cbtY&t=1300s",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_6p3vmk6qa",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Hiroshi Yoshimura \u2013 Soft Wave For Automatic Music Box (early works 1973-76)",
+        "id": "_vbzdivvgg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=EmNknjuSpcg&list=PLd2-Mut951IT5_9MNtogj5AGQMIMFD-BP&index=14",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_uio98wdl6",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Yutaka Hirose \u2013 Soundscape 2: Nova (1986)",
+        "id": "_pwscctqbz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=4e6taeiNdxo&t=11s",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4e6taeiNdxo%26t%3D11s%26fbclid%3DIwAR1dNnEIxz9BzTHi_WKc-YldRKrorMXciHbcaKRgtAl8-Qfh8O9wsWrxLCM&amp;h=AT3RM7yL0z2maDYExYzQZ9AVtv-_KpTN4bFfRtEXTRNVJKYSPcu_XRgWKaJR9BEFPv-GjcjDUlk98k2JOWI3DMI5g2TgaNjjZaX3B6EET3QnIRAYqsFQTWBUkLQN1lfCiSr3w8Lq4Ajs2gnllsB1gLE&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=4e6taeiNdxo&amp;t=11s</a></u>",
+        "id": "_6zp3gfh87",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Takashi Kokubo \u2013 Gaudi\u2019s Dream (1992)",
+        "id": "_xdo8mgmqg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=acJ6qw0k6FA",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DacJ6qw0k6FA%26fbclid%3DIwAR1QJOR4yrdb8i9CjUgtqn0tk1v0vXb_WVtRyu95JaE6mNaSdLHJTtRcE4w&amp;h=AT0J7OrL3jEI9wJaNMjcSAuPtv6M0PE4uQoumXNrSMWnIvgC8yye-7JuNi9Q_WIN_MaXZES3ZNyb6QFfRr0uHFmLAvTwFK6k7cDeyrBoOMHBujZ3SPXOeeShvpE18Lsw3DvC-HN94UfokyoDEXghFvg&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=acJ6qw0k6FA</a></u>",
+        "id": "_bvn1ejh04",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Takashi Kokubo \u2013 Oasis Of The Wind \uff5e Forest Of Ion (1992)",
+        "id": "_xp2mms0oj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=YEgmpe8nToU",
+            "caption": ""
+        },
+        "content": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYEgmpe8nToU%26fbclid%3DIwAR3MnpQBss3U7s3dGS7E8OxK4aErYFSPlP1ohuzYbi4VR34HjWzPYbPQfUw&amp;h=AT0CexcNEQnfgaC253kARGDFy0igHr8L-q7B3t1IhjrVNpUThqvTXhxkoEBgQupQPy1lFS2ojvFHA1eZnyjBsZdllBPG7CDlPNz1FixVRz4vWPZ_gE9URjKMQ7ala8nDS5WRC2MFE6IBJF-aYPhY-Mk&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=YEgmpe8nToU</a>",
+        "id": "_7ealeqgce",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Midori Takada \u2013 Through The Looking Glass (1983)",
+        "id": "_0jz4rs5r9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=eGjHJOnmDZA&t=7s",
+            "caption": ""
+        },
+        "content": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeGjHJOnmDZA%26t%3D7s%26fbclid%3DIwAR23oyzKfnvnyGOVxrSRCQ_veBmDLSsA_WmqQUtCd6fArytYR0bhhvkHcW0&amp;h=AT3dwr-4091zd3FqAqgDcNxbZoRQpisYxkn3iSNDeIBVTrrdET3xIel0NGpYAm0eg-QxV_wTOPsiTXHJz-JyyIZXT-uiugT4kcWk0NQBFPu6uwq_S3b_Ux5btNR2xJ7Y4iksiyXq-_BhDjMGotD_8GA&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=eGjHJOnmDZA&amp;t=7s</a>",
+        "id": "_2hurty4xm",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Midori Takada \u2013 Mr Henri Rousseau's Dream (1983)",
+        "id": "_kaixh1tjc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=j5L70BkuKlo&feature=emb_title",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj5L70BkuKlo%26feature%3Demb_title%26fbclid%3DIwAR23QVYwvfKmAt7-LB2Ldt94T8HwEVlIauzjnN8gijxqgvU8mMEBjvMDLlU&amp;h=AT3FRUwI0_re3GGX5ljuLLMSwe3FkUE87pMOVf_l4_Lo2z8KT53yECWg9x3xw2-fPRBeQt8hQk-6hJLOqgjybJn5oQumYfq-N_6njk3YJJaFdr2C6KB6GXm2arJSN6Mde6Tv4pfoz_dw1EkgFElJUFg&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=j5L70BkuKlo&amp;feature=emb_title</a></u>",
+        "id": "_6o72icvr7",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Satsuki Shibano \u2013 Erik Satie (1984)",
+        "id": "_jc7rp832a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=w8buDQtwWOY&feature=emb_title",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw8buDQtwWOY%26feature%3Demb_title%26fbclid%3DIwAR3HXTyFyxkXtIG_RmYLn8oXOjxyKhYY_nG5dMPFo3wf2b6EghA5PnkPrVY&amp;h=AT1u0-mKImQ-jNOzZ24CPWMj7ZqWcg9825M55rP2zSI8RHuopXvMASi6NOASzTmrsgAMg0j8Thll8wVVPF_6MLjP6-e6nMLhWfgjaeMHYmhtJ_3UOaTIsnJSMkuH17DVVyNb4vP0FsWffAYZTpKpCTA&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=w8buDQtwWOY&amp;feature=emb_title</a></u>",
+        "id": "_s0x5ka40e",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Susumu Yokota \u2013 The Boy and the Tree (2002)",
+        "id": "_ueztwpzmy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=3qmNBqvtdjY",
+            "caption": ""
+        },
+        "content": "<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3qmNBqvtdjY%26fbclid%3DIwAR1M01WDA3T9VVreM1GWG-Go3SQ5EQ_AF-5k3bo-nszToINyGQNGRGGs6Yg&amp;h=AT3_rxT4mq4lrzuG-m4Sl3b9JO6SFvZqGFtni8QEKUZwVhHCIhZHajz0Bnz9EtKG_XR9Fs2Xh3XLWRjbzFUh8YjEsmn-QCnkmkr4EAUlOHaTpaGfTM2zNP5tD9eCetEL1m6B7TCE5zJsv0wFvYW1eBs&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=3qmNBqvtdjY</a>",
+        "id": "_nhljaonmm",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Susumu Yokota \u2013 Sakura (2000)",
+        "id": "_qey97pj9m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=BHdF4rTVLWE&t=413s",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBHdF4rTVLWE%26t%3D413s%26fbclid%3DIwAR3HXTyFyxkXtIG_RmYLn8oXOjxyKhYY_nG5dMPFo3wf2b6EghA5PnkPrVY&amp;h=AT0BxG2dVqH1u2ICyEg6GYfLiQ9UB-II6cOdI7U-J9qW6vJINOiWFBgcb538fv67tv1UZz-ANYkcApS69NzEiaOvofIXoPv0c2NMCvDGLgtGWy3fZmi-7wM-c-CQFZtlZe7hoIeCammx3vOT43fIOyE&amp;__tn__=-UK-R&amp;c%5B0%5D=AT1Jtf7l2eR-GGzU1dwdUHBoWXiP-MxVm-JM79l5wJxw3jndTasABW1wKvNjx_V4MaQwFaM-y4DPzuUNf6bjW-cewIRTYDHZrRQ5Lv21LtZiz3m4Nuvx7tEnsM8MUKmf0Gs1gFgdnV-xdmqOhsQTXQ\">https://www.youtube.com/watch?v=BHdF4rTVLWE&amp;t=413s</a></u>",
+        "id": "_vrhwdt67a",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Akira Ito \u2013 Marine Flowers (Science Fantasy) (1986)",
+        "id": "_om3vwxbih",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=fIqrqqKt12Q&list=PLd2-Mut951IT5_9MNtogj5AGQMIMFD-BP&index=13",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://www.youtube.com/watch?v=fIqrqqKt12Q&amp;list=PLd2-Mut951IT5_9MNtogj5AGQMIMFD-BP&amp;index=13\">https://www.youtube.com/watch?v=fIqrqqKt12Q&amp;list=PLd2-Mut951IT5_9MNtogj5AGQMIMFD-BP&amp;index=13</a></u>",
+        "id": "_j7vkaozuh",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Satoshi Ashikawa \u2013 Still Way (Wave Notation 2) (1982)",
+        "id": "_t19m3714g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=jaWdVJO5H98&t=1s",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://www.youtube.com/watch?v=jaWdVJO5H98&amp;t=1s\">https://www.youtube.com/watch?v=jaWdVJO5H98&amp;t=1s</a></u>",
+        "id": "_m5lgwz7vr",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Tomoyuki Asakawa \u2013 Endless Tide (1993)",
+        "id": "_pqhy2wn8z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=9fvGgaqo61s&t=1913s",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://www.youtube.com/watch?v=9fvGgaqo61s&amp;t=1913s\">https://www.youtube.com/watch?v=9fvGgaqo61s&amp;t=1913s</a></u>",
+        "id": "_cj2hz6vu3",
+        "type": "video"
+    },
+    {
+        "attrs": [],
+        "content": "Takahiko Ishikawa \u2013 The Firmament (1993)",
+        "id": "_o29tcaftr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "src": "https://www.youtube.com/watch?v=PeBjPaDQCs0&t=3s",
+            "caption": ""
+        },
+        "content": "<u><a href=\"https://www.youtube.com/watch?v=PeBjPaDQCs0&amp;t=3s\">https://www.youtube.com/watch?v=PeBjPaDQCs0&amp;t=3s</a></u><br><br>",
+        "id": "_zx9kbjfe2",
+        "type": "video"
+    }
+]
+
+----
+
+Date: 2020-04-11
+
+----
+
+Author:
+
+- TvcIkURG
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Order: 0
+
+----
+
+Cover:
+
+- >
+  web_kalas-liebfried-black-mesa-haus-der-kunst-2019-mathias-r.-zausinger.jpg

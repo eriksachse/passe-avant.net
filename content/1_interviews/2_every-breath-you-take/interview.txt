@@ -6,10 +6,6 @@ Subtitle: Alice Morey
 
 ----
 
-Person: 
-
-----
-
 Place: Hošek Contemporary, Berlin
 
 ----
@@ -18,357 +14,33 @@ Preview: Artist Alice Morey and curator Lorenzo Graf in conversation about her l
 
 ----
 
-Text:
+Text: [{"content":{"text":"Curator Lorenzo Graf in conversation with Alice Morey about her current solo exhibition \u2018Every Breath You Take\u2019 at Ho\u0161ek Contemporary, Berlin."},"id":"447da873-d8e9-45dc-b9b7-b53c38e95c43","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["aja-jacques_8.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"6892c66a-4071-4a3b-a452-0970d4babe6a","isHidden":false,"type":"image"},{"content":{"text":"<em>It\u2019s a sunny late afternoon in Sch\u00f6neberg when Alice is late for our meeting in a bar to discuss her current exhibition. The Barbarossastra\u00dfe is unexpectedly loud due to a Stra\u00dfenfest. It is crowded with hyperactive children, and young parents showing off their parental gear and their tattooed arms.<\/em>"},"id":"650c9130-5974-4b33-8b7b-8ecfbefacd08","isHidden":false,"type":"text"},{"content":{"text":"<strong>Lorenzo Graf <\/strong>Hey Alice, nice to see you here. Are you based in Berlin now?"},"id":"0b4b60b9-ee5d-4dbf-a9c1-b02b6caa6655","isHidden":false,"type":"text"},{"content":{"text":"<strong>Alice Morey<\/strong> Before the pandemic, I was hoping to live between London and Berlin. Then I felt it made sense to stay in Berlin for a while as my partner is here and my studio is based here too. Moreover, I was really lucky to get financial support in Berlin as an artist during the<em> <\/em>lockdown. I would never be able to get that in the UK. Germany is so supportive. So, while being in isolation here, I had time to produce new works and do research."},"id":"6288eef4-0e66-4a38-84f5-42b49fcf0f1c","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG<\/strong> Speaking of Berlin: when I was entering Ho\u0161ek Contemporary, I had the feeling of going into another blind spot of the city, but in the very heart of it. It\u2019s that area where Kreuzberg dissipates and somehow Mitte becomes perceptible but not really visible."},"id":"3ce7dbb5-7ce6-4e8b-bd34-38b1607b4b60","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM<\/strong> Yes and it\u2019s so central \u2013 the \u2018Museum Island\u2019 and Julia Stoschek Collection are literally just around the corner. However, the exhibition space is located at the \u2018Historischer Hafen Berlin\u2019, where historical boats are exhibited."},"id":"4181e21d-40f8-4f97-9936-ccb65ff9420d","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG<\/strong> The show itself is taking place on a boat in the water, which gave me the feeling of entering another tiny parallel universe. The motif of the boat itself has been deployed by Foucault to describe his concept of heterotopy. Since you can go everywhere with a boat it\u2019s a place that concentrates other places in itself. <a href=\"#_ftn1\">[1]<\/a>"},"id":"17634c9b-4ead-4eeb-be4b-f7c37a6f0eb2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["aja-jacques_6.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"20bc0a4a-c846-42f0-961a-eda599601a55","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["copia-di-alice_hosek_09_20-32.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"80087666-577c-4b55-b7e2-96957cd28974","isHidden":false,"type":"image"},{"content":{"text":"<strong>AM <\/strong>Yes<strong>,<\/strong> it was an empty vessel to play with. There was no lightning, no structure, nothing. So, yeah\u2026 a playground to experiment with, to build a world within."},"id":"0437ae38-3b62-496b-b68b-f77bb8989662","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>As a visitor, after having boarded via a gangway, you look down into the inside of the boat from the deck, metal panels roofing the majority of it. A self-constructed stair leads down to the semi-covered interior where the floor consists of old unstable wooden floorboards moving at every step. The wind blowing in moves the hanging textile parts of the artworks."},"id":"f7a1c816-a9f3-4922-a016-165bcc310818","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>Yes, it is the perfect setting, especially for the performance, which acted as a ceremony for the installation, activating the environment. The audience was invited to join after the ritual, to feel and touch, move around the sculptures, write on the tiles of the well. A performer was singing and stepping on one of the floorboards to produce sound. Another musician had attached contact microphones to the metal door at the back, so the sound then resonated in the atmosphere. Together with another drumming from the walls of the boat, two violinists and a clarinet awoke the silence with their melodies. The performance was transcending from calm and collected to chaos, panic, almost violence. Then it stopped and finished with a slow, more hopeful ending. Then, rapping and singing started, performers were reading through the song, holding sheets of paper, basically playing the ship, shouting, stopping, singing again. It was really dramatic. Everything was very touching. A few people cried. I was hoping for people to feel emotional and irritated, transcending into different states of emotions."},"id":"04d7ffc4-dd5b-4a22-9c07-5295c98d56ba","isHidden":false,"type":"text"},{"content":{"text":"<em>[Heroin by Velvet Underground playing]<\/em>"},"id":"1dc459ce-f3f7-43d9-9b85-6e7b1074d21d","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>Irritation was something that I noticed, too, especially when it comes to certain lighting choices you made. The white neon tubes were very present and blinding."},"id":"13b01634-a3fc-46e1-af5d-e5834f6111ca","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM<\/strong> Yes, I wanted it to be both clinical and soft."},"id":"5e35f9dd-9564-48a1-bb26-2453644dc87e","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>This is something I really loved about the show: the \u2018being-both.\u2019"},"id":"0069090b-a0cc-4f3b-8935-6b1b73bc2ba9","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM<\/strong> Yeah, in that way, details were illuminated by warm spots, becoming a sort of stage. Linda Toivio, the curator, and I talked for ages about how to install the works. We had scaffoldings we could use, but at first, we thought that they would be too prominent; but wires across the top of the boat would have sunken. So, with the help of my partner, we created a construction attached to the outside of the boat. It was so much effort to produce this exhibition. Everything is hand-made, even the whole framework support. The raw silk, for example, was dyed at Grabowsee, where I organise a residency, by boiling it with different herbs or food-remains from the communal kitchen. The medicinal plants in the exhibition are collected and dried me, too. I had to make moulds for the latex, then the tiles\u2026Oh my God, I hate tiling. But that was something new I introduced. When I was in London doing my MA at Chelsea College of Arts, I was working with ceramic, in particular, porcelain. I developed a way to use porcelain to represent bones in the form of broken chains, that link works together and act as a fragile support for everything \u2013 a combination of fragile\/strong. In the same way, the tiles replaced this element and I used them for this exhibition as leverage, like a support for everything else. I collected the tiles from Grabowsee, and constructed the wooden structure holding them. The hand-made aspect to the works is really important, because it brings a craft element, which is apparent in all my recent work."},"id":"4eaabb5e-a90c-4b35-a247-997bd22cf70b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["alice_hosek_09_20-10.jpg"],"src":"","alt":"","caption":"Photograph: Juan J. Juste Del Valle","link":"","ratio":"","crop":"false"},"id":"7daff8c7-b753-45c9-9cd7-38c555c8890c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["copia-di-alice_hosek_09_20-56.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"ca49053a-7005-4974-9f8e-facaf24f6980","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["juan-j.-juste-del-valle_1.jpg"],"src":"","alt":"","caption":"Photograph: Juan J. Juste Del Valle","link":"","ratio":"","crop":"false"},"id":"fe712fdc-a8c6-4f40-b670-71720577c155","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["copia-di-alice_hosek_09_20-32.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"d6a79796-aeeb-4bd8-9eae-f49efdaf546a","isHidden":false,"type":"image"},{"content":{"text":"<strong>LG <\/strong>It was your first-time using tiles, right? It\u2019s an element I had never seen before in your work. But it suits well because of its surface functions as a framework, which is fragile and haptic at the same time; and then it carries that recurring topic of the regularly modular system and the fragmented one."},"id":"f9c1c9be-ca16-4568-9263-0ed7376d0f80","isHidden":false,"type":"text"},{"content":{"text":"<em>[A Sex Pistols song playing]<\/em>"},"id":"7d00d337-a6e3-4b76-9e3a-621415362e1b","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>The tiles are very central in the work <em>The<\/em> <em>Well <\/em>(2020)<strong>. <\/strong>It is the first piece you see when you approach the exhibition space. It strikes a very public tone, because it\u2019s like a monument in the middle of the room, reflecting the discourses going on in Berlin and throughout the world during the last months about statues of controversial historical figures. It consists of a phallic pillar, and some latex breast-like forms."},"id":"bc1113f3-d89f-4ee6-b9a5-1e08c46f04e2","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>I wanted it to be sexual, provocative, inviting and yet problematic."},"id":"bf38bde2-abd8-4a5e-b601-9ea0cfa0569f","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>The pillar on top of which the latex breasts are positioned works as a dignifying pedestal, suggesting a celebration of them. But that femininity being celebrated is artificially modified, penetrated by water tubes; it is shown in its working system. Femininity is not presented as something natural \u2013 maybe it is even a critique of the idea of natural femininity."},"id":"68419a63-8855-4bff-b530-3ff304c7e05e","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>Perhaps it\u2019s a comment on the way we talk about feminism? The discussions are not really working anymore, because they are not changing anything, just separating male or female. And, yet, those who identify as women are still treated differently, actually worse."},"id":"e7fc33f2-2651-4538-aa8a-af9e63b8602c","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG<\/strong> Do you think the problem is how this discourse is set, or do you criticise its effectivity?"},"id":"993d3f64-a0fd-45d6-a8ab-2be3b41f0edb","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>In the context of the show, it has more to do with the fact that this topic is very personal, because of certain abusive situations the curator and I have been in, as women, feeling vulnerable, and going through physical violence in relationships. That is why we decided for this particular concept of the exhibition \u2013 it felt necessary for both of us. And in this sense, as an example, I don\u2019t feel that \u2018feminism\u2019 is working, because why is it then that I keep meeting identified women who have been in similar situations and they don\u2019t feel like they have a voice or are made to feel that their sensitivity towards certain things is a weakness. That they have to sort themselves out, going to endless therapy sessions, and working on self-healing to \u2018fit in\u2019. It feels like \u2018erratic\u2019 emotions are still conditioned by society. You start to question yourself and feel manipulated by a \u2018male\u2019 voice. As long as everything is conditioned in a patriarchal system, and women are conditioned to think in a certain way, we won\u2019t ever go beyond that. I think it\u2019s really problematic. I\u2019m not saying that there aren\u2019t and haven\u2019t been discourses challenging this, I just feel, in my experience in everyday life, I\u2019ve noticed that a lot of things don\u2019t change. For me it\u2019s hard to articulate these things, it is a really big and complicated, layered topic. It is also not a new one. There is also a lot to talk about in terms of gender and people in society who are discriminated because of this. I produce the works instinctively while thinking about these issues a lot at the moment, and much more during lockdown; The roles of gender and the expectations of society concerning this. I\u2019ve been reading more feminist literature, especially Black feminism, one example is \u2018Your silence with not protect you\u2019 by Audre Lorde. I have fallen in love with the way she writes and her poetry. I want to think more about my role as a woman in the art world, I want to express more about that, not just for myself but also for other women. It comes from a very personal tone in situations I have felt very vulnerable as a woman, and I know that I am not alone. But on the other hand, I find it hard to be so heavy or political with my exhibitions, because I work intuitively. Therefore, I aim to be poetic, playful, and uncanny. If only some people notice, it is okay; to appreciate the work you don\u2019t need to know all of this. It\u2019s there to bring a feeling and raise questions."},"id":"8acc7307-257c-4beb-93a8-d95c90829191","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["juan-j.-juste-del-valle_8.jpg"],"src":"","alt":"","caption":"Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques","link":"","ratio":"","crop":"false"},"id":"210730ff-ac56-4d7d-b89b-6103c0ec640b","isHidden":false,"type":"image"},{"content":{"text":"<em>[silence]<\/em>"},"id":"efccd99f-47d1-492a-8840-a4394cd7bb14","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM<\/strong> So what\u2019s the question? <em>(laughs)<\/em>"},"id":"51791b6e-f680-49ba-ad3f-5516f2185246","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG<\/strong> The question is: does the soft, attacked, reacting form need the hard frame?"},"id":"e2da0f70-c99e-4356-9604-98f73dd2c83b","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>What do you mean? Within the video? Or just in general?"},"id":"4a44dce3-f617-4318-b659-55ee2e3789b9","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG<\/strong> I think it\u2019s a formal aspect recurring in your art: the paintings lying on the aggressive modular frame, on the aggressive tiles, on the aggressive voices; something that refers to how violence is acted upon things or bodies when looked at and given meaning. Every step we do, every breath we take, we do violence. And then there is the violated body which necessarily relates to that violence. To rephrase my question: Does that body need violence to be beautiful?"},"id":"60b02b20-6b79-4c30-bb61-a866a08923f4","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>I guess, I don\u2019t know if I want to say too much of what I believe in, as it is just an observation from my experiences, but it definitely fluctuates between what I think or how passionate I am about these things. I feel it goes deeper than this specific show. I feel we live in these paradoxical situations where we are, for example, sad to be happy, some things taste good or they taste bad, something to counteract what it means to feel good. Violence can be many things. In this show, I am obviously using violence from this abuse, using the song to hold it together. The song came to me intuitively\u2026 as songs sometimes do. When I was a teenager, I was obsessed with this love song after I broke up with my boyfriend. But recently, with maturity, after reading the lyrics, I realised it\u2019s a really fucked-up song. I also connected it with the times we are living in, this desperation of life, of existing, of being in the world. I think it\u2019s really relevant today \u2013 with the pandemic, everyone thinks more about what life really means, like the appreciation of the cycles of life and nature. So, going back to this violence, I feel like violence can be in many forms. Not just a physical thing."},"id":"1a643023-cf56-4713-a44c-77b061f8b959","isHidden":false,"type":"text"},{"content":{"text":"<strong>LG <\/strong>The title of your exhibition indirectly mentions meditation and mindfulness, where breathing is central. There, your goal is to be happy and peaceful\u2026 and to perform! So, to me, there is this contradiction in mindfulness: capitalism has found the depression and anxiety it causes, and instead of rejecting that violence, it has discovered a way to make people absorb it passively."},"id":"9acbd68f-b0eb-46b7-a671-32e04b470933","isHidden":false,"type":"text"},{"content":{"text":"<strong>AM <\/strong>Humankind is violent to itself all the time, a never-ending violence in wars, in the ways we treat refugees, for example, as a collective whole. There are many layers to it, but I feel this mindfulness, that utopic happiness is just an illusion. So, violence is a topic I am working on at the moment, in its destruction. In the same way, I\u2019ve been interested in decay, and the way things form, evolve and go in and out of each other, and how you can\u2019t stop this. It\u2019s always about evolution and ecology. I think violence has a lot to play in that. It\u2019s something that works both ways \u2013 systematic and subjective."},"id":"ebdf52db-4f2a-4232-af71-5ef515c5d956","isHidden":false,"type":"text"},{"content":{"text":"<em>[Changes by David Bowie<\/em> playing]"},"id":"5df0d2ad-94c0-4605-a2a1-dd0539570659","isHidden":false,"type":"text"},{"content":{"text":"<em>We ended the meeting with a second beer, talking about curation, money, and how hungry we were. Outside it was twilight and we walked to Nollendorfplatz.<\/em>"},"id":"04b63416-2cc5-4ca6-84b5-e246058aee84","isHidden":false,"type":"text"},{"content":{"text":""},"id":"8a82407b-126c-4a8b-b5e2-524f36b167b1","isHidden":false,"type":"text"},{"content":{"text":"[1] Foucault, Michel, Die Heterotopien. Der utopische K\u00f6rper. Zwei Radiovortr\u00e4ge, Berlin 2013 [Radiovortr\u00e4ge ausgestrahlt im Dezember 1966 auf France Culture]"},"id":"a098663d-35a3-463b-9b56-976d45f5e1fe","isHidden":false,"type":"text"},{"content":{"text":""},"id":"a368b30a-1f42-43c2-aa64-136206033a63","isHidden":false,"type":"text"},{"content":{"text":"<strong>Alice Morey \u2013 Every Breath You Take<br><\/strong>11 September - 3 October 2020"},"id":"7933c639-46eb-46d2-8858-af9471590010","isHidden":false,"type":"text"},{"content":{"text":"curated by Linda Toivio"},"id":"60a910b2-8370-4e1c-8cfd-668fd3551378","isHidden":false,"type":"text"},{"content":{"text":"<strong>Ho\u0161ek Contemporary<\/strong><br>Fischerinsel<br>10179 Berlin"},"id":"97ff09ec-b491-481a-8210-9aaa29821c97","isHidden":false,"type":"text"}]
 
-[
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/aja-jacques_8.jpg",
-            "src": "http://www.passe-avant.net/media/pages/interviews/every-breath-you-take/1284636211-1601652653/aja-jacques_8.jpg",
-            "id": "interviews/every-breath-you-take/aja-jacques_8.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": ""
-        },
-        "content": "Curator Lorenzo Graf in conversation with Alice Morey about her current solo exhibition \u2018Every Breath You Take\u2019 at Ho\u0161ek Contemporary, Berlin.",
-        "id": "_o4ik0sanq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/aja-jacques_8.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/1284636211-1601652653/aja-jacques_8.jpg",
-            "id": "interviews/every-breath-you-take/aja-jacques_8.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_i6vdabkbw",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "<em>It\u2019s a sunny late afternoon in Sch\u00f6neberg when Alice is late for our meeting in a bar to discuss her current exhibition. The Barbarossastra\u00dfe is unexpectedly loud due to a Stra\u00dfenfest. It is crowded with hyperactive children, and young parents showing off their parental gear and their tattooed arms.</em>",
-        "id": "_fnyuax5tv",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Lorenzo Graf </strong>Hey Alice, nice to see you here. Are you based in Berlin now?",
-        "id": "_Uf8szlbeP",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Alice Morey</strong> Before the pandemic, I was hoping to live between London and Berlin. Then I felt it made sense to stay in Berlin for a while as my partner is here and my studio is based here too. Moreover, I was really lucky to get financial support in Berlin as an artist during the<em> </em>lockdown. I would never be able to get that in the UK. Germany is so supportive. So, while being in isolation here, I had time to produce new works and do research.",
-        "id": "_0oj401oy8",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG</strong> Speaking of Berlin: when I was entering Ho\u0161ek Contemporary, I had the feeling of going into another blind spot of the city, but in the very heart of it. It\u2019s that area where Kreuzberg dissipates and somehow Mitte becomes perceptible but not really visible.",
-        "id": "_cz0KJtfeE",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM</strong> Yes and it\u2019s so central \u2013 the \u2018Museum Island\u2019 and Julia Stoschek Collection are literally just around the corner. However, the exhibition space is located at the \u2018Historischer Hafen Berlin\u2019, where historical boats are exhibited.",
-        "id": "_K0OIg0Jdy",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG</strong> The show itself is taking place on a boat in the water, which gave me the feeling of entering another tiny parallel universe. The motif of the boat itself has been deployed by Foucault to describe his concept of heterotopy. Since you can go everywhere with a boat it\u2019s a place that concentrates other places in itself. <a href=\"#_ftn1\">[1]</a>",
-        "id": "_lgZFhtEIV",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/aja-jacques_6.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/4087431250-1601652646/aja-jacques_6.jpg",
-            "id": "interviews/every-breath-you-take/aja-jacques_6.jpg",
-            "ratio": 0.66666666666666662965923251249478198587894439697265625,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_8cj5c8h5r",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/copia-di-alice_hosek_09_20-32.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/873125980-1601652652/copia-di-alice_hosek_09_20-32.jpg",
-            "id": "interviews/every-breath-you-take/copia-di-alice_hosek_09_20-32.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_aa66lllye",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>Yes<strong>,</strong> it was an empty vessel to play with. There was no lightning, no structure, nothing. So, yeah\u2026 a playground to experiment with, to build a world within.",
-        "id": "_n9qeEToTq",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>As a visitor, after having boarded via a gangway, you look down into the inside of the boat from the deck, metal panels roofing the majority of it. A self-constructed stair leads down to the semi-covered interior where the floor consists of old unstable wooden floorboards moving at every step. The wind blowing in moves the hanging textile parts of the artworks.",
-        "id": "_j4pz6L6cD",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>Yes, it is the perfect setting, especially for the performance, which acted as a ceremony for the installation, activating the environment. The audience was invited to join after the ritual, to feel and touch, move around the sculptures, write on the tiles of the well. A performer was singing and stepping on one of the floorboards to produce sound. Another musician had attached contact microphones to the metal door at the back, so the sound then resonated in the atmosphere. Together with another drumming from the walls of the boat, two violinists and a clarinet awoke the silence with their melodies. The performance was transcending from calm and collected to chaos, panic, almost violence. Then it stopped and finished with a slow, more hopeful ending. Then, rapping and singing started, performers were reading through the song, holding sheets of paper, basically playing the ship, shouting, stopping, singing again. It was really dramatic. Everything was very touching. A few people cried. I was hoping for people to feel emotional and irritated, transcending into different states of emotions.",
-        "id": "_0d61ns1wy",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<em>[Heroin by Velvet Underground playing]</em>",
-        "id": "_G2d6H1cof",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>Irritation was something that I noticed, too, especially when it comes to certain lighting choices you made. The white neon tubes were very present and blinding.",
-        "id": "_3PH27f8ix",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM</strong> Yes, I wanted it to be both clinical and soft.",
-        "id": "_fCZpQzpwI",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>This is something I really loved about the show: the \u2018being-both.\u2019",
-        "id": "_01dBTCvi5",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM</strong> Yeah, in that way, details were illuminated by warm spots, becoming a sort of stage. Linda Toivio, the curator, and I talked for ages about how to install the works. We had scaffoldings we could use, but at first, we thought that they would be too prominent; but wires across the top of the boat would have sunken. So, with the help of my partner, we created a construction attached to the outside of the boat. It was so much effort to produce this exhibition. Everything is hand-made, even the whole framework support. The raw silk, for example, was dyed at Grabowsee, where I organise a residency, by boiling it with different herbs or food-remains from the communal kitchen. The medicinal plants in the exhibition are collected and dried me, too. I had to make moulds for the latex, then the tiles\u2026Oh my God, I hate tiling. But that was something new I introduced. When I was in London doing my MA at Chelsea College of Arts, I was working with ceramic, in particular, porcelain. I developed a way to use porcelain to represent bones in the form of broken chains, that link works together and act as a fragile support for everything \u2013 a combination of fragile/strong. In the same way, the tiles replaced this element and I used them for this exhibition as leverage, like a support for everything else. I collected the tiles from Grabowsee, and constructed the wooden structure holding them. The hand-made aspect to the works is really important, because it brings a craft element, which is apparent in all my recent work.",
-        "id": "_zQzZkEAK0",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/alice_hosek_09_20-10.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/2352318180-1601652652/alice_hosek_09_20-10.jpg",
-            "id": "interviews/every-breath-you-take/alice_hosek_09_20-10.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Photograph: Juan J. Juste Del Valle"
-        },
-        "content": "",
-        "id": "_oadivgmcv",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/copia-di-alice_hosek_09_20-56.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/399744385-1601652651/copia-di-alice_hosek_09_20-56.jpg",
-            "id": "interviews/every-breath-you-take/copia-di-alice_hosek_09_20-56.jpg",
-            "ratio": 0.66666666666666662965923251249478198587894439697265625,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_lqcvw6te7",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/juan-j.-juste-del-valle_1.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/298972752-1601652650/juan-j.-juste-del-valle_1.jpg",
-            "id": "interviews/every-breath-you-take/juan-j.-juste-del-valle_1.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Photograph: Juan J. Juste Del Valle"
-        },
-        "content": "",
-        "id": "_y80uu6ixq",
-        "type": "image"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/copia-di-alice_hosek_09_20-32.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/873125980-1601652652/copia-di-alice_hosek_09_20-32.jpg",
-            "id": "interviews/every-breath-you-take/copia-di-alice_hosek_09_20-32.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_lrb7cq2ub",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>It was your first-time using tiles, right? It\u2019s an element I had never seen before in your work. But it suits well because of its surface functions as a framework, which is fragile and haptic at the same time; and then it carries that recurring topic of the regularly modular system and the fragmented one.",
-        "id": "_vmzatz36w",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<em>[A Sex Pistols song playing]</em>",
-        "id": "_uNRDKAz9X",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>The tiles are very central in the work <em>The</em> <em>Well </em>(2020)<strong>. </strong>It is the first piece you see when you approach the exhibition space. It strikes a very public tone, because it\u2019s like a monument in the middle of the room, reflecting the discourses going on in Berlin and throughout the world during the last months about statues of controversial historical figures. It consists of a phallic pillar, and some latex breast-like forms.",
-        "id": "_TwfDSJUNx",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>I wanted it to be sexual, provocative, inviting and yet problematic.",
-        "id": "_QNd15K2Dz",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>The pillar on top of which the latex breasts are positioned works as a dignifying pedestal, suggesting a celebration of them. But that femininity being celebrated is artificially modified, penetrated by water tubes; it is shown in its working system. Femininity is not presented as something natural \u2013 maybe it is even a critique of the idea of natural femininity.",
-        "id": "_RFHqOMYbk",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>Perhaps it\u2019s a comment on the way we talk about feminism? The discussions are not really working anymore, because they are not changing anything, just separating male or female. And, yet, those who identify as women are still treated differently, actually worse.",
-        "id": "_zdzhd7w5x",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG</strong> Do you think the problem is how this discourse is set, or do you criticise its effectivity?",
-        "id": "_FwYw43XeI",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>In the context of the show, it has more to do with the fact that this topic is very personal, because of certain abusive situations the curator and I have been in, as women, feeling vulnerable, and going through physical violence in relationships. That is why we decided for this particular concept of the exhibition \u2013 it felt necessary for both of us. And in this sense, as an example, I don\u2019t feel that \u2018feminism\u2019 is working, because why is it then that I keep meeting identified women who have been in similar situations and they don\u2019t feel like they have a voice or are made to feel that their sensitivity towards certain things is a weakness. That they have to sort themselves out, going to endless therapy sessions, and working on self-healing to \u2018fit in\u2019. It feels like \u2018erratic\u2019 emotions are still conditioned by society. You start to question yourself and feel manipulated by a \u2018male\u2019 voice. As long as everything is conditioned in a patriarchal system, and women are conditioned to think in a certain way, we won\u2019t ever go beyond that. I think it\u2019s really problematic. I\u2019m not saying that there aren\u2019t and haven\u2019t been discourses challenging this, I just feel, in my experience in everyday life, I\u2019ve noticed that a lot of things don\u2019t change. For me it\u2019s hard to articulate these things, it is a really big and complicated, layered topic. It is also not a new one. There is also a lot to talk about in terms of gender and people in society who are discriminated because of this. I produce the works instinctively while thinking about these issues a lot at the moment, and much more during lockdown; The roles of gender and the expectations of society concerning this. I\u2019ve been reading more feminist literature, especially Black feminism, one example is \u2018Your silence with not protect you\u2019 by Audre Lorde. I have fallen in love with the way she writes and her poetry. I want to think more about my role as a woman in the art world, I want to express more about that, not just for myself but also for other women. It comes from a very personal tone in situations I have felt very vulnerable as a woman, and I know that I am not alone. But on the other hand, I find it hard to be so heavy or political with my exhibitions, because I work intuitively. Therefore, I aim to be poetic, playful, and uncanny. If only some people notice, it is okay; to appreciate the work you don\u2019t need to know all of this. It\u2019s there to bring a feeling and raise questions.",
-        "id": "_61a6lbvvw",
-        "type": "paragraph"
-    },
-    {
-        "attrs": {
-            "guid": "/pages/interviews+every-breath-you-take/files/juan-j.-juste-del-valle_8.jpg",
-            "src": "http://passe-avant.net/media/pages/interviews/every-breath-you-take/482448417-1601652652/juan-j.-juste-del-valle_8.jpg",
-            "id": "interviews/every-breath-you-take/juan-j.-juste-del-valle_8.jpg",
-            "ratio": 1.5003750937734434689474483093363232910633087158203125,
-            "caption": "Alice Morey, 'Every Breath You Take', 2020, exhibition view. Courtesy: the artist and Ho\u0161ek Contemporary, Berlin; photograph: Aja Jacques"
-        },
-        "content": "",
-        "id": "_sxxwypzq7",
-        "type": "image"
-    },
-    {
-        "attrs": [],
-        "content": "<em>[silence]</em>",
-        "id": "_Hos1sbXdn",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM</strong> So what\u2019s the question? <em>(laughs)</em>",
-        "id": "_UnsrFrkrb",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG</strong> The question is: does the soft, attacked, reacting form need the hard frame?",
-        "id": "_5w2EJtN2t",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>What do you mean? Within the video? Or just in general?",
-        "id": "_6YoRfwSkM",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG</strong> I think it\u2019s a formal aspect recurring in your art: the paintings lying on the aggressive modular frame, on the aggressive tiles, on the aggressive voices; something that refers to how violence is acted upon things or bodies when looked at and given meaning. Every step we do, every breath we take, we do violence. And then there is the violated body which necessarily relates to that violence. To rephrase my question: Does that body need violence to be beautiful?",
-        "id": "_O5Pptdrs1",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>I guess, I don\u2019t know if I want to say too much of what I believe in, as it is just an observation from my experiences, but it definitely fluctuates between what I think or how passionate I am about these things. I feel it goes deeper than this specific show. I feel we live in these paradoxical situations where we are, for example, sad to be happy, some things taste good or they taste bad, something to counteract what it means to feel good. Violence can be many things. In this show, I am obviously using violence from this abuse, using the song to hold it together. The song came to me intuitively\u2026 as songs sometimes do. When I was a teenager, I was obsessed with this love song after I broke up with my boyfriend. But recently, with maturity, after reading the lyrics, I realised it\u2019s a really fucked-up song. I also connected it with the times we are living in, this desperation of life, of existing, of being in the world. I think it\u2019s really relevant today \u2013 with the pandemic, everyone thinks more about what life really means, like the appreciation of the cycles of life and nature. So, going back to this violence, I feel like violence can be in many forms. Not just a physical thing.",
-        "id": "_jujQ1pBys",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>LG </strong>The title of your exhibition indirectly mentions meditation and mindfulness, where breathing is central. There, your goal is to be happy and peaceful\u2026 and to perform! So, to me, there is this contradiction in mindfulness: capitalism has found the depression and anxiety it causes, and instead of rejecting that violence, it has discovered a way to make people absorb it passively.",
-        "id": "_UgbJaOKjF",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>AM </strong>Humankind is violent to itself all the time, a never-ending violence in wars, in the ways we treat refugees, for example, as a collective whole. There are many layers to it, but I feel this mindfulness, that utopic happiness is just an illusion. So, violence is a topic I am working on at the moment, in its destruction. In the same way, I\u2019ve been interested in decay, and the way things form, evolve and go in and out of each other, and how you can\u2019t stop this. It\u2019s always about evolution and ecology. I think violence has a lot to play in that. It\u2019s something that works both ways \u2013 systematic and subjective.",
-        "id": "_Mu1FBXfFb",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<em>[Changes by David Bowie</em> playing]",
-        "id": "_yBTIbaS9f",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<em>We ended the meeting with a second beer, talking about curation, money, and how hungry we were. Outside it was twilight and we walked to Nollendorfplatz.</em>",
-        "id": "_ibDRsBx8G",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_qo0y9npg3",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "[1] Foucault, Michel, Die Heterotopien. Der utopische K\u00f6rper. Zwei Radiovortr\u00e4ge, Berlin 2013 [Radiovortr\u00e4ge ausgestrahlt im Dezember 1966 auf France Culture]",
-        "id": "_tt1ylsuv5",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "",
-        "id": "_9t6fvt78c",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Alice Morey \u2013 Every Breath You Take<br></strong>11 September - 3 October 2020",
-        "id": "_tdbolgq6q",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "curated by Linda Toivio",
-        "id": "_2t6hx07sl",
-        "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "<strong>Ho\u0161ek Contemporary</strong><br>Fischerinsel<br>10179 Berlin",
-        "id": "_iiaa56sxe",
-        "type": "paragraph"
-    }
-]
+----
+
+Thumbnail:
+
+- aja-jacques_6.jpg
+
+----
+
+Author: 
+
+----
+
+Published: 
+
+----
+
+Frontpage: false
+
+----
+
+Person: 
 
 ----
 
 Date: 2020-10-02
-
-----
-
-Author:
-
-- ul5E9Qx3
-- 6GTZ7kMd
 
 ----
 
@@ -384,6 +56,4 @@ Order: 1
 
 ----
 
-Cover:
-
-- aja-jacques_6.jpg
+Cover: - aja-jacques_6.jpg

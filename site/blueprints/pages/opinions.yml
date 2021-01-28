@@ -1,0 +1,23 @@
+title: Opinions Page
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: opinion
+
+  unlisted:
+    headline: Unlisted
+    type: pages
+    status: unlisted
+    templates: opinion
+
+  published:
+    headline: Published Opinions
+    type: pages
+    status: listed
+    templates: opinion
+    layout: cards
+    image:
+      cover: true

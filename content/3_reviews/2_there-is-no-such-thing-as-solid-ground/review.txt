@@ -1,0 +1,59 @@
+Title: Otobong Nkangas Poesie der Materialität
+
+----
+
+Subtitle: 
+
+----
+
+Place: Gropius Bau, Berlin
+
+----
+
+Preview: Unsere Autorin Laura Aylin Arda bespricht Otobong Nkangas Ausstellung 'There Is No Such Thing As Solid Ground' im Berliner Gropius Bau.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["gb20_p_otobong_nkanga_solid_maneuvers_2.jpg"],"src":"","alt":"","caption":"Otobong Nkanga, <em>Solid Maneuvers<\/em>, 2015, installation view, Gropius Bau, Berlin. Courtesy: Gropius Bau, Berlin; photograph: Laura Fiorio \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"2d5f40d6-51ec-4c1c-8ab2-4127c2fa0024","isHidden":false,"type":"image"},{"content":{"text":"\u201aThere\u2019s No Such Thing As Solid Ground\u2018, Otobong Nkangas erste Einzelausstellung im Berliner Gropius Bau, beschreibt einen Zustand, der sich st\u00e4ndig ver\u00e4ndernden und weiter verzweigenden Str\u00f6me von Menschen, Heimaten, aber auch von Rohstoffen, die unseren Planeten besiedeln. Verbindungen zwischen Land und K\u00f6rper sind keine best\u00e4ndigen und befinden sich im st\u00e4ndigen Fluss; Rohstoffe werden extrahiert, um die Welt transportiert und anderenorts manipuliert. Die Skulpturenserie <em>Solid Maneuvers<\/em> (2015) bezieht sich auf das Gebiet Tsumeb im heutigen Namibia, in dem zur Kolonialzeit ab Beginn des 20. Jahrhunderts deutsche Kolonialisten Mineralien, wie Gold, Kupfer, Blei und Salz abbauten. Das Kupfermineral \u201eMica\u201c, mit seiner gr\u00fcn-schimmernden Erscheinung, wird auch heute noch, unter anderem f\u00fcr die Produktion von Mobiltelefonen und Kosmetikartikeln benutzt. In Nkangas Skulpturen werden unterschiedliche Materialschichten aus Acryl, Aluminium, Blech, Erd\u00f6l, Kupfer und Stahl, die eine topografische Form abbilden, \u00fcbereinander gelagert. Diese nehmen Bezug auf den negativen Raum unter der Erde, der nach den Eingriffen in den Abbaugebieten als eine Art Wunde zur\u00fcckbleibt."},"id":"78ced82e-252b-4ffa-a5bc-727d3d2966b4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["gb20_otobong_nkanga_diaspore_performance_1151w.jpg"],"src":"","alt":"","caption":"Otobong Nkanga, <em>Diaspore<\/em>, 2017, installation view, 14 Rooms, Basel, 2014. Courtesy: Gropius Bau, Berlin \u00a9 Otobong Nkanga; photograph: Andri Pol \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"14f73c07-1832-4423-9278-089bc6c05558","isHidden":false,"type":"image"},{"content":{"text":"Bei meinem Besuch im Sommer bewegte sich eine Schwarze Performer bestimmt und aufrecht mit einer gro\u00dfen Pflanze im Blumentopf auf ihrem Kopf durch einen weiteren Raum (<em>Diaspore (2014\/2020).<\/em> Sie h\u00e4lt den Augenkontakt zu Besucher*innen und nimmt jede Ver\u00e4nderung ihrer Umwelt aufmerksam wahr. Der Boden, auf dem sie sich bewegt, ist eine topografische Karte eines unbestimmten Ortes. Vorsichtig durchquert die Performerin diese Landschaft und \u00fcberschreitet dabei zwangsl\u00e4ufig auch immer wieder Grenzen. Der Blumentopf wiegt schwer auf ihrem Kopf \u2013 sie bewegt sich mit Bedacht. Die Pflanze darin, ist eine \u201eK\u00f6nigin der Nacht\u201c (Cestrum nocturnum), die heute auch in Nigeria w\u00e4chst, Forschungsergebnissen zufolge jedoch von den Westindischen Inseln stammt. Der Performance-Titel bezieht sich auf den botanischen Begriff, \u201cdiaspore\u201d, der Fr\u00fcchte und Sporen beschreibt, die der Verbreitung von Pflanzen dienen, und nimmt Bezug auf die Entwurzelung und Migration von Menschen und Flora. Als Performer*innen (insgesamt 15) w\u00e4hlte Nkanga spezifisch Frauen, die sich der Schwarzen, afrikanischen, afro-diasporischen Community zugeh\u00f6rig f\u00fchlen. Nkanga macht dadurch darauf aufmerksam, wie nat\u00fcrliche Ressourcen, aber auch Menschen verdr\u00e4ngt und entwurzelt wurden und sich immer wieder neu anpassen mussten. Damit spannt sie einerseits ein weites Feld der Migration auf, andererseits vermittelt sie in der Performance aber auch die spezifische Lebensrealit\u00e4t der afrikanischen Diaspora."},"id":"319644e3-a652-4c41-bca1-b50461d897d3","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["gb20_p_otobong_nkanga_double_plot.jpg"],"src":"","alt":"","caption":"Otobong Nkanga in front of <em>Double Plot,<\/em> 2018, installation view, Gropius Bau, Berlin, 2020. Courtesy: Gropius Bau, Berlin; photograph: Luca Girardini \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"4922862b-dec5-40f7-93e6-4a663b073f60","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["gb20_p_otobong_nkanga_in_a_place_yet_unknown_manifest_of_strains.jpg"],"src":"","alt":"","caption":"Otobong Nkanga, <em>Manifest of Strains<\/em>, 2017, and <em>Double Plot,<\/em> 2018, installation view, Gropius Bau, Berlin, 2020. Courtesy: Gropius Bau, Berlin; photograph: Luca Girardini \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"f23b6d5d-b05f-4017-b554-dc4aebfc1819","isHidden":false,"type":"image"},{"content":{"text":"Die Wandlungsf\u00e4higkeit von Rohstoffen wird besonders in der Arbeit <em>Manifest of Strains<\/em> (2017) veranschaulicht. Die ringf\u00f6rmige Skulptur ist in sieben Kammern unterteilt, in denen Materialien genutzt werden, die sich auf eines der Grundelemente \u2013 Feuer, Wasser, Luft \u2013 beziehen und w\u00e4hrend der Ausstellungsdauer physikalisch manipuliert werden. Durch die Ver\u00e4nderung der Temperatur wird beispielsweise ein thermochromer Wechsel eines Farbpigments von Schwarz zu Silber erzeugt; in einer anderen Kammer herrscht eine Luftkompression vor und eine weitere wird mit Wasser bef\u00fcllt, sodass sie rostet."},"id":"598e2d7d-bc06-4eb3-b4f9-17c7196c1165","isHidden":false,"type":"text"},{"content":{"text":"Diesen Vorg\u00e4ngen gibt Nkanga eine poetische Lesart. Sie sollen emotionale Zust\u00e4nde wie Melancholie, Taubheit und Wut versinnbildlichen und diese in ihrer ganz eigenen Sprache des Materials begreifbar machen. Die durch den Kolonialismus und den Klimawandel hervorgerufenen Zust\u00e4nde zeugen davon, wie stark die Nachfrage nach Rohstoffen das Schicksal verschiedenster Bev\u00f6lkerungsgruppen beeinflusst, gar gesteuert hat. Jene Verstrickungen von K\u00f6rpern und Landschaften und deren menschliche, geologische und politische Konsequenzen werden in dem Wandteppich <em>Double Plot<\/em> (2018) deutlich. Er schmiegt sich wie eine zweite Sph\u00e4re um <em>Manifest of Strains<\/em> und gibt den einzelnen chemischen und physikalischen Reaktionen des Materials ein Gesicht. Fotografien, die in eine menschliche Maschinerie der Einwirkung auf die Umwelt eingebunden sind, zeigen konkrete Beispiele politischer Unruhen, wie die \u00e4gyptischen Volksaufst\u00e4nden in Kairo (2011)."},"id":"b90cb3ed-0c9a-493c-85b0-039552e5dfe8","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["gb20_p_otobong_nkanga_taste_of_a_stone_1.jpg"],"src":"","alt":"","caption":"Otobong Nkanga, <em>Taste of a Stone<\/em>, 2020, installation view, Gropius Bau, Berlin, 2020. Courtesy: Gropius Bau, Berlin; photograph: Luca Girardini \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"d0885680-b50e-4efa-9597-06b4196b502c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["gb20_p_otobong_nkanga_taste_of_a_stone_2.jpg"],"src":"","alt":"","caption":"Otobong Nkanga, <em>Taste of a Stone<\/em> (detail), 2020, installation view, Gropius Bau, Berlin, 2020. Courtesy: Gropius Bau, Berlin; photograph: Luca Girardini \u00a9 Otobong Nkanga","link":"","ratio":"","crop":"false"},"id":"d3f0f829-74ab-4c0c-8608-654f78d98a10","isHidden":false,"type":"image"},{"content":{"text":"In der Soundinstallation <em>Wetin You Go Do? Oya Na<\/em> (2020), die sich im letzten Raum der Ausstellung befindet, ert\u00f6nen abwechselnd Stimmen, Schnipslaute und Gesang aus unterschiedlichen Lautsprechern. Nkanga spricht dort in verschiedenen Akzenten und Tonlagen, die ausgepr\u00e4gte Charaktere in ganz unterschiedlichen, zum Teil gegens\u00e4tzlichen Gef\u00fchlszust\u00e4nden, vor dem inneren Auge entstehen lassen. Diese werden vor allem durch den Kontrast von British English, sowie nigerianischem Pidgin best\u00e4rkt, einer Kreolsprache, die sich im Nigerdelta entwickelte und auf dem Englischem basiert."},"id":"ab57c585-0bf8-456f-bdb2-5eac1f947808","isHidden":false,"type":"text"},{"content":{"text":"Die Auswirkungen des Imperialismus und Kolonialismus, den Raub und Handel mit Rohstoffen, sowie die Versklavung und Vertreibung von Menschen zu diesem Zweck, macht Otobong Nkanga auf vielschichtige Weise fassbar. Neben der Darstellung der Spuren von Kreolisierung \u2013 der Entstehung von diasporischen Identit\u00e4ten und Sprache \u2013 werden auch neue Verortungen und Verschmelzungsprozesse von nicht-menschlichen Entit\u00e4ten, wie Pflanzen oder Mineralien und die aus ihnen entstandenen Produkte auf poetische in den Mittelpunkt ger\u00fcckt."},"id":"be156eb1-2fe9-43b8-9161-512228b3b722","isHidden":false,"type":"text"},{"content":{"text":"<em>Otobong Nkanga (geb.1974 in Nigeria) war 2019 In House: Artist in Residence im Gropius Bau und verfolgte in dieser Zeit auch ihr Langzeitprojekt <\/em>Carved to flow<em> weiter. Das Projekt hat eine alternative Herstellung und den Vertrieb der 'O8 Black Stone'-Seife mit Ressourcen aus dem Mittelmeerraum, Nord- und Westafrika und dem mittleren Orient zum Gegenstand. \u00d6konomien der Ausbeutung sollen dabei durch ein System des Austauschs ersetzt werden. Die Gewinne aus dem Verkauf der Seife finanzieren die<\/em> Carved to Flow Foundation<em> in Nigeria, welche sich wiederum mit der Aufbereitung lokalen Wissens besch\u00e4ftigt.<\/em>"},"id":"4f5e4c7a-f8c2-4ed1-a925-22f4bb24ca22","isHidden":false,"type":"text"},{"content":{"text":"<strong>Otobong Nkanga \u2013 There\u2019s No Such Thing As Solid Ground<br><\/strong>10. Juli \u2013 13. Dezember 2020 (die Ausstellung ist momentan wegen der COVID-19 Regulierungen geschlossen)"},"id":"f5749df1-d6dc-496b-afda-d7bfe5b69516","isHidden":false,"type":"text"},{"content":{"text":"<strong>Gropius Bau<br><\/strong>Niederkirchnerstra\u00dfe 7, 10963 Berlin"},"id":"c95692de-2de2-4acc-9c86-fe315215a82c","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  gb20_otobong_nkanga_diaspore_performance_1151w.jpg
+
+----
+
+Author: 
+
+----
+
+Published: 
+
+----
+
+Frontpage: true
+
+----
+
+Date: 2020-12-10
+
+----
+
+Tags: 
+
+----
+
+Toggle: true
+
+----
+
+Order: 1
+
+----
+
+Cover:
+
+- >
+  gb20_otobong_nkanga_diaspore_performance_1151w.jpg

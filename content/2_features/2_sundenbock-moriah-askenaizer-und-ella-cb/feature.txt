@@ -1,0 +1,55 @@
+Title: Sündenbock
+
+----
+
+Subtitle: Moriah Askenaizer and Ella CB
+
+----
+
+Place: Frankfurt/Main
+
+----
+
+Preview: Moriah Askenaizer and Ella CB create a space in which the cultural damage of the scapegoat's narrative is rehabilitated and expressed through a lived and vivid mourning.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["sundenbock_thereference_3.jpg"],"src":"","alt":"","caption":"All images: 'S\u00dcNDENBOCK', 2020, exhibiton views, The Reference, Frankfurt. Courtesy: KVTV","link":"","ratio":"","crop":"false"},"id":"6fff8be3-6aa7-4a73-86d2-db816eb69139","isHidden":false,"type":"image"},{"content":{"text":"The key in her hand felt firm and steady and good because it opened the door to her world. After she slid it into the keyhole she leaned automatically against the door. She pushed with her upper body while pulling it with her left hand. She turned the key with a click. The door opened, revealing the dark entrance into the star shaped corridor where she used to sit for hours."},"id":"f9e39961-3edf-4e92-89fc-cc7860202863","isHidden":false,"type":"text"},{"content":{"text":"<br>Die Erkenntnis, dass der Gegenstand unserer Untersuchung und Erforschung, wenn wir ihn freilassen, seinerseits auf uns zukommt and doing so in its rageous, most powerful form. It is part of the respect that will remind us, that the entity of desire, hate, interest at its most benign is an entity with the same capacities as us. <br>The enlightenment is therefore not only on my side."},"id":"5d365d66-de5e-4593-abd3-1d5b5eeb0124","isHidden":false,"type":"text"},{"content":{"text":"<br>The encounter with the goat. The one with the patterned fur, the tiny one I was approaching, she came curiously sniffing and bleating towards me on her fragile newborn legs, which unexpectedly set the rest of the flock in motion towards me. I stood and reached my hand towards the newborn\u2019s curly head.<br>Instantly I saw myself surrounded by dozens of bleating goats \u2013 the boldest coming very close until they started: Sie senkten den Kopf um mich von dem Jungtier weg zu Boxen."},"id":"d2ce6db5-68a1-4435-8a32-884877ccb9bf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sundenbock_thereference_9.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a2c2c723-adf3-46b0-9bd4-fd2d3546a95c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["sundenbock_thereference_16.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"3daf95df-e51f-4b8d-ac5a-47bcd6a385af","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["sundenbock_thereference_11.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"15795491-4e3e-4765-a02b-683015bd815d","isHidden":false,"type":"image"},{"content":{"text":"I stared to my left, out the window and saw clouds, like passive ships, roll past. Then and there, I orphaned a small, glittering part of myself. I cast it out of the window to be taken in by the clouds. I succumbed. The sky was the color of a birthday. What part had I played in this total dispossession of my known kind? It was remarkable how familiar the distortion felt. As if in the contraction of a massive invisible womb, everything I experienced up till that point had prepared me to quietly and efficiently give up my own ghost."},"id":"9334abb2-3c35-4106-9fbe-362eec24b8c9","isHidden":false,"type":"text"},{"content":{"text":"<br>After she had watched the shadows cast on the walls for an hour or so, suspiciously moving and twisting at times at others still and pulsing or maybe that was only the movement of her own blood and breath, she crawled in the bed in the only dark corner of the room, where no shadows at any moment of the night were to be cast and fell asleep, her right hand flat on the chill wall of the night."},"id":"a2d0ae7a-0916-4c7f-a672-d2d7250582cd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["sundenbock_thereference_13.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0938e350-bdeb-49ad-91a5-89800ddb0bc0","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["sundenbock_thereference_15.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1f925992-3890-489c-a134-73f7bbe86008","isHidden":false,"type":"image"},{"content":{"text":"<strong>'S\u00dcNDENBOCK'<br><\/strong>18 September \u2013 9 Oktober 2020"},"id":"8b8c0e09-5d1c-4ea5-81f9-9cc5d94a056a","isHidden":false,"type":"text"},{"content":{"text":"<strong>artists<br><\/strong>Moriah Askenaizer and Ella CB<br><br><strong>The Reference <\/strong><br>Darmst\u00e4dter Landstra\u00dfe 17<br>60594 Frankfurt am Main"},"id":"98861892-e090-4218-9856-964eaea05770","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- sundenbock_thereference_9.jpg
+
+----
+
+Author: 
+
+----
+
+Published: 
+
+----
+
+Frontpage: true
+
+----
+
+Category: Exhibition Note
+
+----
+
+Date: 2020-09-29
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Cover: - sundenbock_thereference_16.jpg

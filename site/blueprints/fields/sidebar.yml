@@ -1,0 +1,27 @@
+type: group
+fields:
+  thumbnail:
+    label: Thumbnail
+    type: files
+    multiple: false
+    query: page.images
+    uploads: false
+    layout: cards
+    size: medium
+
+  author:
+    label: Author
+    type: users
+    multiple: false
+
+  published:
+    label: Published on
+    type: date
+    default: today
+
+  frontpage:
+    label: Frontpage
+    type: toggle
+    text:
+      - "Hidden"
+      - "Show"

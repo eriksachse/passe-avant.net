@@ -1,0 +1,19 @@
+type: group
+fields:
+  subtitle:
+    type: text
+
+  place:
+    type: text
+
+  preview:
+    type: text
+
+  text:
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - list
+      - image
+      - video

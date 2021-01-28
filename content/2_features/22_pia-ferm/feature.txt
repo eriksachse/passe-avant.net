@@ -1,0 +1,61 @@
+Title: Pia Ferm: In Stofflichkeit verfließen
+
+----
+
+Subtitle: Lash 23
+
+----
+
+Place: Nassauischer Kunstverein, Wiesbaden
+
+----
+
+Preview: Allein die Fassade des Nassauischen Kunstvereins ist herrschaftlich und offenbart sämtliche Charakteristika des Gebäudes, die das großbürgerliche Herz höherschlagen lassen: Sandstein, Erker, Balkon und alle Varianten verspielter Formationen und griechischer Säulenordnungen. Im herrschaftlichen Gestus empfängt die herrschaftliche Architektur ihre Besucher*innen.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_nassauischer-kunstverein-wiesbaden-lash-23-klasse-rehberger-pia-ferm-2019-foto-janine-drewes.jpg"],"src":"","alt":"","caption":"left: Pia Ferm,<strong> <\/strong><em>loop<\/em>, 2019, woven tapestry out of wool, linen, cotton, metal hanger, 30 x 40 cm; right: Elisaveta Braslavskaja, <em>Bud of Pale Lips (II)<\/em>, 2019, Terracotta ceramic, 27 x 15 x 25 cm, installation view, Nassauischer Kunstverein, Wiesbaden. Courtesy: the artists; photograph: Janine Drewes","link":"","ratio":"","crop":"false"},"id":"3d409f8a-7aa6-47be-8608-cb6729c0c986","isHidden":false,"type":"image"},{"content":{"text":"Allein die Fassade des Nassauischen Kunstvereins ist herrschaftlich und offenbart s\u00e4mtliche Charakteristika des Geb\u00e4udes, die das gro\u00dfb\u00fcrgerliche Herz h\u00f6herschlagen lassen: Sandstein, Erker, Balkon und alle Varianten verspielter Formationen und griechischer S\u00e4ulenordnungen. Im herrschaftlichen Gestus empf\u00e4ngt die repr\u00e4sentative Architektur ihre Besucher*innen; die k\u00f6rperlichen Verzierungen an der Fassade resorbieren ihren Leib und machen ihn zum Teil des plastischen Bauwerkes. Wir stehen noch vor dem Geb\u00e4ude und sind trotzdem schon in ihm drinnen."},"id":"7cd85c38-3458-4d8e-b04a-8e9e95ac54a0","isHidden":false,"type":"text"},{"content":{"text":"Beim Betreten scheinen jedoch Walter Benjamins soeben beschriebene Phantasma eines b\u00fcrgerlichen Interieurs in die Ferne ger\u00fcckt: statt Samtsofas und Kronleuchtern, begegnen den Besucher*innen schmucklose cleane wei\u00dfe W\u00e4nde, eine knarzende Holztreppe und Neonleuchtr\u00f6hren. Der White Cube trifft auf Altbauwohnung und mittendrin die Werke von K\u00fcnstler*innen der Klasse Tobias Rehberger der St\u00e4delschule."},"id":"bf3cfae9-743d-493a-b740-9707b38d063f","isHidden":false,"type":"text"},{"content":{"text":"Im oberen Geschoss angelangt, biege ich in einen gro\u00dfz\u00fcgigen Raum. Frontal zum Eingang befindet sich ein fein gewebtes St\u00fcck Stoff: ein kleiner Wandteppich. Doch die Bezeichnung scheint angesichts des bescheidenen Formates von 30 x 40 cm unpassend. \u201eGewebte Zeichnung\u201c ist bereits passender, obzwar auch diese Formel das Werk <em>loop<\/em> (2019) in seiner technischen Ausf\u00fchrung verfehlt. Schlie\u00dflich schrieb Pia Ferm nicht auf einen Grund, sondern sie bildete aus der Fl\u00e4che heraus das Motiv \u2013 die Umrisse einer Hand verweben sich in die stoffliche Struktur. Die Faust h\u00e4lt etwas fest; m\u00f6glicherweise eine Zigarette oder einen Stift."},"id":"89a8ebca-bfde-4460-86c9-33404e2b6192","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_pia-ferm-1.jpg"],"src":"","alt":"","caption":"Pia Ferm,<strong> <\/strong><em>loop<\/em>, 2019, woven tapestry out of wool, linen, cotton, metal hanger, 30 x 40 cm, installation view, Nassauischer Kunstverein, Wiesbaden. Courtesy: the artists; photograph: Janine Drewes","link":"","ratio":"","crop":"false"},"id":"0d127dcd-b74b-4352-a131-8f093dddde34","isHidden":false,"type":"image"},{"content":{"text":"Diese Hand ist inh\u00e4renter Teil der Textur und verflechtet die r\u00e4umlichen Ebenen ineinander gerade dort, wo eine Fl\u00e4che aus dichtem Blau und Grau die blauen Uml\u00e4ufe der Hand einbetten. Es scheint als w\u00fcrde die Hand in der Stofflichkeit zerflie\u00dfen. Wie im Interieur nimmt die Umgebung die leibliche Spur auf, n\u00e4ht sie sozusagen ein und so scheint sich jede Handlung in die samtenen Oberfl\u00e4chen zu signieren."},"id":"1bc1ec8b-9cd2-40d0-af2c-67f8bf6edf21","isHidden":false,"type":"text"},{"content":{"text":"Doch gen\u00fcgt dieser historisierende Abgleich allein nicht: Gerade die kr\u00e4ftig gezogene Kontur mit dickerem Garn umreist die Hand wie in einem Comic. Geschickt entstehen damit ein Vorne und Hinten \u2013 die ocker-graue Fl\u00e4che scheint nun als reiner Bildtr\u00e4ger degradiert und die Hand erstreckt sich aus ihr heraus. In ihrer graphischen Zeichenhaftigkeit hebt sie von dem Hintergrund ab und verh\u00e4lt sich pl\u00f6tzlich wie die meisten Graphiken als blo\u00dfe Linie <em>auf<\/em> dem Grund."},"id":"adef534c-427c-478a-8876-4ab6129cc1dd","isHidden":false,"type":"text"},{"content":{"text":"Obwohl <em>loop <\/em>auf den ersten Blick eventuell recht unscheinbar ist, hat die Arbeit zurecht einen prominenten Platz innerhalb der Gruppenausstellung erhalten. Wie das ehemalige B\u00fcrgerhaus seinen stickigen Pomp bewusst ausspart, changiert Pia Ferms Arbeit zwischen der (b\u00fcrgerlichen) Technik repr\u00e4sentativ-ornamentaler Tapisserien, die K\u00f6rperlichkeiten einbettet sowie der popkulturellen Repr\u00e4sentanz eines Signifikats \u2013 der iconischen Hand."},"id":"96d86d2e-32c1-4086-90de-cd442b6526a1","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_nassauischer-kunstverein-wiesbaden-lash-23-klasse-rehberger-2019-foto-janine-drewes-2.jpg"],"src":"","alt":"","caption":"Pia Ferm,<strong> <\/strong><em>aficionado<\/em>, 2019, installation view, Nassauischer Kunstverein, Wiesbaden. Courtesy: the artists; photograph: Janine Drewes","link":"","ratio":"","crop":"false"},"id":"da7ab41c-c73d-4b7d-8e91-6260f5869bd1","isHidden":false,"type":"image"},{"content":{"text":"An anderer Stelle, wird Ferms Wandteppich <em>aficionado <\/em>(2019)<em> <\/em>dem b\u00fcrgerlichen Setting mehr als gerecht. Der Titel der Arbeit geht zur\u00fcck auf das Wort Aficionado (spanisch), eine Bezeichnung f\u00fcr Liebhaber oder Connoisseure der spanischen Kultur, welches oftmals auch die spanische Tabakindustrie referiert, die nach der vermeintlichen \u201eEntdeckung\u201c Amerikas zu florieren begann. Das kolonial aufgeladene Thema sowie das gespannte Wortspiel um den Liebhaber und der altgedienten Chiffre feministischer Emanzipation (das Rauchen), greifen in einem gro\u00dfen Bogen zur\u00fcck in die Vergangenheit, einer Zeit der Unterdr\u00fcckung von Menschen, ausstaffiert mit gelblichen Teppichen und gl\u00e4nzenden Brokat-Tapeten. Die creme, wei\u00dfe und elfenbeinfarbene Oberfl\u00e4che des Teppichs w\u00f6lbt sich in verschiedene H\u00f6hen und Tiefen. Als Landschaft wird sie von Linien durchzogen \u2013 auch hier scheinen sie getr\u00f6pfelt und frei auf die Fl\u00e4che verteilt. Dass die Technik einer enormen Vorplanung bedarf und keinerlei Spontaneit\u00e4t erlaubt, sieht man dem nonchalant gezeichneten Gebilde kaum an. Die weiche Oberfl\u00e4che des gro\u00dfen Teppichs saugt die Betrachter*innen wie einst auf \u2013 die Auf- und Abstufungen im Textil erinnern an Stuck und lassen ihn in hellen Farben aus der Wand der Raumecke wachsen. Und so kommentiert doch gerade die randst\u00e4ndige H\u00e4ngung, direkt im Schatten einer Wand, die Ferms Arbeit mit einem humorvollen Zwinkern: Ein Kniff, der dieses Umfeld charmant irritiert und zur Reflexion einl\u00e4dt."},"id":"4530cce3-48fa-427f-8d00-17a7d0df5b1e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_nassauischer-kunstverein-wiesbaden-lash-23-klasse-rehberger-2019-foto-janine-drewes-3.jpg"],"src":"","alt":"","caption":"Pia Ferm,<strong> <\/strong><em>aficionado<\/em>, 2019, installation view, Nassauischer Kunstverein, Wiesbaden. Courtesy: the artist; photograph: Janine Drewes","link":"","ratio":"","crop":"false"},"id":"c30cfaed-584b-4f7f-8eb7-90d48c5076fd","isHidden":false,"type":"image"},{"content":{"text":""},"id":"3cde5466-1359-4630-a58b-c9c0fb272fd7","isHidden":false,"type":"text"},{"content":{"text":"<strong>Klasse Tobias Rehberger \/ LASH 23<br><\/strong>22. November 2019 \u2013 5. Januar 2020<br><br><strong>artists<br><\/strong>Aires de Gameiro, Alyona Volkova, B\u00e9la Feldberg, Edi Danartono, E.G. Powell, Elisaveta Braslavskaja, Hilda Stammarn\u00e4s, Immanuel Birkert, Jiwon Lee, Jiyoon Chung, Kristina Lovaas, Line Lyhne, Lukas Heerich, Nadja B\u00fcttner, Niwat Manatpiyalert, Nicholas Warburg, Pia Ferm, ra\u00fal I. lima, Robin Stretz, Stian Hansen, Su Xia und Tu\u011f\u00e7e Day\u0131o\u011flu"},"id":"b405072c-158d-4ccb-b606-8dc8b8d8fd57","isHidden":false,"type":"text"},{"content":{"text":"<strong><br>Naussauischer Kunstverein Wiesbaden<br><\/strong>Wilhelmstra\u00dfe 15<br>65185 Wiesbaden"},"id":"9578e64b-476b-4480-a1f8-1eb12faac1f1","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- web_pia-ferm-1.jpg
+
+----
+
+Author:
+
+- o7MbcM2Z
+
+----
+
+Published: 
+
+----
+
+Frontpage: false
+
+----
+
+Category: Artist text
+
+----
+
+Date: 2019-12-12
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Order: 1
+
+----
+
+Cover: - web_pia-ferm-1.jpg
