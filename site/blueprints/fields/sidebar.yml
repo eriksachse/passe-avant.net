@@ -12,10 +12,9 @@ fields:
   author:
     label: Author
     type: users
-    multiple: false
 
-  published:
-    label: Published on
+  date:
+    label: Date
     type: date
     default: today
 

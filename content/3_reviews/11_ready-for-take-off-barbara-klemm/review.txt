@@ -1,0 +1,49 @@
+Title: Ready for Take-Off
+
+----
+
+Subtitle: Barbara Klemm
+
+----
+
+Place: Galerie Peter Sillem, Frankfurt
+
+----
+
+Preview: Sculptures are defined by their three-dimensionality, but when we look at the photographs from Barbara Klemm currently shown Galerie Peter Sillem in Frankfurt, we dive into flattened images of objects that we would usually experience physically.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_dsc_03-kopie.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Roden Crater, Arizona, USA, James Turrell<\/em>, 2004, photograph, 40 x 30 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"92ec76de-543a-4dab-b005-f9730eddb4a5","isHidden":false,"type":"image"},{"content":{"text":"Sculptures are defined by their three-dimensionality, but when we look at the photographs from Barbara Klemm currently shown Galerie Peter Sillem in Frankfurt, we dive into flattened images of objects that we would usually experience physically. This shift in dimensions, however, does not detract from the beauty we would experience if we were to travel to these sculptures, which are spread across the globe. Instead, Klemm's photographs guide our gaze lends us her eyes to pay attention to the heart of the sculptures. Sometimes, I think, when looking at a sculpture, you have to find a certain angle in the space to truly understand it\u2013 it's not so easy to simply \u201clook\u201d at it. When you look at a painting or photograph presented on a wall, it seems much easier to grasp the essence of the artwork. A sculpture, in contrast, demands your full body, you have become a kind of photographer yourself to find the right angle, in order to capture the sense of it. Klemm's photographs show ancient sculptures in Egypt (<em>Abu Simbel, \u00c4gypten<\/em>, 2010), the landscape projects by James Turrell (<em>Roden Crater, Arizona, USA, James Turrell,<\/em> 2004) and make us travel from the Louvre in Paris to the world exhibition in Osaka. Klemm's gaze takes us to remote places. It is like a time-machine, a back and forth in history \u2013 always with a remaining gaze to unleash its mysteriousness, its beauty."},"id":"8440576d-b5ff-4a06-8e3c-ec944b9e7141","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web__dsc_27-kopie.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Louvre, Paris, Venus von Milo<\/em>, 1994, photograph, 30 x 40 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"63c96231-f9a4-436a-aff6-37b230d81918","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web__dsc_26-kopie.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Centre Pompidou, Paris, K\u00f6pfe Pablo Picasso,<\/em> 2000, photograph, 30 x 40 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"843e7af6-fac6-429f-971d-be6daca0ebe3","isHidden":false,"type":"image"},{"content":{"text":"Klemm's black-and-white photography does not take the colours away from the pictures, but rather directs our attention more strongly to the inherent motif, adding emotion while subtracting colours. This calculation works so well because the photographs have a certain freshness and it doesn't matter that some of the image were already taken in the 1970s. The way in which Klemm undresses the sculptures from their usual pomp, makes them more approachable. Christo and Jean-Claude might be able to hide the Reichstag and cover it cloths but they can't escape from Klemm's precise lens."},"id":"995d5b82-b1a6-4117-ae2f-a2db3ef35090","isHidden":false,"type":"text"},{"content":{"text":"For me, Klemm's photographs reveal a practice that is without comparison. As an editorial photographer for the Frankfurter Allgemeine Zeitung, she has been observing politics and society since the 1960s, but the works on view at Galerie Peter Sillem reveal, for the first time, a precise feeling for the contemplation of art. I can still remember the many times I have seen, or rather experienced, a work by James Turrell. I have so often tried to capture the works in photographs, but each time I failed. When I look at Klemm's photo of the Roden Crater, it immediately transmits the 'Turell moment': a feeling of immersion."},"id":"d021dd33-fc12-40ef-8a17-6ac397104c7b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Christo, Verh\u00fcllter Reichstag, Berlin<\/em>, 1995, photograph, 40 x 30 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"b7d70400-cef0-4c8f-8c5f-6c974644431f","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web__dsc_09-kopie.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Christo, Verh\u00fcllter Reichstag, Berlin<\/em>, 1995, photograph, 40 x 30 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"0c9a47c6-e1ca-4785-b3f4-33b67a682eab","isHidden":false,"type":"image"},{"content":{"text":"Some of the most amazing sculptures can't leave their respective place in a museum collection because they are too fragile, others were specifically created for certain places. And at this very moment, we, the visitors can neither travel to foreign places nor visit to the museum around the corner, but looking at Barbara Klemm's photographs give me hope. Her works are truly a one-way-ticket to such places of longing, to sculptures, places and communities we would like to see and engage with. That's why I invite you with this brief text about Klemm\u2019s photograph to travel without getting on a plane."},"id":"05cc7f2d-e3a6-4291-9026-8091d9e338bb","isHidden":false,"type":"text"},{"content":{"text":"Fasten your seat belt and let Barbara Klemm guide your gaze!"},"id":"69b1b99a-3ca0-4026-bdeb-bfe795cbc400","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_dsc_12-kopie.jpg"],"src":"","alt":"","caption":"Barbara Klemm, <em>Weltausstellung Osaka, Japan<\/em>, 1970, photograph, 30 x 40 cm. Courtesy: the artist and Galerie Peter Sillem, Frankfurt","link":"","ratio":"","crop":"false"},"id":"e4632152-4dce-4e05-9fa7-1f97dd08fb51","isHidden":false,"type":"image"},{"content":{"text":"<strong>Barbara Klemm \u2013 Sculptures<\/strong><br>29 February \u2013 3 May 2020"},"id":"fc3a8291-b297-4bdb-97bd-f7363136ef7b","isHidden":false,"type":"text"},{"content":{"text":"<strong>Galerie Peter Sillem<br><\/strong>Dreieichstra\u00dfe 2<br>60594 Frankfurt am Main"},"id":"348f9730-c9af-48f6-8e5d-b8439439dc13","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- web__dsc_27-kopie.jpg
+
+----
+
+Author:
+
+- yfUBPSYH
+
+----
+
+Date: 2020-04-16
+
+----
+
+Frontpage: false
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Cover: - web_dsc_12-kopie.jpg

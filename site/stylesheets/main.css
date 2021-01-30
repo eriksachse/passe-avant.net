@@ -93,13 +93,13 @@
   position: absolute;
   display: none;
   top: 0;
-  margin-top: 50vh;
+  margin-top: calc(50vh - 15.5px);
 }
 .swiper-type {
   padding: 3px 10px 5px 10px;
 }
 .swiper-title {
-  margin-top: 25vh;
+  margin-top: 15vh;
   text-shadow: 1px 1px 3px #f50;
   transition: text-shadow 0.8s linear;
 }
@@ -113,7 +113,7 @@
 .swiper-pagination {
   display: none;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
   .swiper-slide {
     width: 100vw;
   }
@@ -134,9 +134,11 @@
   color: black;
 }
 
-.features-grid {
-  grid-template-columns: auto auto auto;
-  /* grid-auto-rows: 20px; */
+.features {
+  width: calc(100% / 3);
+}
+.reviews {
+  width: 50%;
 }
 
 .interviews img {
@@ -145,6 +147,16 @@
   max-height: 40vw;
   margin: 0 auto;
   display: inline-block;
+}
+.features img {
+  display: block;
+  max-width: 100%;
+  max-height: 50vh;
+  margin: 0 auto;
+}
+.reviews img {
+  max-width: 50vw;
+  max-height: 40vw;
 }
 .interviews a {
 }
@@ -180,9 +192,32 @@ article img {
 .b6:hover {
   border-radius: 0vw 50% 50% 20%;
 }
-
+.text p {
+  margin-top: 1em;
+}
+.text p:first-child {
+  margin-top: 0;
+}
+@media only screen and (max-width: 768px) {
+  .features {
+    width: 100%;
+  }
+  .reviews {
+    width: 100%;
+  }
+}
 @tailwind utilities;
 
 .active-menu {
   color: #f60;
+}
+footer a,
+#mc-embedded-subscribe {
+  transition: text-shadow 0.2s linear;
+  cursor: pointer;
+}
+footer a:hover,
+#mc-embedded-subscribe:hover,
+.newsletter_submission {
+  text-shadow: 2px 2px 3px #ff6600;
 }

@@ -1,0 +1,61 @@
+Title: Die Ruinen der Dekadenz
+
+----
+
+Subtitle: Julian-Jakob Kneer
+
+----
+
+Place: Limbo, Berlin
+
+----
+
+Preview: Solitär steht frottage inmitten der Berliner Stadtlandschaft in einem der Glaskästen, die den Kurfürstendamm säumen und von anliegenden Geschäften als Werbeplattform genutzt, ausstaffiert oder plakatiert werden. Den Körper der Skulptur aus dumpf leuchtendem Holz hat Kneer mit einem Ornament eingeschrieben, das über Voluten, Muster und Blätter das Bild einer freien Form zeichnet – unattached und souverän.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_julian-jakob_kneer__frottage__1__installation_view.jpg"],"src":"","alt":"","caption":"Julian-Jakob Kneer, <em>frottage<\/em>, 2019, exhibition view, Limbo, Berlin. Courtesy: the artist and Limbo, Berlin","link":"","ratio":"","crop":"false"},"id":"3599ea4b-825f-4909-b51f-6b4e894432be","isHidden":false,"type":"image"},{"content":{"text":"Was kulturelle Gegenst\u00e4nde in unserer heutigen \u00d6konomie mit Wert versieht, ist nicht mehr einfach nur das Ergebnis einer kontinuierlichen Produktion m\u00f6glichst neuer Objekte. Wie die Soziologen Luc Boltanski und Arnaud Esquerre es beobachten, generiert sich Mehrwert vielmehr durch den Prozess des \u201eenrichissement\u201c (z. dt. Bereicherung), der Dinge mit Erz\u00e4hlungen und Referenzen aufl\u00e4dt. Diese wertsteigernde Logik, die sich vor allem \u00fcber den die Zeit transponierenden Verweis historischer Bez\u00fcge dekliniert, \u00fcbertragt sich beinahe wie von selbst auf das Wesen der Kunst. In ihr wird der Praxis einer sich stetig entfaltenden Erg\u00e4nzung, in der sich Narrative auf bereits vorhandenes einschleichen, zentrale Stellung gegeben. Das Objekt, das von diesen Verweisen beinahe gespenstisch heimgesucht wird, entfaltet eine Dynamik, die es zum Beh\u00e4lter jener Additionen macht, die lustvoll herbeigesehnt werden. Julian-Jakob Kneers Arbeit <em>frottage <\/em>(2019), die zuletzt im Projektraum Limbo zu sehen war, operiert auf einer Ebene, die das morbide Wesen des \u201eenrichissement\u201c zum formgebenden Prinzip erkl\u00e4rt und dabei zeigt, wie vexiert ihr Verh\u00e4ltnis zum Fetisch um Werte und Symbole ist."},"id":"7e64f113-1e11-4d98-a1df-399aacfe2ff1","isHidden":false,"type":"text"},{"content":{"text":"Solit\u00e4r steht <em>frottage<\/em> inmitten der Berliner Stadtlandschaft in einem der Glask\u00e4sten, die den Kurf\u00fcrstendamm s\u00e4umen und von anliegenden Gesch\u00e4ften als Werbeplattform genutzt, ausstaffiert oder plakatiert werden. Den K\u00f6rper der Skulptur aus dumpf leuchtendem Holz hat Kneer mit einem Ornament eingeschrieben, das \u00fcber Voluten, Muster und Bl\u00e4tter das Bild einer freien Form zeichnet \u2013 unattached und souver\u00e4n. Ein dezenter aber mit h\u00f6flich schwingenden Kassetten geschm\u00fcckter Sockel aus Blei setzt den einleitenden Rahmen, dessen Kraft zur Abgrenzung vor allem die Dekoration an sich ins Zentrum r\u00fcckt. Die frei kombinierten Verzierungen l\u00f6sen sich durch ihre Geschichtsklitterung von dezidierten Zuordnungen los, die <em>frottage<\/em> (z. dt. Abrieb) zu einem historischen Relikt, Zeitzeugen oder Archivgegenstand machen w\u00fcrden. Vielmehr wird hier die H\u00fclle zum Inhalt und das geschnitzte Holz zum Dokument f\u00fcr die symbolische Matrix, die inmitten von Erotik und Dekadenz, Zerfall und Reichtum die Zwischenr\u00e4ume er\u00f6ffnet, in denen unser Begehren entsteht."},"id":"d00a1ff3-0bac-4955-add2-73b751763b24","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_julian-jakob_kneer__frottage__5_detail.jpg"],"src":"","alt":"","caption":"Julian-Jakob Kneer, <em>frottage<\/em>, 2019, oak wood, lead, waxsculpture: 95 x 75 x 35 cm; waxpanel: 115 x 78. Courtesy: the artist and Limbo, Berlin","link":"","ratio":"","crop":"false"},"id":"cdaa6fd8-aadb-488e-94a4-6dc5fc3b8cac","isHidden":false,"type":"image"},{"content":{"text":"Die moralische Verwerfung, die mit dem Ornament in der Moderne unterstellt wurde, dient Kneer als Freiraum, in dem Vergangenes und Ausgesto\u00dfenes zum Werkzeug wird.1 Die Dekadenz der \u00fcberschw\u00e4nglichen Formen erscheint als memento mori aus der Vergangenheit und zeugt von der gleichen morbiden Faszination, die die Schwarze Romantik pr\u00e4gte: ruin\u00f6se und bruchteilartige Erinnerungen werden zu gespenstischen Erscheinungen. Die Ruinen altr\u00f6mischer Tempel, die der deutschen Sp\u00e4tromantik als Schauplatz dienten, w\u00e4hnten sich nicht nur als Andenken an ein untergegangenes Imperium, sondern erf\u00fcllten auch die Rolle eines radical chics im Bewusstsein einer immer w\u00e4hrenden Ausrichtung von gesellschaftlichen Systemen auf ihren unweigerlichen Niedergang \u2013 ein Gedanke, der in der vermeintlichen Unzerst\u00f6rbarkeit des kapitalistischen Geistes nicht mehr m\u00f6glich erscheint."},"id":"ff492bac-7126-42c2-a529-7774226b7cd1","isHidden":false,"type":"text"},{"content":{"text":"<em>frottage<\/em> schlie\u00dft somit unmittelbar an Kneers vorangegangene Arbeit <em>ornament sublime<\/em> (2019) an: h\u00fcfthohe, gedrechselte Holzstehlen, deren geschwungene Oberfl\u00e4chen mit Nieten, Spikes verziert, ebenfalls auf eine Handwerk basierte Kolonialisierung h\u00e4uslicher R\u00e4ume andeutet. Abermals ist es der Hang zur Finesse und Ausschm\u00fcckung, der eine dekadente Form der Macht ausstrahlt \u2013 old money, dessen klar erkennbare und zentralisierte Form der Repr\u00e4sentation in Zeiten von dezentralisierten \u00d6konomien und irrationalen Wertsch\u00f6pfungsketten beinahe romantisch daherkommt. In den Sinn tritt hier auch die surreale Architekturperformance der <a href=\"https:\/\/berliner-schloss.de\/\">Rekonstruktion des Berliner Schlosses<\/a>, zu deren vollst\u00e4ndigen Umsetzung nur noch 9 Millionen Euro fehlen. Ein Wiederaufbau, der nur deshalb ohne gr\u00f6\u00dfere Implikationen durchgef\u00fchrt werden kann, da sich die Symbole von preussischer Herrschaft und Macht inzwischen abgenutzt und entleert haben. In der exakten Wiedererrichtung des Regierungsgeb\u00e4udes wurde selbst das Kaiserzimmer rekonstruiert, wodurch sich im Nexus eines materiellen Sprechakts eigentlich das Anrecht eines Herrschers \u00fcber Preu\u00dfen erst konstituiert. Diese historische Unvorsichtigkeit sollte jedoch in keiner Weise Grund zur Beunruhigung sein, sind doch inzwischen gesellschaftliche Kontroll- und Machtmechanismen derart fluide und internalisiert, dass das Zimmer unbesetzt belassen werden kann und dabei zur treffenden Metapher f\u00fcr gegenw\u00e4rtige Strukturen wird."},"id":"befe01a2-db06-4c9e-ae97-622fa144d38b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_julian-jakob_kneer__frottage__9__detail.jpg"],"src":"","alt":"","caption":"Julian-Jakob Kneer, <em>frottage<\/em>, 2019, oak wood, lead, waxsculpture: 95 x 75 x 35 cm; waxpanel: 115 x 78. Courtesy: the artist and Limbo, Berlin","link":"","ratio":"","crop":"false"},"id":"30012b23-2a84-4a07-ae45-6f71b56f1db1","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_julian-jakob_kneer__frottage__10__detail.jpg"],"src":"","alt":"","caption":"Julian-Jakob Kneer, <em>frottage<\/em>, 2019, oak wood, lead, waxsculpture: 95 x 75 x 35 cm; waxpanel: 115 x 78. Courtesy: the artist and Limbo, Berlin","link":"","ratio":"","crop":"false"},"id":"0c266da2-1e39-47b6-ac87-02bf39e8a03d","isHidden":false,"type":"image"},{"content":{"text":"In einer <em>frottage<\/em> begleitenden Performance, die Kneer gemeinsam mit Autorin Ella Plevin erarbeitete und einmalig von Berliner Model und Grande Dame Jutta von Brunkau aufgef\u00fchrt worden ist, gerierte der Er\u00f6ffnungsabend zu einer Chiffre f\u00fcr rituelle Theatralisierung, die durch das Entz\u00fcnden einer Kerze eingel\u00e4utet wurde. Mit ihrer perfekten Volute der Ornamentik von<em> frottage<\/em> nicht un\u00e4hnlich, war diese jedoch ein direkter Wachsabguss unter Leihgabe einer Silikonform der Stuckateure des Berliner Schlosses. Dem Vokabular dieser verbrecherischen Formen sind verschiedene Zeitlichkeiten eingeschrieben, in denen romantische Sehnsucht und eine totgeglaubte \u00c4sthetik aufeinander treffen. \u00dcber diese im Begehren verankerte Verschr\u00e4nkung von Erotik und Morbidit\u00e4t wird deutlich, wie Dekadenz als werterzeugende Form der Lust arbeitet."},"id":"c17cfbce-baf8-457a-9b8d-d403e238fb03","isHidden":false,"type":"text"},{"content":{"text":"Das kommerzielle Ausstellungsdisplay von Limbo auf Berlins bekanntester Einkaufsstra\u00dfe dient als visuelle Lupe, die die materielle Erscheinung des Holzes von <em>frottage <\/em>scheinbar potenziert und zu einem dekadent \u00fcberschw\u00e4nglichen Genuss der Formen und Haptik anregt. Sie l\u00e4sst die heimgesuchte Romantik des Ornaments in den Fetisch gegenw\u00e4rtiger Marktrelationen hin\u00fcbergleiten. Unter alle dem schwelt dieser \u201elibidin\u00f6se Konflikt\u201c \u2013 wie der K\u00fcnstler es selbst zusammenfasst \u2013der die morbide Attraktivit\u00e4t dieser Formen in unserer jetzigen Zeit ausmacht."},"id":"6f7e70c7-f813-4c01-81ea-62a5f3b204e1","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_thumbnail_psf_28.6_big-25.jpg"],"src":"","alt":"","caption":"Inauguration Performance by Julian-Jakob Kneer and Ella Plevin. Courtesy the artists, Limbo and Project Space Festival Berlin; photograph: Piotr Pietrus.","link":"","ratio":"","crop":"false"},"id":"fc42c68d-32b6-4586-8283-5f392351cd22","isHidden":false,"type":"image"},{"content":{"text":"<em>Zur Er\u00f6ffnung der Ausstellung fand eine von Julian-Jakob Kneer und Ella Plevin entwickelte Performance als Teil des Project Space Festival 2019 statt (Performerin: Jutta von Brunkau).<\/em>"},"id":"d5cb4ae2-2f5c-4a2a-adc2-8146567f1e90","isHidden":false,"type":"text"},{"content":{"text":"[1] Vgl. Adolf Loos, <em>Ornament und Verbrechen,<\/em> 1929"},"id":"df09307b-b2f8-458a-ade1-3ee3e54e5805","isHidden":false,"type":"text"},{"content":{"text":"<br><br>"},"id":"d5f37076-7d96-405a-a27b-4b76be1945f7","isHidden":false,"type":"text"},{"content":{"text":"<strong>Julian-Jakob Kneer \u2013 frottage<br><\/strong>29. Juni \u2013 18. August 2019"},"id":"df601bf8-7871-4ef5-ab6f-3cc15d679066","isHidden":false,"type":"text"},{"content":{"text":"<strong>Limbo<\/strong><br>Kurf\u00fcrstendamm<br>Cicerostr. 1<br>10709 Berlin"},"id":"09b35e49-8171-4c84-a43a-7413ecdd35ff","isHidden":false,"type":"text"},{"content":{"text":"<em>Limbo ist ein kuratorisches Projekt von Viktor H\u00f6mpler.<\/em>"},"id":"d77964ed-3333-4af0-aa4d-35815d8bdca7","isHidden":false,"type":"text"},{"content":{"text":"<em>Julian-Jakob Kneer ist K\u00fcnstler. Er lebt und arbeitet in Berlin. Unter anderem hatte er Einzelausstellungen bei Lucas Hirsch, D\u00fcsseldorf (ornament sublime, 2019), ROOM E-10 27 @ Center, Berlin (wicked games, 2018), BIKINI, Basel (Jugend ist Trunkenheit ohne Wein, 2018), 1.1, Basel (sub rosa, 2018) und nahm an Gruppenausstellung bei Fetisch-Hof, Berlin (L\u2019amour, 2019), Horse &amp; Pony, Berlin (Cloak of Mercy, 2019), PS120, Berlin (In-visible Realness, 2019), fffriedrich, Frankfurt am Main (Gentle Heterodoxy. Social Body and its Enchantments, 2018) und A night in Alexander, online (2018) teil.<\/em>"},"id":"ba3c91dc-c713-4a16-a76d-b7b226e7a18c","isHidden":false,"type":"text"},{"content":{"text":""},"id":"c9873a9d-6f48-48a7-ba86-a933d0107629","isHidden":false,"type":"text"},{"content":{"text":""},"id":"ae36493f-2e17-4e4d-9e3a-0e67028581a7","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  web_julian-jakob_kneer__frottage__9__detail.jpg
+
+----
+
+Author:
+
+- ylprG7Ya
+
+----
+
+Date: 2019-08-18
+
+----
+
+Frontpage: false
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Order: 3
+
+----
+
+Cover:
+
+- >
+  web_julian-jakob_kneer__frottage__1__installation_view.jpg
+
+----
+
+Headline: Julian-Jakob Kneer

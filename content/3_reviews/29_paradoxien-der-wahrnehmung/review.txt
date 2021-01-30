@@ -1,0 +1,53 @@
+Title: Paradoxien der Wahrnehmung
+
+----
+
+Subtitle: Claire Fontaine
+
+----
+
+Place: SYNNIKA Space, Frankfurt
+
+----
+
+Preview: Während sich die einen, Kaffee schlürfend und unbekümmert, die belebte Szenerie der Niddastraße einverleiben, kratzen andere im vehementen Drang nach dem nächsten Schuss Dreck aus den Fugen der Pflastersteine. Ihre Hoffnung: zwischen den unbestimmbaren Relikten aus Abfall und Asphalt auch nur den kleinsten Brocken jener Substanz zu finden, die ihnen vermeintlich das Leid nimmt, welches sie in diese bizarre Heterotopie verschlagen hat. Im Frankfurter Bahnhofsviertel zeigen sich die frappierenden Ambivalenzen gesellschaftlichen Zusammenlebens und menschlicher Abgründe wie kaum andernorts in der Bankenmetropole am Main.
+
+----
+
+Text: [{"content":{"text":"\u201eThe reassuring messages never failed; the world was not a terrorized place; selfish, dangerous, overloaded with loneliness and waste, there were afterall so many beautiful things: flowers, love, children, cats on youtube and extraordinary items in the shops, electronic devices that allow you to forget about life and buy everything in one click.<br><br>The only thing that could protect us would be to rebuild society, put work at the service of life, refuse war, take back the streets, recognize the passers-by, talk with people, live every moment and every season intensely: childhood could then again become a race towards joy, youth an endless inebriation, maturity the time for peace and sharing, old age the time of passionate contemplation. Because the fabric of reality is made of people and not of things, the world is made of thoughts and feelings, not of fear and special laws, revolutions replace misery with freedom, they defeat fear, they change the laws, history tells it all.\u201c<br><br>\u2013 Ausz\u00fcge aus <em>While You Read These Lines <\/em>(2016), Claire Fontaine"},"id":"40589ce9-b081-4707-9f12-eac2d02f1925","isHidden":false,"type":"quote"},{"content":{"location":"kirby","image":["web_ok-no-5-claire-fontaine-@-synnika.jpg"],"src":"","alt":"","caption":"Claire Fontaine, <em>OK NO<\/em>, 2019, installation view, SYNNIKA Space. Courtesy: the artists and SYNNIKA Space","link":"","ratio":"","crop":"false"},"id":"e9086048-2358-4f99-8fce-6c101130afcb","isHidden":false,"type":"image"},{"content":{"text":"W\u00e4hrend sich die einen, Kaffee schl\u00fcrfend und unbek\u00fcmmert, die belebte Szenerie der Niddastra\u00dfe einverleiben, kratzen andere im vehementen Drang nach dem n\u00e4chsten Schuss Dreck aus den Fugen der Pflastersteine. Ihre Hoffnung: zwischen den unbestimmbaren Relikten aus Abfall und Asphalt auch nur den kleinsten Brocken jener Substanz zu finden, die ihnen das Leid nimmt, welches sie in diese bizarre Heterotopie verschlagen hat. Im Frankfurter Bahnhofsviertel zeigen sich die frappierenden Ambivalenzen gesellschaftlichen Zusammenlebens und menschlicher Abgr\u00fcnde wie kaum andernorts in der Bankenmetropole am Main. Auch der Sozialvoyerismus hat mit rasant steigender Gentrifizierung neue Dimensionen angenommen, die wohl mit den \u201eOffenen Tagen\u201c der Drogeneinrichtungen zur j\u00e4hrlichen <em>Bahnhofsviertelnacht<\/em> ihren Kulminationspunkt erreichen."},"id":"b8dfb24d-bdad-45b6-9b64-2b07c2b1271b","isHidden":false,"type":"text"},{"content":{"text":"Hier, zwischen hippen Bars und Rotlicht, zeigt das feministische Kollektiv Claire Fontaine, das aus Fulvia Carnevale und James Thornhill besteht und sich selbst als \u201eReady-Made-Artist\u201c bezeichnet, die installative und ortsspezifische Arbeit <em>OK NO <\/em>(2019). Gemeinsam mit den Textarbeiten <em>While You Read These Lines <\/em>(2016), <em>May Our Enemies Not Prosper <\/em>(2016) und <em>The Luxury of Making Sense<\/em> (2018), die als mehrfarbig angespr\u00fchte Papierstapel auf Sockeln gestaltet sind, ist ein Neonzeichen zu sehen, das an Verkehrssymbole erinnert. Es ist im Schaufenster des Synnika Projektraums angebracht und zur Stra\u00dfe hin ausgerichtet. Entgegen der g\u00e4ngigen Verwendung der Farben ist jedoch beim Aufscheinen der Farbe Rot das Wort \u201eOK\u201c zu sehen, \u201eNO\u201c hingegen ist in gr\u00fcner Kapitalschrift zu lesen. In der D\u00e4mmerung verschwimmen die Farben und Schriftz\u00fcge, beleuchten den angrenzenden B\u00fcrgersteig und beziehen den gesamten Ausstellungsraum in ihr diffuses Lichtspiel ein. Zuweilen bleiben einzelne Passanten kontemplativ vor dem gro\u00dfen Schaufenster stehen; das Neonzeichen als solches integriert sich g\u00e4nzlich in die illuminierte Atmosph\u00e4re aus Trinkhallen, Handyshops und Etablissements."},"id":"b40d8a14-76d7-4726-b0b0-a95abf0d0a6c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_ok-no-8-claire-fontaine-@-synnika.jpg"],"src":"","alt":"","caption":"Claire Fontaine, <em>OK NO<\/em>, 2019, installation view, SYNNIKA Space. Courtesy: the artists and SYNNIKA Space","link":"","ratio":"","crop":"false"},"id":"792ac225-796a-421d-b84c-6d8fe9802c04","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_ok-no-9-claire-fontaine-@-synnika.jpg"],"src":"","alt":"","caption":"Claire Fontaine, <em>OK NO<\/em>, 2019, installation view, SYNNIKA Space. Courtesy: the artists and SYNNIKA Space","link":"","ratio":"","crop":"false"},"id":"807a6dc1-f9e5-4789-ad6c-9774ff04526b","isHidden":false,"type":"image"},{"content":{"text":"Verbindet man die ausgestellten Texte mit dem Schriftzug \u201eOK NO\u201c, so wird schnell klar, dass es sich bei der Arbeit keineswegs nur um eine Anspielung auf Alltags- oder Werbetechnik handelt. Die BesucherInnen werden mit explizit politischen Themen konfrontiert. Die fragmentarischen Texte, die teilweise aus literarischen Zitaten, teilweise aus Berichten bestehen, sind um Kommentare von Claire Fontaine selbst erg\u00e4nzt und adressieren die kriegsbedingte Migrationslage ebenso wie die Klimakrise, geschlechtliche Diskriminierung und politische Verfolgung. Im Zentrum der Auseinandersetzung steht dabei immer wieder das Spannungsverh\u00e4ltnis zwischen Kollektivit\u00e4t und Individualismus \u2013 das gesellschaftliche Ganze wird dem einzelnen Privaten gegen\u00fcbergestellt. Dabei stellt die Verkn\u00fcpfung von Fremdtext und Eigenproduktion nicht nur die Frage nach der Autorenschaft, sondern auch nach der Konstitution des Dokuments. Eine Kritik am Fehlen von Empathie und Gemeinschaftsgeist, die mit staatlichen \u00dcberwachungsmechanismen und der best\u00e4ndigen Ablenkung durch <em>electronic devices<\/em> und <em>social media<\/em> kompensiert werden, formuliert <em>Claire Fontaine<\/em> ex negativo. Sie ruft nicht wie die <em>Agitprop<\/em> zur Revolution auf oder beschreibt eine konkrete Utopie, sondern verweist allein durch die Gegen\u00fcberstellung von aktuellen Missst\u00e4nden und historisch-philosophischen Konzepten auf die Potenzialit\u00e4t der Gesellschaft."},"id":"86467150-aed4-4950-bf31-321332f5bc54","isHidden":false,"type":"text"},{"content":{"text":"Das reflexive Moment der intermedialen Arbeit ergibt sich vor allem durch das Zusammenspiel von Fakt und Fiktion. Claire Fontaine nimmt schriftlich Bezug auf tats\u00e4chliche Zeitgeschehnisse, zugleich schafft sie durch die raumgreifende Anlage und Umkehrung normativer Wahrnehmungsformen neue Deutungszusammenh\u00e4nge. Text wird hier zu einer prozessualen, plastischen Arbeit: auf einen Sockel gehoben, wird sein Inhalt zum Sujet zweiter Ebene. Potenziert dadurch, dass das Lesen der Texte das Wegnehmen eines Blattes von einem der Papierstapel einfordert und so die Arbeit fortw\u00e4hrend zersetzt. Das Neonzeichen, bestehend aus nur zwei Farben und kombiniert mit nur zwei Worten, wird zur Projektionsfl\u00e4che f\u00fcr die Betrachtenden. Das zustimmende \u201eOK\u201c mit warnend aufleuchtendem Rot versehen, fordert das Publikum auf, den eigenen Konformismus zu reflektieren, w\u00e4hrend das gr\u00fcn geschriebene \u201eNO\u201c ausdr\u00fccklich dazu einl\u00e4dt etwas zu negieren. Dieser Widerspruch gilt jedoch nicht nur den Sachverhalten, die aus dem textlich Produzierten hervorgehen. Denn das Neonzeichen ist auf die jeweils singul\u00e4r Rezipierenden ausgerichtet, die ihm durch das Schaufenster begegnen, wodurch individuelle und kollektive Erfahrung zusammenlaufen."},"id":"491f1619-d4d9-4d0e-8511-013b5cc2c7d8","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_ok-no-6-claire-fontaine-@-synnika.jpg"],"src":"","alt":"","caption":"Claire Fontaine, <em>OK NO<\/em>, 2019, installation view, SYNNIKA Space. Courtesy: the artists and SYNNIKA Space","link":"","ratio":"","crop":"false"},"id":"636195ea-0917-4c08-b892-192d5ad0f4b5","isHidden":false,"type":"image"},{"content":{"text":"<strong>Claire Fontaine \u2013 OK NO<\/strong><br>16 Juni \u2013 1 August 2019"},"id":"08649a93-c1e6-4423-b42e-6e058b07937c","isHidden":false,"type":"text"},{"content":{"text":"<strong>SYNNIKA<\/strong> <strong>Space<\/strong><br>Niddastra\u00dfe 57<br>60329 Frankfurt am Main"},"id":"4225ab39-36ea-4ec4-a517-cf2e884719b6","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  web_ok-no-8-claire-fontaine-@-synnika.jpg
+
+----
+
+Author:
+
+- 2zOXX1uK
+
+----
+
+Date: 2019-08-01
+
+----
+
+Frontpage: false
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Cover:
+
+- >
+  web_ok-no-9-claire-fontaine-@-synnika.jpg

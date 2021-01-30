@@ -1,60 +1,183 @@
-<section class="projects<?php e($template == "interviews", ' grid grid-cols-2 gap-y-16');
-                        e($template == "features", ' grid features-grid') ?>">
+<section class="projects mt-28<?php e($template == "interviews", ' grid grid-cols-2 gap-y-16');
+                                e($template == "features", ' features-grid');
+                                e($template == "reviews", ' reviews-grid') ?> ">
 
 
-    <?php foreach ($pages->find($template)->children()->listed() as $article) : ?>
+    <?php foreach ($articles = $pages->find($template)->children()->listed()->paginate(10) as $article) : ?>
 
-        <article class="<?php e($template == "interviews", 'h-interviews interviews');
-                        e($template == "features", 'features') ?> relative text-center">
-            <a href="<?= $article->url() ?>">
-                <img src="<?php if ($image = $article->thumbnail()->toFile()) :
-                                echo $image->resize(700)->url();
-                            endif ?>">
-            </a>
-            <div class="<?php e($template == "interviews", 'interviews-title') ?>">
-                <h1 class="font-Pbold orange-shadow<?php e($template == "interviews", ' text-white') ?>">
-                    <?= $article->title()->html() ?>
-                    <br />
-                    <?= $article->subtitle()->html() ?><br />
-                    <?= $article->place()->html() ?>
-                </h1>
-                <p>
-                    <?php e($template != "interviews", $article->text()->toBlocks()->filterBy('type', 'text')->excerpt(140)) ?>
-                </p>
-            </div>
+        <article class="<?php
+                        e($template == "interviews", ' h-interviews interviews relative text-center');
+                        e($template == "features", 'features');
+                        e($template == "reviews", 'reviews') ?> ">
+
+            <?php if ($template == "interviews") : ?>
+                <div class="relative">
+                <?php endif; ?>
+
+                <a href="<?= $article->url() ?>">
+                    <img src="<?php if ($image = $article->thumbnail()->toFile()) :
+                                    echo $image->resize(700)->url();
+                                endif ?>">
+                </a>
+
+                <?php if ($template == "interviews") : ?>
+                    <div class="interviews-title">
+                        <h1 class="font-Pbold orange-shadow text-white relative">
+                            <?= $article->title()->html() ?>
+                            <br />
+                            <?= $article->subtitle()->html() ?>
+                            <br />
+                            <?= $article->place()->html() ?>
+                        </h1>
+                    </div>
+                <?php endif; ?>
+                <?php if ($template == "interviews") : ?>
+                </div>
+            <?php endif; ?>
+
+            <?php if ($template == "features" || $template == "reviews" || $template == "opinions") : ?>
+                <div class="m-2 mb-24">
+                    <div class="text-17">
+                        <?= $article->date()->toDate('d–m–Y') ?></div>
+                    <div class="m-4">
+                        <?= $article->title()->html() ?><br />
+                        <?= $article->place()->html() ?>
+                    </div>
+                    <?php if ($template == "features") : ?>
+                        <div class="border border-black rounded inline-block mt-1 p-1 pt-0.5">
+                            <?= $article->category() ?>
+                        </div>
+                    <?php endif ?>
+                    <div class="mt-1">
+                        <?= $article->preview()->html() ?>
+                    </div>
+                </div>
+            <?php endif; ?>
 
         </article>
+
     <?php endforeach ?>
-
 </section>
-<?php if ($template == "features") : ?>
+
+
+<?php $pagination = $articles->pagination() ?>
+<nav>
+    <ul class="flex items-center justify-center m-4">
+
+        <?php if ($pagination->hasPrevPage()) : ?>
+            <li class="mx-1 text-orange">
+                <a href="<?= $pagination->prevPageURL() ?>">Previous</a>
+            </li>
+        <?php else : ?>
+            <li class="mx-1">
+                <span>Previous</span>
+            </li>
+        <?php endif ?>
+
+        <?php foreach ($pagination->range(1) as $r) : ?>
+            <li class="mx-1">
+                <?= $r ?>
+            </li>
+            <?php endforeach ?>/
+            <?php echo $pagination->lastPage(); ?>
+
+            <?php if ($pagination->hasNextPage()) : ?>
+                <li class="mx-1 text-orange">
+                    <a href="<?= $pagination->nextPageURL() ?>">Next</a>
+                </li>
+            <?php else : ?>
+                <li class="mx-1">
+                    <span>Next</span>
+                </li>
+            <?php endif ?>
+
+    </ul>
+</nav>
+<?php if ($template == "features" || "reviews") : ?>
     <script>
-        function resizeGridItem(item) {
-            grid = document.getElementsByClassName("grid")[0];
-            rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-            rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-            rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height + rowGap) / (rowHeight + rowGap));
-            item.style.gridRowEnd = "span " + rowSpan;
-        }
+        console.log('reviews')
+        /**
+  @version: 0.2.2
+  @license WTFPL
+*/
+        function TinyMasonry(el) {
+            var self = this
+            var columns = []
 
-        function resizeAllGridItems() {
-            allItems = document.getElementsByClassName("item");
-            for (x = 0; x < allItems.length; x++) {
-                resizeGridItem(allItems[x]);
+            function createColumns(n) {
+                var width = 100 / n + "%"
+                columns = []
+                while (n--) {
+                    var column = document.createElement("div")
+                    column.style.width = width
+                    column.style.float = "left"
+                    el.appendChild(column)
+                    columns.push(column)
+                }
             }
+
+            function getShortest() {
+                var shortest = columns[0]
+                for (var i = columns.length; i--;) {
+                    if (columns[i].clientHeight <= shortest.clientHeight) {
+                        shortest = columns[i]
+                    }
+                }
+                return shortest
+            }
+
+            function layout(tested) {
+                var width = tested.parentElement.clientWidth / tested.clientWidth
+                var n = Math.min(42, Math.round(width)) || 1
+                var child
+                while (child = el.firstElementChild) {
+                    child.parentNode.removeChild(child)
+                }
+                el.style.overflow = "hidden"
+                createColumns(n)
+                self.items.forEach(function(item) {
+                    item.style.display = "block"
+                    item.style.width = "auto"
+                    item.style.visibility = ""
+                    getShortest().appendChild(item)
+                })
+                el.style.minHeight = ""
+            }
+
+            self.update = function() {
+                if (self.items[0]) {
+                    el.classList.add("tinyMasonryLoaded")
+                    if (columns[0]) {
+                        el.style.minHeight = el.clientHeight + "px"
+                    }
+                    var tested = self.items[0]
+                    tested.style.width = ""
+                    if (tested.parentNode && tested.parentNode.parentNode === el) {
+                        layout(tested)
+                    } else {
+                        el.appendChild(tested)
+                        setTimeout(layout.bind(0, tested))
+                    }
+                }
+            }
+
+            self.items = [].slice.call(el.children)
+            self.update()
+            window.addEventListener("resize", self.update)
         }
 
-        function resizeInstance(instance) {
-            item = instance.elements[0];
-            resizeGridItem(item);
+        if (typeof exports === "object") {
+            module.exports = TinyMasonry
         }
+        var featuresGrid = document.querySelectorAll('.features-grid')
+        var reviewsGrid = document.querySelectorAll('.reviews-grid')
+        console.log(featuresGrid, reviewsGrid)
+        <?php if ($template == "features") : ?>
+            new TinyMasonry(featuresGrid[0])
+        <?php endif;
+        if ($template == "reviews") :  ?>
+            new TinyMasonry(reviewsGrid[0])
 
-        window.onload = resizeAllGridItems();
-        window.addEventListener("resize", resizeAllGridItems);
-
-        allItems = document.getElementsByClassName("features");
-        for (x = 0; x < allItems.length; x++) {
-            imagesLoaded(allItems[x], resizeInstance);
-        }
+        <?php endif ?>
     </script>
 <?php endif ?>

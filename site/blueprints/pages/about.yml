@@ -1,54 +1,74 @@
 title: About
-preset: page
-# columns:
-#   - width: 1/2
-#     fields:
-#       headline:
-#         label: Headline
-#         type: text
-#       text:
-#         label: Text
-#         type: textarea
-#         size: huge
+columns:
+  - width: 1/2
+    fields:
+      headline:
+        label: Headline
+        type: text
+      text:
+        label: Text
+        type: textarea
+        size: huge
 
-#   - width: 1/2
+  - width: 1/2
 
-#     sections:
-#       content:
-#         type: fields
-#         fields:
-#           editorinchief:
-#             label: Editor-in-Chief
-#             type: text
-#           editors:
-#             label: Editors
-#             type: textarea
-#           founders:
-#             label: Founders
-#             type: textarea
-#           contact:
-#             label: Contact
-#             type: textarea
-#           email:
-#             label: Email
-#             type: email
-#           phone:
-#             label: Phone
-#             type: tel
-#           social:
-#             label: On the web
-#             type: structure
-#             fields:
-#               platform:
-#                 label: Platform
-#                 type: text
-#                 width: 1/2
-#               url:
-#                 label: URL
-#                 type: url
-#                 width: 1/2
-#       images:
-#         label: About Image
-#         type: files
-#         min: 1
-#         size: large
+    sections:
+      content:
+        type: fields
+        fields:
+          editorinchief:
+            label: Editor-in-Chief
+            type: text
+          editors:
+            label: Editors
+            type: textarea
+          founders:
+            label: Founders
+            type: textarea
+          contact:
+            label: Contact
+            type: textarea
+          email:
+            label: Email
+            type: email
+          phone:
+            label: Phone
+            type: tel
+          social:
+            label: On the web
+            type: structure
+            fields:
+              platform:
+                label: Platform
+                type: text
+                width: 1/2
+              url:
+                label: URL
+                type: url
+                width: 1/2
+          contributions:
+            label: Contributions
+            type: structure
+            fields:
+              name:
+                label: Name
+                type: text
+                width: 1/3
+              website:
+                label: Website
+                type: url
+                width: 1/3
+              compartment:
+                label: Compartment
+                type: select
+                width: 1/3
+                options:
+                  - Art Direction
+                  - Web Development
+                  - Typeface
+
+      images:
+        label: About Image
+        type: files
+        min: 1
+        size: large

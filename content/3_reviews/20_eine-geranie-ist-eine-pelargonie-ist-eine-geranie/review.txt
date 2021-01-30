@@ -1,0 +1,53 @@
+Title: Eine Geranie ist eine Pelargonie, ist eine Geranie
+
+----
+
+Subtitle: Uriel Orlow
+
+----
+
+Place: Kunsthalle Mainz
+
+----
+
+Preview: Anders als Titel der Ausstellung suggeriert, will Orlow mehr als nur mit Pflanzen flüstern. In 'Conversing with Leaves‘ werden Pflanzen zu den Protagonisten der Geschichte erklärt und vergessene Narrative von ihnen sichtbar gemacht, um so die Gegenwart neu zu interpretieren.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_khm-orlow_dsc9457.jpg"],"src":"","alt":"","caption":"Uriel Orlow, <em>Geraniums Are Never Red<\/em>, 2016, installation view, Kunsthalle Mainz, 2019. Courtesy: the artist; photograph: Norbert Miguletz, VG Bild-Kunst, Bonn 2019","link":"","ratio":"","crop":"false"},"id":"b79709ec-d79f-4982-9ddd-bffb0ea76c6f","isHidden":false,"type":"image"},{"content":{"text":"Die Geranie z\u00e4hlt zu den beliebtesten Balkonpflanzen in Deutschland. In der Schweiz gilt sie als Nationalsymbol und ist besonders im alpinen Raum nahezu \u00fcberall anzutreffen. 1930 komponierte Willy Rosen den Schlager <em>Wenn die Geranien bl\u00fchen<\/em> f\u00fcr den Film <em>Die z\u00e4rtlichen Verwandten.<\/em> In einer Textzeile des Refrains hei\u00dft es \u201eIch brauch kein Florida, kein Nizza, kein Spanien, wenn die Geranien bl\u00fchen auf meinem Balkon\u201c. Die Ferne ist demnach kein Grund zur Sehnsucht, wenn Zufriedenheit in den eigenen vier W\u00e4nden herrscht."},"id":"f8a24c22-0c61-4512-ae8f-2e6348ac15f4","isHidden":false,"type":"text"},{"content":{"text":"In der Ausstellung 'Conversing with Leaves\u2018<em> <\/em>des Schweizer K\u00fcnstlers Uriel Orlow in der Kunsthalle Mainz, st\u00f6\u00dft man im ersten Ausstellungsraum auf einen gef\u00fcllten Postkartenst\u00e4nder (<em>Geraniums Are Never Red, <\/em>2016<em>), <\/em>der den Geranien in gleicherweise Ehre geb\u00fchrt wie die Beispiele oben. Die Postkarten zeigen die leuchtend rote Bl\u00fcte in diversen Zusammenh\u00e4ngen: die Bandbreite reicht hierbei von kleinst\u00e4dtischen Ansichten (Stra\u00dfenrand- und Balkonbepflanzung) hin zu hybrid-rankenden Gew\u00e4chsen an einer Palme. Urlaubsgr\u00fc\u00dfe aus der ganzen Welt \u2013 mit der Geranie als Sehensw\u00fcrdigkeit schlechthin. <em>Geraniums Are Never Red, <\/em>der Titel von Orlows Skulptur, verweist auf eine g\u00e4ngige Verwechslung bei der Zuordnung der Pflanze: das, was im Volksmund als Geranie bezeichnet wird (n\u00e4mlich die rote Bl\u00fcte), m\u00fcsste richtigerweise Pelargonie hei\u00dfen. Damit aber noch nicht genug von festgefahrenem Alltagswissen, denn auch die verfestigte Annahme, Geranien w\u00e4ren in Europa beheimatet, entspricht nicht historischen Fakten, fand die Pflanze doch erst im 17. Jahrhundert ihren Weg von S\u00fcdafrika nach Europa."},"id":"5820fd7a-0bee-419f-b000-a184d6017447","isHidden":false,"type":"text"},{"content":{"text":"Anders als Titel der Ausstellung suggeriert, will Orlow mehr als nur mit Pflanzen fl\u00fcstern. In 'Conversing with Leaves\u2018<em> <\/em>werden Pflanzen zu den Protagonisten der Geschichte erkl\u00e4rt und vergessene Narrative von ihnen sichtbar gemacht, um so die Gegenwart neu zu interpretieren. Als ein sich chronologisch und thematisch aufbauender Rundgang konzipiert, werden die Besucher*innen durch die verschiedenen Ebenen der Kunsthalle geleitet. Beginnend mit der Kolonialisierung, \u00fcber die Anti-Apartheit-Bewegung bis hin zur gegenw\u00e4rtigen Kritik an kolonialen Wirtschaftsstrukturen bleiben Fauna und Flora stetige Begleiter. Ausgangspunkt f\u00fcr Orlows Arbeiten ist eine umfassenden Recherche zu geschichtlichen Ereignissen, in denen Pflanzen in einem historischen und gegenw\u00e4rtigen Bezug zur Kolonialisierung des afrikanischen Kontinents stehen."},"id":"60e99f41-ba82-42f8-8319-97d5a5fd2ece","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_khm-orlow_dsc9729.jpg"],"src":"","alt":"","caption":"Uriel Orlow, <em>Echoes<\/em>, 2016\u20132018, installation view, Kunsthalle Mainz, 2019. Courtesy: the artist; photograph: Norbert Miguletz, VG Bild-Kunst, Bonn 2019","link":"","ratio":"","crop":"false"},"id":"b81c2b9f-73c6-4fca-a25f-939bd5e07fad","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_khm-orlow_dsc9547.jpg"],"src":"","alt":"","caption":"Uriel Orlow, <em>Soil Affinities<\/em>, 2018\u20132019, 11 wooden boxes, 5 videos, colour, sound, archive pigment prints, earth, various materials, site-specific measurements. Courtesy: the artist; photograph: Norbert Miguletz, VG Bild-Kunst, Bonn 2019","link":"","ratio":"","crop":"false"},"id":"bff4650c-0fcf-4fed-b038-bebaf8dbae6b","isHidden":false,"type":"image"},{"content":{"text":"In <em>Echoes<\/em> (2016\u20132018) h\u00e4ngen Lautsprecher wie schwarze abstrakte Tropfen im Raum, aus denen ein Chor von Sprecher*innen in unterschiedlichen afrikanischen Sprachen (u.a. Khoi, SePedi und SeTswana) Pflanzen bei ihren volkskundlichen Namen benennen, w\u00e4hrend Overheadprojektoren ihr Abbild an die W\u00e4nde werfen (<em>What Plants Were Called Before They Had A Name<\/em>, 2016). Verblasste Bl\u00fcten, Bl\u00e4tter und Gr\u00e4ser, die von getrockneten Negativformen und Abdr\u00fccken aus Herbarien stammen, f\u00fcllen die W\u00e4nde und sind eine poetische R\u00fcckkopplung zu denen in die Unsichtbarkeit gedr\u00e4ngten urspr\u00fcnglichen Pflanzenbezeichnungen, die sich akustisch im Raum verteilen. Im Zusammenspiel dieser beiden Arbeiten wird deutlich wie Orlow versucht, durch die Kolonalisierung in Vergessenheit geratenes, indigenes Wissen wieder h\u00f6r- und sichtbar zu machen."},"id":"adc53f71-bb05-46f2-912a-929c55f9a645","isHidden":false,"type":"text"},{"content":{"text":"Ein Stockwerk tiefer verhandeln die Filme <em>Muthi <\/em>(2016\u20132018)<em>, The Crown Against Mafavuke <\/em>(2016) und <em>Imbizo Ka Mafavuke<\/em> (2017) den Umgang, die Verwendung und den Schutz von Heilpflanzen gegen\u00fcber westlichen Pharmaunternehmen. <em>Muthi<\/em> besch\u00e4ftigt sich mit der titelgebenden Zusammensetzung von Pflanzen, die von Heiler*innen angewendet wird und erz\u00e4hlt davon wie die traditionsreiche Naturmedizin S\u00fcdafrikas nach und nach durch chemische Medizin abgel\u00f6st wurde. Alle drei filmischen Arbeiten Orlows stellen Fragen nach verdr\u00e4ngtem, indigenem Wissen und dessen gegenw\u00e4rtiger kommerzieller Nutzbarmachung: wer profitiert von Rohstoffen? In welcher Form finden die verarbeitenden Rohstoffe ihren Weg zur\u00fcck in die Herkunftsl\u00e4nder und vor allem zu welchem Preis?"},"id":"48368b98-a544-4226-b7e7-73a5a5277782","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_khm-orlow_nm_0203.jpg"],"src":"","alt":"","caption":"Uriel Orlow, <em>Learning from Plants<\/em> (Artemisia Afra), 2019, two HD videos, colour, sound, 4 paintings, acrylic on cardboard. Courtesy: the artist; photograph: Norbert Miguletz, VG Bild-Kunst, Bonn 2019","link":"","ratio":"","crop":"false"},"id":"3911b890-be5c-4a93-9153-c8a32b94a814","isHidden":false,"type":"image"},{"content":{"text":"Die multimediale Installation <em>Soil Affinities <\/em>(2018\u20132019) verhandelt nicht zuletzt den gegenw\u00e4rtigen Export von Rohstoffen und Grundnahrungsmitteln nach Europa.<em> <\/em>Der Ausstellungsraum erweckt den Eindruck eines Laboratoriums in Transportkisten. Ward-Kisten, die entwickelt wurden, um Pflanzen w\u00e4hrend der Kolonialzeit weltweit zu verschicken, bilden das Display f\u00fcr Filme, Fotografien und Erde aus Frankreich und dem Senegal. Ausgangspunkt der Arbeit ist die Geschichte des Pariser Vorortes Aubervilliers, in dem aufgrund der Industrialisierung, Kleing\u00e4rten weichen mussten. Zugleich wurden Nutzpflanzen von Frankreich nach Westafrika verschifft und auf Plantagen in den Kolonialgebieten, f\u00fcr die dortige wachsende franz\u00f6sische Bev\u00f6lkerung, angebaut. Beleuchten die zuvor genannten Filme die kommerzielle Interessen beim Export von afrikanischen Rohstoffen, verhandelt <em>Soil Affinities<\/em> die Standort- und Produktionsverh\u00e4ltnisse f\u00fcr den europ\u00e4ischen Absatzmarkt. Der Kolonialist wird Opfer seiner eigenen Machtbestrebung."},"id":"b39faf19-3420-44cc-b817-d3a092957355","isHidden":false,"type":"text"},{"content":{"text":"Anstatt einer Konversation<em> mit<\/em> Pflanzen scheint es als ob Uriel Orlow in der Ausstellung vielmehr <em>durch <\/em>sie spricht. Er macht uns auf koloniale Zusammenh\u00e4nge aufmerksam, die bis in die Gegenwart reichen und wirft Licht auf die dunkeln Wissensl\u00fccken der Vergangenheit, um unsere Wahrnehmung zu sensibilisieren und unseren Blick auf die Zukunft zu sch\u00e4rfen. Denn wenn die Geranien bl\u00fchen, sind sie niemals rot."},"id":"c703c1c6-4eec-49e5-a8a4-b90a96ed680f","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_website_urielorlow-wishingtrees2018-7_1864173565.jpg"],"src":"","alt":"","caption":"Uriel Orlow: <em>Wishing Trees<\/em>, 2018, film still. Courtesy: the artist, VG Bild-Kunst, Bonn 2019","link":"","ratio":"","crop":"false"},"id":"35396dda-624c-4597-b927-fd8a1f6fb62d","isHidden":false,"type":"image"},{"content":{"text":"<strong>Uriel Orlow \u2013 Conversing with Leaves<br><\/strong>29. November 2019 \u2013 23. Februar 2020"},"id":"11d9d5b2-196e-404a-ab5d-d66ba7aca65f","isHidden":false,"type":"text"},{"content":{"text":"<strong>Kunsthalle Mainz<\/strong><br>Am Zollhafen 3\u20135<br>55118 Mainz"},"id":"1c3da8e8-6503-4f39-9c07-38bc7883e920","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- web_khm-orlow_dsc9547.jpg
+
+----
+
+Author:
+
+- qkN8Y1tZ
+
+----
+
+Date: 2020-01-16
+
+----
+
+Frontpage: false
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Order: 1
+
+----
+
+Cover: - web_khm-orlow_dsc9547.jpg

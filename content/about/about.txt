@@ -1,1 +1,103 @@
-title: About
+Title: About
+
+----
+
+Headline: PASSE-AVANT is an online magazine for contemporary art
+
+----
+
+Text:
+
+From 2016 to 2017 curator and writer Carina Bukuts and artist Sonia Knop have organised exhibitions in Frankfurt, Germany, and Tel-Aviv, Israel, and founded PASSE-AVANT as a platform for exhibition making, discourse and discussion. Soon, PASSE-AVANT developed further as a journalistic medium and is now an online magazine for contemporary art. With a focus on the Rhine-Main area and its jungle of exhibitions and initiatives, our aim is to pay attention to artistic practices and exhibitions that can easily be overlooked. 
+
+We write reviews on current exhibitions, announce shows before they happen and commission collaborations with artists, photographers and graphic designers.
+
+Feel free to get in touch.
+
+**SUPPORT**
+
+PASSE-AVANT is a non-profit magazine but if you'd like to support us, please visit our (link: https://www.patreon.com/passeavant text: Patreon page) where you can donate a monthly contribution. Many thanks in advance!
+
+**PRESS**
+
+(link: https://www.genios.de/presse-archiv/artikel/FNP/20170731/-frankfurt-hat-etwas-sehr-dankbares/50279D35083B3D273000.html text: Junge Kuratoren in Frankfurt, Carina Bukuts,) Frankfurter Neue Presse, 31. Juli 2017
+(link: https://www.journal-frankfurt.de/journal_news/Kultur-9/Chambers-A-Users-Manual-Chapter-II-Kunst-und-Performance-in-einer-Sachsenhaeuser-Villa-28757.html text:  Kunst und Performance in einer Sachsenhäuser Villa,) JOURNAL Frankfurt, 19. Januar 2017
+(link: https://kubaparis.com/chambers-a-users-manual-chapter-ii/ text: KubaParis - Zeitschrift für junge Kunst), 23. Januar 2017
+(link: https://www.genios.de/presse-archiv/artikel/FR/20160823/leerstaende-bespielen/fr_FRS_2E014734DCAF22153000-STADT.html text: Leerstände bespielen), Frankfurter Rundschau, 23. August 2016
+(link: https://kubaparis.com/%ef%bf%bcwhatman-leaving-traces-deleted/ text: KubaParis - Zeitschrift für junge Kunst,) 1. Dezember 2016
+(link: https://www.schirn.de/magazin/schirn_tipps/metzlerstrasse_chambers_users_manual_carina_bukuts_sonia_knop/ text: Räume und ihre Geschichten), SCHIRN MAG, 29. Juni 2016
+(link: https://www.fnp.de/frankfurt/alte-villa-wird-kunstprojekt-10587166.html text: Alte Villa wird zum Kunstprojekt, Frankfurter Neue Presse, 30. Juni 2016)
+(link: https://kubaparis.com/chambers-a-users-manual-photographed-by-neven-allgeier/ text: KubaParis - Zeitschrift für junge Kunst, 4. Juli 2016)
+
+----
+
+Editorinchief: Carina Bukuts
+
+----
+
+Editors:
+
+Sonja Borstner, Deputy Editor
+(email: sonja@passe-avant.net text: sonja@passe-avant.net)
+
+Pia Bendfeld, Editor
+(email: pia@passe-avant.net text: pia@passe-avant.net)
+
+Theresa Weise, Socia Media Director
+(email: theresa@passe-avant.net text: theresa@passe-avant.net)
+
+To be featured on our Instagram 'Radar', please send your submissions to
+(email: radar@passe-avant.net text: radar@passe-avant.net)
+
+----
+
+Founders:
+
+Carina Bukuts
+Sonia Knop
+
+----
+
+Contact:
+
+editor@passe-avant.net
++49 1578 832 0931
+Instagram
+Facebook
+
+----
+
+Email: editor@passe-avant.net
+
+----
+
+Phone: +49 1578 832 0931
+
+----
+
+Social:
+
+- 
+  platform: Instagram
+  url: https://www.instagram.com/passeavant/
+- 
+  platform: Facebook
+  url: >
+    https://www.facebook.com/passeavantlemeilleur/
+
+----
+
+Contributions:
+
+- 
+  name: Anne Büttner
+  website: http://studiobuettner.com/
+  compartment: Art Direction
+- 
+  name: Erik Sachse
+  website: https://napoleon.services/
+  compartment: Web Development
+- 
+  name: Pirelli
+  website: https://www.jung-lee.nl
+  compartment: Typeface

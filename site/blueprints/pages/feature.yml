@@ -19,4 +19,25 @@ columns:
       meta:
         type: fields
         fields:
+          category:
+            label: Category
+            type: select
+            width: 1/2
+            options:
+              - value: "Exhibition Note"
+                text: Exhibition Note
+              - value: "Congratulations"
+                text: Congratulations
+              - value: "Editorial recommendation"
+                text: Editorial recommendation
+              - value: "Commissioned contribution"
+                text: Commissioned contribution
+              - value: "Artist text"
+                text: Artist text
+              - value: "Collaboration"
+                text: Collaboration
+              - value: "Announcement"
+                text: Announcement
+              - value: "Recommendation"
+                text: Recommendation
           sidebar: fields/sidebar

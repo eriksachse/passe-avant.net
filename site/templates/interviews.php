@@ -2,7 +2,7 @@
 snippet('header', ['template' => $page->template()])
 ?>
 
-<div class="mt-28">
+<div class="">
     <?php
     snippet('projects', ['template' => $page->template()])
     ?>

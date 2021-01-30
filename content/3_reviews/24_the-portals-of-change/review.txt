@@ -1,0 +1,57 @@
+Title: The Portals of Change
+
+----
+
+Subtitle: Cater to You
+
+----
+
+Place: EIGEN + ART Lab, Berlin
+
+----
+
+Preview: When a character in a fantasy story passes through a portal, according to writer Joseph Campbell, this “crossing of the threshold” is a symbol for their decision to embark upon the journey that is their destiny. Taking place at EIGEN + ART Lab and curated by a team of three – Marie Gerbaulet, Elena Setzer, and Hendrike Nagel – the exhibition ‘Cater to You’ proposes that we need to enter a speculative space in order to understand ourselves.
+
+----
+
+Text: [{"content":{"location":"kirby","image":["web_14_mbycroft_yeah_nah_with_ornament_3.jpg"],"src":"","alt":"","caption":"Madison Bycroft, <em>yeah, nah. With ornament<\/em>, 2019, installation view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"8c2e35c3-7a4a-4bf4-b7fb-e7a4a020fbb6","isHidden":false,"type":"image"},{"content":{"text":"When a character in a fantasy story passes through a portal, according to writer Joseph Campbell, this \u201ccrossing of the threshold\u201d is a symbol for their decision to embark upon the journey that is their destiny. Taking place at EIGEN + ART Lab and curated by a team of three \u2013 Marie Gerbaulet, Elena Setzer, and Hendrike Nagel \u2013 the exhibition \u2018Cater to You\u2019 proposes that we need to enter a speculative space in order to understand ourselves."},"id":"c4f325ab-c3d9-44bd-bbed-4cab3867382d","isHidden":false,"type":"text"},{"content":{"text":"In a dreamscape, things appear familiar, yet indefinably different and stranger than reality. The dramaturgy of \u2018Cater to You\u2019 puts the viewer in the position of a dreamer who moves from the earthy, firmly rooted front space, to the back, where ethereal blues and greens, tortured shapes, and blurry details shift and merge with jarringly jazzy music. However, in between the two spaces, familiarities from everyday life remain \u2013 icons of domesticity and decoration, entertainment and simple prettiness. But their shapes, add a twisted layer which indicates that this is not a complete withdrawal from our environment. On the contrary, the works here rather suggest that change can also occur <em>within<\/em> a system."},"id":"effd877e-d12f-4b4c-b1e9-23fb876ddccf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_11_cbrazelton_quartz_ansicht_2.jpg"],"src":"","alt":"","caption":"Cudelice Brazelton, <em>Glaive<\/em>, 2019, installation view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"7512b739-659d-48ce-bce2-40a2e4efba07","isHidden":false,"type":"image"},{"content":{"text":"The show opens with the charred lines of Cudelice Brazelton\u2019s brands etched onto the gallery wall (<em>Glaive<\/em>, 2019). The rust-coloured shapes, taken from shaving designs used in African American barbershops, are surrounded by shreds. Brazelton wrestles with, and against a system that simultaneously celebrates and exploits Blackness. The drama of the bloated symbols \u2013 blown up to several metres in length, splashed across the walls \u2013 rails against being typecast, inflaming these cyphers into soot, and yet, in so doing, redeploying them, against the gallery."},"id":"26a85432-0857-42f9-843c-007b14281a16","isHidden":false,"type":"text"},{"content":{"text":"Elsewhere, Jake Kent\u2019s <em>Punks is Hippies <\/em>(2018), a single clay hand that has the mottled flesh of a burn victim, appears as if it got in touch with the same blowtorch that singed Brazelton\u2019s denim. Although it sports a spiked wrist cuff, its childlike fingers hold, Anthropologie-like, a spree of dried wildflowers. Both works engage with the idea of objectification and fetishization, exploring the interplay between decor and art. Kent and Brazelton use tools of prevailing systems to criticize them reflexively."},"id":"c79f38c7-bd48-4fc7-8767-e357965a2fa2","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_5_jkent_punks_is_hippies_1.jpg"],"src":"","alt":"","caption":"Jake Kent, <em>Punks is Hippies<\/em>, 2018, installation view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"5b9da8d5-84af-4e82-b557-faa1a4cd86b2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_7_asolal_kite2_1.jpg"],"src":"","alt":"","caption":"Anna Solal, <em>Kite 1<\/em>, 2016, installation view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"b181ec95-b7fb-49a1-bc0b-23d226cb8ce5","isHidden":false,"type":"image"},{"content":{"text":"Close by, a pair of small kites, (<em>Kite 1, <\/em>2016; <em>Kite 2,<\/em> 2016) by Anna Solal lie on the floor. Using her signature materials, reminiscent of the scraps that could be found at your local squat\u2019s maker workshop \u2013 bike chains, string, scraps of fabric, glass from an iPad screen \u2013 her terrestrial sculptures are a visual metaphor for rootedness."},"id":"517df9e4-75bb-4b53-9edb-87a0d70e635b","isHidden":false,"type":"text"},{"content":{"text":"As one passes under the first archway between the two spaces at EIGEN+ART Lab, the colour palette and shapes shift. Madison Bycroft\u2019s <em>yeah nah. With Ornament<\/em> (2019) consists of the head of a ghostly sea creature, from which wispy fabric falls to the ground. It is suspended in front of a turquoise shape painted on the wall, which could be a pond, or a magic mirror. Nonetheless, the icons of everyday life remain, scattered about the room. Aesthetically harmonious illustrations, jingling elevator music the soundtrack to some on-screen antics, ceramic vessels in shades of pastel, full of a cornucopia of fresh vegan produce."},"id":"e30542ce-06b2-41c6-8b18-c49472979ca4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_17_catertoyou_ausstellungsansicht_13.jpg"],"src":"","alt":"","caption":"'Cater to You', 2019, exhibition view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"1b0c5ab5-1e04-4787-8c0b-1ae10d0fa466","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_25_catertoyou_ausstellungsansicht_9.jpg"],"src":"","alt":"","caption":"Madison Bycroft, <em>yeah, nah. With ornament<\/em>, 2019, installation view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"b987fadc-6c3f-4e9e-bd20-33504e3bba90","isHidden":false,"type":"image"},{"content":{"text":"At first, the table at the centre of the room, laden with Zoe Williams\u2019 ceramics (Gulper fish head tureen, 2019; <em>Rococo blush fish head tureen<\/em>, 2019; <em>Salmon bottom feed fish head tureen<\/em>, 2019) filled with fresh produce, appears to be a Cockaigne. However, this utopian abundance is undermined: the vegetables are actually aged and wilting, while Bycroft\u2019s anglerfish mouth gapes threateningly at one side. Another of Kent\u2019s pieces, <em>Punk Rock Possibility <\/em>(2018), adorns one wall, a confusing jumble of ceramics trends made manifest, and commodified punk. As a light box it relishes in its flirtation with the aesthetic of commercial decor. Orange light from behind carved baby-blue tile winks sweetly as one moves deeper into the space. The setting of Williams\u2019s vegetable-filled ceramics on a long white-clothed table suggests just this. In tandem with a big screen showing the documentation of her performative soir\u00e9e, <em>Ruffles <\/em>(2019). The performers in the video, carouse like court jesters on a Monte Carlo table top. In various states of undress, they feed one another cream cake, and plop languidly into full soup tureens. Their riotously uncouth behaviour, amped up to eleven, is underscored by the sober audience who is also caught by the documenting camera\u2019s lens."},"id":"4e6fe09c-3109-4cd0-bb4e-5dca393b6d14","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_31_catertoyou_ausstellungsansicht_1.jpg"],"src":"","alt":"","caption":"Zoe Williams, <em>Ruffles<\/em>, 2019 (Documentation of a performative soir\u00e9e on the occasion of artmonte-carlo, 2019); Courtesy: the artist &amp; Antoine Levi, Paris; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"c675edf3-b0df-4b80-aead-52ce9939f821","isHidden":false,"type":"image"},{"content":{"text":"If a dream world is a place in which the mundane becomes strange, this could prove that it is not always necessary to fully withdraw from a system in order to conceive it in new ways but rather change it from <em>within<\/em>. This idea is necessary due to the fact that it may not always be possible to remove oneself from a space of servitude within the system.Stoic notions of fate are not present within the landscape of \u2018Cater to You\u2019. On the contrary, the exhibition presents the possibility that there may be hidden portals to agencies within the systems we inhabit. However, the point of access to these niches requires a perspective that engages with the absurd, and this is visually illustrated in the fantastical overtones of the exhibition. The show proposes that the requisite step to performing this sleight of hand (or brain) is simply to decide to do so: to take the first tentative steps down the portentously whistling tunnel, to fumble through the back of a wardrobe, tumble down a rabbit hole, or simply to cross a threshold into rococo overabundance and gothic decay. To blend into the d\u00e9cor until the right moment to pounce, blade glittering between your teeth."},"id":"59583f5f-c446-47cd-bb74-e9be904c6110","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_19_catertoyou_ausstellungsansicht_19.jpg"],"src":"","alt":"","caption":"'Cater to You', 2019, exhibition view, EIGEN + ART Lab, Berlin. Courtesy: the artist and EIGEN + ART, Lab; photograph: Eike Walkenhorst","link":"","ratio":"","crop":"false"},"id":"204d0b58-5754-4712-9479-fbbf9515c7c7","isHidden":false,"type":"image"},{"content":{"text":"<strong>Cater to You<br><\/strong>10 September \u2013 19 October 2019<em><br><\/em>curated by<em> <\/em>Marie Gerbaulet, Hendrike Nagel and Elena Setzer"},"id":"c75660a4-922a-45cd-b55b-cd84c84a68f5","isHidden":false,"type":"text"},{"content":{"text":"<strong>artists<br><\/strong>Cudelice Brazelton, Madison Bycroft, Jake Kent, Anna Solal and Zoe Williams"},"id":"c09f5fdf-e01b-4857-b811-3771e161a913","isHidden":false,"type":"text"},{"content":{"text":"<strong>EIGEN + ART Lab<\/strong><br>Torstra\u00dfe 220<br>10115 Berlin"},"id":"c676c47a-d4be-4e84-847c-2453644490de","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  web_12_catertoyou_ausstellungsansicht_16.jpg
+
+----
+
+Author:
+
+- iObbLEdx
+
+----
+
+Date: 2019-12-06
+
+----
+
+Frontpage: false
+
+----
+
+Tags: 
+
+----
+
+Toggle: false
+
+----
+
+Order: 1
+
+----
+
+Cover:
+
+- >
+  web_25_catertoyou_ausstellungsansicht_9.jpg

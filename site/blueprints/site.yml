@@ -26,8 +26,12 @@ tabs:
   site:
     label: Everything else
     icon: 🔍
-    fields:
-      fetch: site.find("hoaboutme").text
+    sections:
+      ee_tab:
+        type: pages
+        templates:
+          - about
+          - blank
 
   stats:
     label: Stats

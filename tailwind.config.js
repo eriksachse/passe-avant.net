@@ -8,6 +8,8 @@ module.exports = {
     backgroundColor: () => ({
       green: "#0f0",
       interviews: "#d3d3d3",
+      white: "white",
+      transparent: "transparent",
     }),
     fontFamily: {
       Pregular: ["Pirelli-Regular"],
@@ -25,9 +27,22 @@ module.exports = {
       green: "#0f0",
       orange: "rgb(255, 85, 0)",
       white: "white",
+      black: "black",
+    },
+    fontSize: {
+      17: "17px",
+      19: "19px",
+      29: "29px",
+    },
+    lineHeight: {
+      19: "21px",
+      29: "31px",
     },
     height: {
       interviews: "40vw",
+    },
+    borderColor: {
+      orange: "rgb(255, 85, 0)",
     },
   },
   variants: {},

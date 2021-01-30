@@ -1,0 +1,57 @@
+Title: Yana Tsegay's Amberism
+
+----
+
+Subtitle: The Amber Room
+
+----
+
+Place: MOUNTAINS, Berlin
+
+----
+
+Preview: Yana Tsegay’s first solo show at MOUNTAINS, titled ‘The Amber Room’, is a sophisticated setup of intricate mentality and deferred abstraction accompanied by a subtle performance. ‘The Amber Room' inspects with arranged layers of organic materials and gestural paintings what one might understand as *amberisms*.
+
+----
+
+Text: [{"content":{"text":""},"id":"34ea29b3-f53b-4c2c-ac27-a836c84cf0e6","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_041.jpg"],"src":"","alt":"","caption":"Yana Tsegay, <em>Amber Medaillons<\/em>, 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"a9ac27a9-b3e2-4e8d-853e-b076f97d9c40","isHidden":false,"type":"image"},{"content":{"text":"Yana Tsegay\u2019s first solo show at MOUNTAINS, titled \u2018The Amber Room\u2019, is a sophisticated setup of intricate mentality and deferred abstraction accompanied by a subtle performance."},"id":"e9234670-dc39-4e87-849a-ee0687dc4120","isHidden":false,"type":"text"},{"content":{"text":"\u2018The Amber Room'<em> <\/em>inspects with arranged layers of organic materials and gestural paintings what one might understand as <em>amberisms<\/em>. Oval and rectangular sugar-resin plates arranged across the walls - four paintings on each wall: two of them on pillars, one in midst an amber gate, the other turning its back on the outside, leaning against a sculpture only visible from the street. In this arrangement the paintings become objects while situating them in a framework of being possibly ornamentalised. Searching for smooth elegancy \u2013 something ambers are exemplary for \u2013 one\u2019s gaze is repelled as Tsegay\u2018s raw gestures are more reminiscent of cave paintings."},"id":"e2866ed5-eeb2-405c-ba89-fda123f88cbf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_006.jpg"],"src":"","alt":"","caption":"Yana Tsegay, 'The Amber Room', 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"4b8ae079-77e9-4cba-870b-83f3dffb6a4b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_009.jpg"],"src":"","alt":"","caption":"Yana Tsegay, 'The Amber Room', 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"bac9af35-b277-43a6-9cb3-94acfd877381","isHidden":false,"type":"image"},{"content":{"text":"Fur reemerges as barriers throughout the room, shreds on canvas and handles on plates. I imagine myself encountering a crime scene, post-accident, where a black opossum has been destined to be part of its own undoing: it ran into the room, tried stealing amber and was countered. In the back of the gallery space the remains of this incident are constructed as a laboratory with fragments of evidence. A yellow swat highlighted and melting on a black grid could be the potential weapon of crime. A composition of shards on top of and attached to a transparent prism, adorned by photographs of the original Amber Room (German: Bernsteinzimmer) of the Prussian King Frederick I<em>,<\/em> raises doubts on how intrinsically related speculation and documentation are. Just as the historical Bernsteinzimmer, we are left to wonder on the occurrence. Traces of conjectures pass through the liability of assertion Tsegay imposes on the viewers."},"id":"997c4f61-b757-424f-8532-e8f33554a9cf","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_020.jpg"],"src":"","alt":"","caption":"Yana Tsegay, <em>Amber Plate,<\/em> 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"9917de2e-236b-4cdf-b6b5-5c32b7088a10","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_037.jpg"],"src":"","alt":"","caption":"Yana Tsegay, <em>Amber Plate,<\/em> 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"376801d3-6562-4637-9b01-c3378c066fc0","isHidden":false,"type":"image"},{"content":{"text":"This strategy shifts when Tsegay chooses to start her performance: a private conversation between her and the viewers. She begins by introducing photographs of a white Yeti whom she met prior to the opening, as she explains, and recounts their get-together: \u201cWe met at Caf\u00e9 Bernstein located near the gallery, went to take pictures at a palatial hallway next door and small-talked our way into an exclusive preview of my exhibition at MOUNTAINS\u201d, Tsegay tells her audience. As soon as the white Yeti noticed the genuine black fur at the exhibition, Tsegay mentions, an ominous disposition started flooding the conversation and both of their political agencies were laid bare. You would imagine an altercation or a commotion, yet impuissance seemed more benevolent. The fur, an organic material very familiar to him though very foreign to her, could have produced a very violent moment. For the sake of the exhibition it seems, the Yeti\u2019s political agency collapsed yet Tsegay\u2019s still persevered. Is it political agency or critical audacity we are witnessing? While the corporeality of their difference stays within the exhibition\u2019s semantic notions, their integrity is at stake. This faux-pas could have been a moment of indignation, yet the viewers were riddled into fatuity, another layer of complexity enhanced by photographs of Tsegay\u2019s and the Yeti\u2019s foot, hands or selfies. Throughout the opening evening you would hear variations of her narrative, one part of it never changed: she would stop talking when it was not your turn to listen."},"id":"1e065ba6-6396-4dba-b166-bcf86619d628","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["web_mountains_amber_room_dokumentname_008.jpg"],"src":"","alt":"","caption":"Yana Tsegay, 'The Amber Room', 2019, installation view, MOUNTAINS, Berlin. Courtesy: the artist and MOUNTAINS, Berlin","link":"","ratio":"","crop":"false"},"id":"dbee5989-8218-4873-ae4f-718191125867","isHidden":false,"type":"image"},{"content":{"text":"Artress* Yana Tsegay very quietly and gracefully redefines divergence as a performative strategy to incorporate the dynamics between appropriation and authorship. Assuming her intentions do not derive from logical conceptualizing, instead curiosity is what drives the ambiguity of \u2018The Amber Room\u2019. She is not investigating to enforce \u2013 although she speaks an investigative language \u2013 she is rather pondering, studying and reflecting upon materials associating aesthetics. The use of yellow, reoccurring as light, paint and material, adjoins almost to an unsightly manner. Generating a conversation and displacing her own authorship creates an incisive intimacy that eliminates privacy. A counterplay between Tsegay and her installation mirrors its own imagination against the expectation of others. Picturing the room as a space for speculation, an <em>amberism<\/em> could be a compelled and rejected desire. This intricacy requires intuition consumerism is unfit to acquire; though what is acquirable are the sugar-resin bags."},"id":"ad5d9558-e88d-4f8a-86a5-ac968744eefc","isHidden":false,"type":"text"},{"content":{"text":"*Artress is a neologism by the author"},"id":"477c6afd-c28c-48fc-b2ad-707f8490f4bd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["image0.jpeg"],"src":"","alt":"","caption":"Yana Tsegay and Yeti, 2019, documentation. Courtesy: the artist","link":"","ratio":"","crop":"false"},"id":"16133b24-b3d9-4e4f-a46a-e0c1e1d24f52","isHidden":false,"type":"image"},{"content":{"text":"<strong>Yana Tsegay \u2013 The Amber Room<br><\/strong>30 November 2019 \u2013 18 January 2020"},"id":"bfeb87df-5998-4936-a18b-253937dcc14d","isHidden":false,"type":"text"},{"content":{"text":"<strong>MOUNTAINS<br><\/strong>Pariser Stra\u00dfe 4<br>10719 Berlin"},"id":"c9f0fc03-155b-42d0-bc64-4254184b622b","isHidden":false,"type":"text"}]
+
+----
+
+Thumbnail:
+
+- >
+  web_mountains_amber_room_dokumentname_006.jpg
+
+----
+
+Author:
+
+- Zdkm76Zt
+
+----
+
+Date: 2019-12-19
+
+----
+
+Frontpage: false
+
+----
+
+Tags: Arootin Mirzakhani, Yana Tsegay, The Amber Room, Mountains, Review
+
+----
+
+Toggle: false
+
+----
+
+Order: 1
+
+----
+
+Cover:
+
+- >
+  web_mountains_amber_room_dokumentname_037.jpg

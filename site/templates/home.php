@@ -13,11 +13,11 @@
                         <?php endif ?>)">
 
                     </div>
-                    <a href="<?= $home->url() ?>" class="swiper-title text-2xl p-4 <?php
-                                                                                    e($home->template() == "interview", 'home_interview');
-                                                                                    e($home->template() == "review", 'home_review');
-                                                                                    e($home->template() == "feature", 'home_feature')
-                                                                                    ?>">
+                    <a href="<?= $home->url() ?>" class="swiper-title text-2xl p-4 text-29 leading-29 <?php
+                                                                                                        e($home->template() == "interview", 'home_interview');
+                                                                                                        e($home->template() == "review", 'home_review');
+                                                                                                        e($home->template() == "feature", 'home_feature')
+                                                                                                        ?>">
                         <div class="font-Pbold uppercase"><?= $home->title() ?></div>
                         <div class="font-Pbolditalic"><?= $home->subtitle() ?></div>
                     </a>
