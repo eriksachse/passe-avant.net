@@ -15,12 +15,6 @@
     <meta name="page-type" content="Katalog Verzeichnis">
     <meta http-equiv="content-language" content="en">
     <meta name="robots" content="index, follow">
-
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="PASSE-AVANT is an online magazine for contemporary art" />
-    <meta name="twitter:description" content="<?php if ($page->preview()->isNotEmpty()) : ?><?= $page->preview()->html() ?><?php else : ?>PASSE-AVANT is an online magazine for contemporary art<?php endif ?>" />
-    <meta name="twitter:image" content="<?php if ($page->cover()->isNotEmpty()) : ?><?= $page->cover()->toFile()->resize(1200)->url() ?><?php else : ?><?= $kirby->url('assets') ?>/images/PASSE-AVANT-orange.jpg<?php endif ?>" />
-
     <link rel="apple-touch-icon" sizes="180x180" href="<?= $kirby->url('assets') ?>/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?= $kirby->url('assets') ?>/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?= $kirby->url('assets') ?>/images/favicon-16x16.png">

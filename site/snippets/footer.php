@@ -24,7 +24,7 @@
         <!--End mc_embed_signup-->
         <div style="padding-top:30px">
             <?php
-            $socials = $page->social()->toStructure();
+            $socials = $site->find('about')->social()->toStructure();
             foreach ($socials as $item) : ?>
                 <a href="<?= $item->url() ?>" target="_blank" class="overflow-visible"><?= $item->platform()->html() ?></a><br>
             <?php endforeach ?>

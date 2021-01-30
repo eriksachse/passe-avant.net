@@ -1,4 +1,4 @@
-<div class="mt-40 <?= $template ?>">
+<div class="my-40 <?= $template ?>">
     <div class="pl-2">
         <div class="font-Pbold">
             <?= $page->title()->html() ?><br />
@@ -7,10 +7,11 @@
         </div>
         <div class="my-4 text-16 leading-16">
             <?= $page->date()->toDate('d–m–Y') ?> <br />
-            <?= $page->category() ?> by <?php $users = $page->author()->toUsers();
-                                        foreach ($users as $user) : ?>
-                <a href="<?= $site->url() ?>/authors/<?= $user->name()->slug() ?>"><?= $user->name() ?></a>
-            <?php endforeach ?>
+            <?= $page->category() ?> <?php $users = $page->author()->toUsers();
+                                        if ($users->exists()) : ?>by <?php endif ?>
+        <?php foreach ($users as $user) : ?>
+            <a href="<?= $site->url() ?>/authors/<?= $user->name()->slug() ?>"><?= $user->name() ?></a>
+        <?php endforeach ?>
         </div>
     </div>
     <?php foreach ($page->text()->toBlocks() as $block) : ?>
@@ -29,6 +30,7 @@
             var caption = figure.querySelector('figcaption');
             console.log(caption)
             console.log(figure)
+            figure.classList.add("mb-4")
             if (caption) {
                 caption.style.width = width - "15"
                 caption.classList.add("mx-4", 'my-1')
