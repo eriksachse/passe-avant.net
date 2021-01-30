@@ -216,8 +216,32 @@ footer a,
   transition: text-shadow 0.2s linear;
   cursor: pointer;
 }
+.feature img,
+.review img,
+.interview img,
+.opinion img {
+  max-width: 70vw;
+  max-height: 100vh;
+}
+@media only screen and (max-width: 768px) {
+  .feature img,
+  .review img,
+  .interview img,
+  .opinion img {
+    max-width: 100%;
+  }
+}
+
 footer a:hover,
 #mc-embedded-subscribe:hover,
 .newsletter_submission {
   text-shadow: 2px 2px 3px #ff6600;
+}
+.about a {
+  text-decoration: underline;
+}
+b,
+strong {
+  font-family: "Pirelli-Bold";
+  font-weight: inherit;
 }

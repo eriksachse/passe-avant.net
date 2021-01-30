@@ -23,15 +23,19 @@
 
         <!--End mc_embed_signup-->
         <div style="padding-top:30px">
-            <a href="https://www.facebook.com/passeavantlemeilleur/" target="_blank" class="hover:shadow-orange">Facebook</a><br>
-            <a href="https://www.instagram.com/passeavant/" target="_blank">Instagram</a><br>
-            <a href="<?= $site->find('contact')->url() ?>"><?= $site->find('contact')->title() ?></a><br>
-            <a href="<?= $site->find('impressum')->url() ?>"><?= $site->find('impressum')->title() ?></a><br>
-            <a href="<?= $site->find('datenschutz')->url() ?>"><?= $site->find('datenschutz')->title() ?></a>
+            <?php
+            $socials = $page->social()->toStructure();
+            foreach ($socials as $item) : ?>
+                <a href="<?= $item->url() ?>" target="_blank" class="overflow-visible"><?= $item->platform()->html() ?></a><br>
+            <?php endforeach ?>
+
+            <a href="<?= $site->find('contact')->url() ?>" class="overflow-visible"><?= $site->find('contact')->title() ?></a><br>
+            <a href="<?= $site->find('impressum')->url() ?>" class="overflow-visible"><?= $site->find('impressum')->title() ?></a><br>
+            <a href="<?= $site->find('datenschutz')->url() ?>" class="overflow-visible"><?= $site->find('datenschutz')->title() ?></a>
         </div>
     </footer>
 <?php endif ?>
-
+</div>
 </body>
 
 </html>

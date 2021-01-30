@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<div class="grid grid-cols-2 m-2 mt-28 gap-12">
+<div class="grid grid-cols-2 m-2 mt-28 gap-12 about">
     <div>
         <div class="font-Pbold pb-12">
             <?= $page->headline()->kirbyText() ?>
@@ -44,31 +44,15 @@
         <?php
         $contributions = $page->contributions()->toStructure();
         foreach ($contributions as $item) : ?>
-            <a href=""><?= $item->name()->html() ?></a>
+            <div>
+                <div class="uppercase"><?= $item->compartment() ?></div>
+                <div class="pb-4 pl-8">
+                    <a href="<?= $item->website() ?>" target="_blank"><?= $item->name()->html() ?></a>
+                </div>
+            </div>
         <?php endforeach ?>
 
-        ART DIRECTION
-        <div class="text">
-            <p>
-                <a href="http://studiobuettner.com/" target="_blank">Anne Büttner</a>
-            </p>
-        </div>
 
-
-        WEBSITE DEVELOPMENT
-        <div class="text">
-            <p>
-                <a href="https://napoleon.services/" target="_blank">Erik Sachse</a>
-            </p>
-        </div>
-
-
-        TYPEFACE
-        <div class="text">
-            <p>
-                <a href="https://www.jung-lee.nl/pirelli/regular/128pt/black/lava-red" target="_blank">Pirelli</a> by <a href="https://www.jung-lee.nl" target="_blank">Jung-Lee</a>
-            </p>
-        </div>
     </div>
 </div>
 <?php snippet('footer') ?>

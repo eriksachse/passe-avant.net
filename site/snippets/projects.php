@@ -37,7 +37,7 @@
 
             <?php if ($template == "features" || $template == "reviews" || $template == "opinions") : ?>
                 <div class="m-2 mb-24">
-                    <div class="text-17">
+                    <div class="text-17 2xl:text-18">
                         <?= $article->date()->toDate('d–m–Y') ?></div>
                     <div class="m-4">
                         <?= $article->title()->html() ?><br />

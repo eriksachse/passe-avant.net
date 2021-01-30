@@ -18,17 +18,23 @@ Text: [{"content":{"location":"kirby","image":["sundenbock_thereference_3.jpg"],
 
 ----
 
+Category: Exhibition Note
+
+----
+
 Thumbnail:
 
 - sundenbock_thereference_9.jpg
 
 ----
 
-Author: 
+Author:
+
+- jy2svp5v
 
 ----
 
-Published: 
+Date: 2020-09-29
 
 ----
 
@@ -36,11 +42,7 @@ Frontpage: true
 
 ----
 
-Category: Exhibition Note
-
-----
-
-Date: 2020-09-29
+Published: 
 
 ----
 

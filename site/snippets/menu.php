@@ -7,7 +7,7 @@ $items = $pages->listed();
 if ($items->isNotEmpty()) :
 
 ?>
-  <div class="fixed w-full z-10 top-0">
+  <div class="fixed w-full z-10 top-0 text-17 ">
     <nav class="flex md:flex-row flex-col text-center justify-center uppercase font-Pbold m-2">
       <div class="flex-shrink-0 hidden md:block md:mx-4 <?php e($page->template() == "home", ' text-green') ?> hover:text-orange orange-shadow transition-colors"><a href="<?= $site->url() ?>"><?= $site->title() ?></a></div>
       <?php foreach ($items as $item) : ?>
