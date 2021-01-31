@@ -25,7 +25,7 @@ Thumbnail:
 
 ----
 
-Author:
+Authors:
 
 - CPIk90r6
 - yfUBPSYH

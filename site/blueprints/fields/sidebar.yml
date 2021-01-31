@@ -9,8 +9,8 @@ fields:
     layout: cards
     size: medium
 
-  author:
-    label: Author
+  authors:
+    label: Editor(s)
     type: users
 
   date:

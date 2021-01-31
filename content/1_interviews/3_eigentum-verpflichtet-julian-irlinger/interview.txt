@@ -24,13 +24,15 @@ Thumbnail:
 
 ----
 
-Author:
+Authors:
 
-- 70kGsQ8Z
+- SUy9Pyun
+- CPIk90r6
+- xXHvQYKC
 
 ----
 
-Published: 
+Date: 2020-07-20
 
 ----
 
@@ -38,11 +40,19 @@ Frontpage: false
 
 ----
 
-Person: 
+Editors: - xXHvQYKC
 
 ----
 
-Date: 2020-07-20
+Author: - 70kGsQ8Z
+
+----
+
+Published: 
+
+----
+
+Person: 
 
 ----
 

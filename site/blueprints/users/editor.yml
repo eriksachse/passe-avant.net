@@ -1,0 +1,63 @@
+title: Editor
+description: Authors can only create pages
+permissions:
+  access:
+    panel: true
+    site: true
+    settings: false
+    users: false
+  files:
+    create: true
+    changeName: true
+    delete: true
+    read: true
+    replace: true
+    update: true
+  languages:
+    create: false
+    delete: false
+  pages:
+    changeSlug: false
+    changeStatus: true
+    changeTemplate: false
+    changeTitle: true
+    create: true
+    delete: false
+    duplicate: false
+    preview: true
+    read: true
+    sort: false
+    update: true
+  site:
+    changeTitle: false
+    update: false
+  user:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    delete: false
+    update: false
+  users:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    create: false
+    delete: false
+    update: false
+fields:
+  bio:
+    label: Bio
+    type: textarea
+  website:
+    label: Website
+    type: url
+  twitter:
+    label: Twitter account
+    type: text
+  Instagram:
+    label: Instagram account
+    type: text

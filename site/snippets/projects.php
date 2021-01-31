@@ -22,13 +22,13 @@
 
                 <?php if ($template == "interviews") : ?>
                     <div class="interviews-title">
-                        <h1 class="font-Pbold orange-shadow text-white relative">
+                        <div class="font-Pbold orange-shadow text-white relative">
                             <?= $article->title()->html() ?>
                             <br />
                             <?= $article->subtitle()->html() ?>
                             <br />
                             <?= $article->place()->html() ?>
-                        </h1>
+                        </div>
                     </div>
                 <?php endif; ?>
                 <?php if ($template == "interviews") : ?>
@@ -62,36 +62,36 @@
 
 <?php $pagination = $articles->pagination() ?>
 <nav>
-    <ul class="flex items-center justify-center m-4">
+    <div class="flex items-center justify-center m-4">
 
         <?php if ($pagination->hasPrevPage()) : ?>
-            <li class="mx-1 text-orange">
+            <div class="mx-1 text-orange">
                 <a href="<?= $pagination->prevPageURL() ?>">Previous</a>
-            </li>
+            </div>
         <?php else : ?>
-            <li class="mx-1">
+            <div class="mx-1">
                 <span>Previous</span>
-            </li>
+            </div>
         <?php endif ?>
 
         <?php foreach ($pagination->range(1) as $r) : ?>
-            <li class="mx-1">
+            <div class="mx-1">
                 <?= $r ?>
-            </li>
+            </div>
             <?php endforeach ?>/
             <?php echo $pagination->lastPage(); ?>
 
             <?php if ($pagination->hasNextPage()) : ?>
-                <li class="mx-1 text-orange">
+                <div class="mx-1 text-orange">
                     <a href="<?= $pagination->nextPageURL() ?>">Next</a>
-                </li>
+                </div>
             <?php else : ?>
-                <li class="mx-1">
+                <div class="mx-1">
                     <span>Next</span>
-                </li>
+                </div>
             <?php endif ?>
 
-    </ul>
+    </div>
 </nav>
 <?php if ($template == "features" || "reviews") : ?>
     <script>

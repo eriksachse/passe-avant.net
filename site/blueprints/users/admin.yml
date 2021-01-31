@@ -1,4 +1,5 @@
-title: Author
+title: Admin
+description: Admins can manage all posts
 fields:
   bio:
     label: Bio

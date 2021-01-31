@@ -18,6 +18,9 @@ if ($items->isNotEmpty()) :
       <div class="flex-shrink-0 hidden md:block md:mx-4 <?php e($page->template() == "home", ' text-green') ?> hover:text-orange orange-shadow transition-colors">
         <a href="<?= $pages->find('about')->url() ?>">About</a>
       </div>
+      <form class="flex-shrink-0 hidden md:block md:mx-4 w-20<?php e($page->template() == "home", ' text-green') ?>" action="<?= page('search')->url() ?>">
+        <input type="search" name="q" value="" placeholder="SEARCH" class="<?php e($page->template() == "home", ' placeholder-green') ?> uppercase placeholder-black orange-shadow bg-transparent focus:outline-none" onfocus="this.placeholder = ''" onblur="this.placeholder = 'SEARCH'">
+      </form>
     </nav>
   </div>
 <?php endif ?>

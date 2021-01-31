@@ -24,11 +24,14 @@ Thumbnail:
 
 ----
 
-Author: 
+Authors:
+
+- qkN8Y1tZ
+- xXHvQYKC
 
 ----
 
-Published: 
+Date: 2020-10-02
 
 ----
 
@@ -36,11 +39,18 @@ Frontpage: false
 
 ----
 
-Person: 
+Editors:
+
+- ul5E9Qx3
+- SUy9Pyun
 
 ----
 
-Date: 2020-10-02
+Published: 
+
+----
+
+Person: 
 
 ----
 

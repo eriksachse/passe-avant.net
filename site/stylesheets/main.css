@@ -124,6 +124,9 @@
 .orange-shadow {
   text-shadow: 1px 1px 3px rgba(255, 102, 0, 0.8);
 }
+shadow-inherit {
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0);
+}
 .home_interview {
   color: white;
 }
@@ -232,6 +235,10 @@ footer a,
   }
 }
 
+.blank p {
+  margin-bottom: 1rem;
+}
+
 footer a:hover,
 #mc-embedded-subscribe:hover,
 .newsletter_submission {
@@ -245,3 +252,34 @@ strong {
   font-family: "Pirelli-Bold";
   font-weight: inherit;
 }
+em {
+  font-style: inherit;
+  font-family: "Pirelli-RegularItalic";
+}
+strong em {
+  font-style: inherit;
+  font-weight: inherit;
+  font-family: "Pirelli-BoldItalic";
+}
+ul {
+  margin-left: 2rem;
+  list-style: disc;
+}
+h1 {
+  font-family: "Pirelli-Bold";
+  margin: 2em 0;
+  font-size: 2em;
+}
+h2 {
+  font-family: "Pirelli-Bold";
+  margin: 1.4em 0;
+  font-size: 1.4em;
+}
+h3 {
+  font-family: "Pirelli-Bold";
+  margin: 1em 0;
+  font-size: 1em;
+}
+/* ::placeholder {
+  color: blue;
+} */

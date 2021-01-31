@@ -11,6 +11,10 @@ module.exports = {
       white: "white",
       transparent: "transparent",
     }),
+    placeHolder: {
+      black: "black",
+      green: "#0f0",
+    },
     fontFamily: {
       Pregular: ["Pirelli-Regular"],
       Pregularitalic: ["Pirelli-RegularItalic"],
