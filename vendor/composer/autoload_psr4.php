@@ -8,6 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Whoops\\' => array($vendorDir . '/filp/whoops/src/Whoops'),
     'TrueBV\\' => array($vendorDir . '/true/punycode/src'),
+    'Thathoff\\GitContent\\' => array($baseDir . '/site/plugins/git-content/src'),
     'Symfony\\Polyfill\\Mbstring\\' => array($vendorDir . '/symfony/polyfill-mbstring'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
     'PHPMailer\\PHPMailer\\' => array($vendorDir . '/phpmailer/phpmailer/src'),
@@ -15,5 +16,5 @@ return array(
     'Laminas\\Escaper\\' => array($vendorDir . '/laminas/laminas-escaper/src'),
     'Kirby\\' => array($baseDir . '/kirby/src', $vendorDir . '/getkirby/composer-installer/src'),
     'KirbyExtended\\' => array($baseDir . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended'),
-    '' => array($vendorDir . '/league/color-extractor/src'),
+    '' => array($vendorDir . '/league/color-extractor/src', $vendorDir . '/coyl/git/src'),
 );

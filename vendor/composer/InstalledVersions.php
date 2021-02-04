@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'bad43cf47cfadf8eb92f4475b71287b4ffad6acc',
+    'reference' => '886878dca75e9df9a2b904f63d9c5ff808f4867e',
     'name' => 'getkirby/plainkit',
   ),
   'versions' => 
@@ -42,6 +42,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'ab2ab8a4672738ab77b39b00922ee4e79aeadb11',
+    ),
+    'coyl/git' => 
+    array (
+      'pretty_version' => '0.1.7',
+      'version' => '0.1.7.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'bc9893d096fab1bdd0fac8ee2f30b8b1dcbf8d63',
     ),
     'filp/whoops' => 
     array (
@@ -77,7 +86,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'bad43cf47cfadf8eb92f4475b71287b4ffad6acc',
+      'reference' => '886878dca75e9df9a2b904f63d9c5ff808f4867e',
     ),
     'johannschopplich/kirby-blurry-placeholder' => 
     array (
@@ -166,6 +175,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'f377a3dd1fde44d37b9831d68dc8dea3ffd28e13',
+    ),
+    'thathoff/kirby-git-content' => 
+    array (
+      'pretty_version' => 'v4.0.1',
+      'version' => '4.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '379e8f9694b42d9154283af3dcc3465ca09b3171',
     ),
     'true/punycode' => 
     array (

@@ -26,4 +26,10 @@ return [
     ],  'panel' => [
         'css' => 'assets/custom-panel.css'
     ],
+    'thathoff' => [
+        'git-content' => [
+            'commit' => true,
+            'push' => true,
+        ],
+    ],
 ];

@@ -22,6 +22,7 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
         'T' => 
         array (
             'TrueBV\\' => 7,
+            'Thathoff\\GitContent\\' => 20,
         ),
         'S' => 
         array (
@@ -52,6 +53,10 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
         'TrueBV\\' => 
         array (
             0 => __DIR__ . '/..' . '/true/punycode/src',
+        ),
+        'Thathoff\\GitContent\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/site/plugins/git-content/src',
         ),
         'Symfony\\Polyfill\\Mbstring\\' => 
         array (
@@ -86,6 +91,7 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
 
     public static $fallbackDirsPsr4 = array (
         0 => __DIR__ . '/..' . '/league/color-extractor/src',
+        1 => __DIR__ . '/..' . '/coyl/git/src',
     );
 
     public static $prefixesPsr0 = array (
@@ -107,6 +113,17 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'Coyl\\Git\\Console' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/Console.php',
+        'Coyl\\Git\\ConsoleException' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/ConsoleException.php',
+        'Coyl\\Git\\DTO\\Branch' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/DTO/Branch.php',
+        'Coyl\\Git\\DTO\\Reference' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/DTO/Reference.php',
+        'Coyl\\Git\\DTO\\Tag' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/DTO/Tag.php',
+        'Coyl\\Git\\Exception\\BranchNotFoundException' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/Exception/BranchNotFoundException.php',
+        'Coyl\\Git\\Exception\\InvalidArgumentException' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/Exception/InvalidArgumentException.php',
+        'Coyl\\Git\\Git' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/Git.php',
+        'Coyl\\Git\\GitException' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/GitException.php',
+        'Coyl\\Git\\GitRepo' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/GitRepo.php',
+        'Coyl\\Git\\RepoUtils' => __DIR__ . '/..' . '/coyl/git/src/Coyl/Git/RepoUtils.php',
         'KirbyExtended\\BlurryPlaceholder' => __DIR__ . '/../..' . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholder.php',
         'KirbyExtended\\BlurryPlaceholderHelpers' => __DIR__ . '/../..' . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholderHelpers.php',
         'Kirby\\Api\\Api' => __DIR__ . '/../..' . '/kirby/src/Api/Api.php',
@@ -373,6 +390,8 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
         'Psr\\Log\\Test\\LoggerInterfaceTest' => __DIR__ . '/..' . '/psr/log/Psr/Log/Test/LoggerInterfaceTest.php',
         'Psr\\Log\\Test\\TestLogger' => __DIR__ . '/..' . '/psr/log/Psr/Log/Test/TestLogger.php',
         'Symfony\\Polyfill\\Mbstring\\Mbstring' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/Mbstring.php',
+        'Thathoff\\GitContent\\KirbyGit' => __DIR__ . '/../..' . '/site/plugins/git-content/src/KirbyGit.php',
+        'Thathoff\\GitContent\\KirbyGitHelper' => __DIR__ . '/../..' . '/site/plugins/git-content/src/KirbyGitHelper.php',
         'TrueBV\\Exception\\DomainOutOfBoundsException' => __DIR__ . '/..' . '/true/punycode/src/Exception/DomainOutOfBoundsException.php',
         'TrueBV\\Exception\\LabelOutOfBoundsException' => __DIR__ . '/..' . '/true/punycode/src/Exception/LabelOutOfBoundsException.php',
         'TrueBV\\Exception\\OutOfBoundsException' => __DIR__ . '/..' . '/true/punycode/src/Exception/OutOfBoundsException.php',

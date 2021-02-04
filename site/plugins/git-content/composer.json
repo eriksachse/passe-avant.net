@@ -1,0 +1,18 @@
+{
+  "name": "thathoff/kirby-git-content",
+  "description": "Plugin to track changes to content in a git repository.",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "require": {
+    "coyl/git": "^0.1.7",
+    "getkirby/composer-installer": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Thathoff\\GitContent\\": "src/"
+    }
+  },
+  "extra": {
+    "installer-name": "git-content"
+  }
+}

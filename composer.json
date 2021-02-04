@@ -20,7 +20,8 @@
     "require": {
         "php": ">=7.1.0",
         "getkirby/cms": "^3.0",
-        "johannschopplich/kirby-blurry-placeholder": "^1.1"
+        "johannschopplich/kirby-blurry-placeholder": "^1.1",
+        "thathoff/kirby-git-content": "^4.0"
     },
     "config": {
         "optimize-autoloader": true
