@@ -5,7 +5,7 @@
             <?= $page->subtitle()->html() ?><br />
             <?= $page->place()->html() ?><br />
         </div>
-        <div class="my-2 text-16 leading-16 2xl:text-19 2xl:leading-19">
+        <div class="my-2 mb-8 text-16 leading-16 2xl:text-19 2xl:leading-19">
             <?= $page->date()->toDate('d–m–Y') ?> <br />
             <?= $page->category() ?> <?php $users = $page->author()->toUsers();
                                         if ($users->exists()) : ?>by <?php endif ?>
@@ -20,20 +20,3 @@
         </div>
     <?php endforeach ?>
 </div>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-        var figures = document.querySelectorAll('figure')
-        figures.forEach((figure) => {
-            var width = figure.querySelector("img").getBoundingClientRect().width;
-            var caption = figure.querySelector('figcaption');
-            figure.classList.add("mb-2")
-            console.log(width, caption)
-            if (caption) {
-                caption.style.width = width - "15" + "px"
-                caption.classList.add("mx-2", 'my-1')
-            }
-
-        });
-    });
-</script>

@@ -7,6 +7,8 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'KirbyExtended\\BlurryPlaceholder' => $baseDir . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholder.php',
+    'KirbyExtended\\BlurryPlaceholderHelpers' => $baseDir . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholderHelpers.php',
     'Kirby\\Api\\Api' => $baseDir . '/kirby/src/Api/Api.php',
     'Kirby\\Api\\Collection' => $baseDir . '/kirby/src/Api/Collection.php',
     'Kirby\\Api\\Model' => $baseDir . '/kirby/src/Api/Model.php',

@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '9fab8c836a36af023d637352bb1c271ace115452',
+    'reference' => 'bad43cf47cfadf8eb92f4475b71287b4ffad6acc',
     'name' => 'getkirby/plainkit',
   ),
   'versions' => 
@@ -54,7 +54,16 @@
       'aliases' => 
       array (
       ),
-      'reference' => '9fab8c836a36af023d637352bb1c271ace115452',
+      'reference' => 'bad43cf47cfadf8eb92f4475b71287b4ffad6acc',
+    ),
+    'johannschopplich/kirby-blurry-placeholder' => 
+    array (
+      'pretty_version' => 'v1.1.4',
+      'version' => '1.1.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1a3a85d15d94a9a7f776e189aebd4b4622a988a5',
     ),
     'laminas/laminas-escaper' => 
     array (

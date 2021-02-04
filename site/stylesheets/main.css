@@ -256,10 +256,17 @@ em {
   font-style: inherit;
   font-family: "Pirelli-RegularItalic";
 }
-strong em {
+strong em,
+.font-Pbold em {
   font-style: inherit;
   font-weight: inherit;
   font-family: "Pirelli-BoldItalic";
+}
+.review a,
+.feature a,
+.interview a,
+.opinion a {
+  text-decoration: underline;
 }
 ul {
   margin-left: 2rem;

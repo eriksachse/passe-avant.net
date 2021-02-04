@@ -1,0 +1,1 @@
+[2021-02-04 08:55] [Notice] Successfully created a new SimpleStats database v_2 @ /Users/eriksachse/websites/passe-avant.net/site/logs/simplestats.sqlite !

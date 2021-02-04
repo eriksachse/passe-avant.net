@@ -39,4 +39,5 @@
 </body>
 
 </html>
+<?= js('assets/imagesloaded.js') ?>
 <?= js('assets/javascript.js') ?>

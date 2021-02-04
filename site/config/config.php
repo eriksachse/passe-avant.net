@@ -25,5 +25,5 @@ return [
         ]
     ],  'panel' => [
         'css' => 'assets/custom-panel.css'
-    ]
+    ],
 ];

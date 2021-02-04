@@ -1,5 +1,8 @@
 type: group
 fields:
+  authors:
+    label: Editor(s)
+    type: users
   thumbnail:
     label: Thumbnail
     type: files
@@ -8,10 +11,6 @@ fields:
     uploads: false
     layout: cards
     size: medium
-
-  authors:
-    label: Editor(s)
-    type: users
 
   date:
     label: Date

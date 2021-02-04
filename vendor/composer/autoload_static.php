@@ -40,6 +40,7 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
         'K' => 
         array (
             'Kirby\\' => 6,
+            'KirbyExtended\\' => 14,
         ),
     );
 
@@ -74,8 +75,12 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
         ),
         'Kirby\\' => 
         array (
-            0 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
-            1 => __DIR__ . '/../..' . '/kirby/src',
+            0 => __DIR__ . '/../..' . '/kirby/src',
+            1 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+        ),
+        'KirbyExtended\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended',
         ),
     );
 
@@ -102,6 +107,8 @@ class ComposerStaticInit220890fd643c4b7344e977a7707b776e
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'KirbyExtended\\BlurryPlaceholder' => __DIR__ . '/../..' . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholder.php',
+        'KirbyExtended\\BlurryPlaceholderHelpers' => __DIR__ . '/../..' . '/site/plugins/kirby-blurry-placeholder/classes/KirbyExtended/BlurryPlaceholderHelpers.php',
         'Kirby\\Api\\Api' => __DIR__ . '/../..' . '/kirby/src/Api/Api.php',
         'Kirby\\Api\\Collection' => __DIR__ . '/../..' . '/kirby/src/Api/Collection.php',
         'Kirby\\Api\\Model' => __DIR__ . '/../..' . '/kirby/src/Api/Model.php',

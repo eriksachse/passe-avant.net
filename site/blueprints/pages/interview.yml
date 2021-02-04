@@ -9,6 +9,25 @@ columns:
         fields:
           main: fields/main
 
+          person:
+            label: Interviewed Person
+            type: text
+
+          subtitle:
+            type: text
+
+          preview:
+            type: textarea
+
+          text:
+            type: blocks
+            fieldsets:
+              - heading
+              - text
+              - list
+              - image
+              - video
+
   sidebar:
     width: 1/3
     sections:

@@ -11,7 +11,7 @@ module.exports = {
       white: "white",
       transparent: "transparent",
     }),
-    placeHolder: {
+    placeholderColor: {
       black: "black",
       green: "#0f0",
     },
