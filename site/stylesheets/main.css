@@ -314,7 +314,7 @@ h3 {
   grid-column: span 2 / span 2;
 }
 input[type="search"] {
-  margin-left: 22px;
+  /* margin-left: 22px; */
 }
 
 @media (min-width: 768px) {
@@ -324,4 +324,7 @@ input[type="search"] {
 }
 .swiper-slide:not(.swiper-slide-active) {
   opacity: 0.5;
+}
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
 }
