@@ -1,0 +1,29 @@
+title: Ad
+preset: page
+pages: false
+fields:
+  frontpage:
+    label: Frontpage visible
+    type: toggle
+    text:
+      - "Hidden"
+      - "Show"
+  ads:
+    label: Ads
+    type: structure
+    fields:
+      link:
+        label: Url
+        type: text
+      thumbnail:
+        label: Image
+        type: files
+        multiple: false
+        query: page.images
+        uploads: false
+      size:
+        label: Size
+        type: select
+        options:
+          oc: One column (Fill width)
+          tc: Two columns (1/2 width)

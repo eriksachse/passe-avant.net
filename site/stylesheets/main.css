@@ -161,6 +161,25 @@ shadow-inherit {
   max-width: 50vw;
   max-height: 40vw;
 }
+.opinions {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+@media only screen and (max-width: 768px) {
+  .interviews img {
+    max-height: 100vw;
+  }
+  .reviews img,
+  .features img,
+  .opinions img {
+    max-width: 100vw;
+    max-height: 60vh;
+  }
+  .opinions {
+    display: block;
+  }
+}
+
 .interviews a {
 }
 .interviews-title {
@@ -290,3 +309,19 @@ h3 {
 /* ::placeholder {
   color: blue;
 } */
+
+.oc {
+  grid-column: span 2 / span 2;
+}
+input[type="search"] {
+  margin-left: 22px;
+}
+
+@media (min-width: 768px) {
+  input[type="search"] {
+    margin-left: 0px;
+  }
+}
+.swiper-slide:not(.swiper-slide-active) {
+  opacity: 0.5;
+}

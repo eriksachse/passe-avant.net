@@ -773,6 +773,28 @@ shadow-inherit {
   max-height: 40vw;
 }
 
+.opinions {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  .interviews img {
+    max-height: 100vw;
+  }
+
+  .reviews img,
+  .features img,
+  .opinions img {
+    max-width: 100vw;
+    max-height: 60vh;
+  }
+
+  .opinions {
+    display: block;
+  }
+}
+
 .interviews a {
 }
 
@@ -1949,6 +1971,10 @@ article img {
   background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
 }
 
+.bg-opinions {
+  background-color: rgba(0,0,0,0.45);
+}
+
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -1956,6 +1982,10 @@ article img {
 
 .bg-transparent {
   background-color: transparent;
+}
+
+.bg-menu {
+  background-color: rgba(120,115,111, .93);
 }
 
 .group:hover .group-hover\:bg-green {
@@ -1968,6 +1998,10 @@ article img {
   background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
 }
 
+.group:hover .group-hover\:bg-opinions {
+  background-color: rgba(0,0,0,0.45);
+}
+
 .group:hover .group-hover\:bg-white {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -1975,6 +2009,10 @@ article img {
 
 .group:hover .group-hover\:bg-transparent {
   background-color: transparent;
+}
+
+.group:hover .group-hover\:bg-menu {
+  background-color: rgba(120,115,111, .93);
 }
 
 .focus-within\:bg-green:focus-within {
@@ -1987,6 +2025,10 @@ article img {
   background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
 }
 
+.focus-within\:bg-opinions:focus-within {
+  background-color: rgba(0,0,0,0.45);
+}
+
 .focus-within\:bg-white:focus-within {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -1994,6 +2036,10 @@ article img {
 
 .focus-within\:bg-transparent:focus-within {
   background-color: transparent;
+}
+
+.focus-within\:bg-menu:focus-within {
+  background-color: rgba(120,115,111, .93);
 }
 
 .hover\:bg-green:hover {
@@ -2006,6 +2052,10 @@ article img {
   background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
 }
 
+.hover\:bg-opinions:hover {
+  background-color: rgba(0,0,0,0.45);
+}
+
 .hover\:bg-white:hover {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -2013,6 +2063,10 @@ article img {
 
 .hover\:bg-transparent:hover {
   background-color: transparent;
+}
+
+.hover\:bg-menu:hover {
+  background-color: rgba(120,115,111, .93);
 }
 
 .focus\:bg-green:focus {
@@ -2025,6 +2079,10 @@ article img {
   background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
 }
 
+.focus\:bg-opinions:focus {
+  background-color: rgba(0,0,0,0.45);
+}
+
 .focus\:bg-white:focus {
   --tw-bg-opacity: 1;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -2032,6 +2090,10 @@ article img {
 
 .focus\:bg-transparent:focus {
   background-color: transparent;
+}
+
+.focus\:bg-menu:focus {
+  background-color: rgba(120,115,111, .93);
 }
 
 .bg-none {
@@ -22355,6 +22417,24 @@ h3 {
   color: blue;
 } */
 
+.oc {
+  grid-column: span 2 / span 2;
+}
+
+input[type="search"] {
+  margin-left: 22px;
+}
+
+@media (min-width: 768px) {
+  input[type="search"] {
+    margin-left: 0px;
+  }
+}
+
+.swiper-slide:not(.swiper-slide-active) {
+  opacity: 0.5;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -23508,6 +23588,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .sm\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .sm\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -23515,6 +23599,10 @@ h3 {
 
   .sm\:bg-transparent {
     background-color: transparent;
+  }
+
+  .sm\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .group:hover .sm\:group-hover\:bg-green {
@@ -23527,6 +23615,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .group:hover .sm\:group-hover\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .group:hover .sm\:group-hover\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -23534,6 +23626,10 @@ h3 {
 
   .group:hover .sm\:group-hover\:bg-transparent {
     background-color: transparent;
+  }
+
+  .group:hover .sm\:group-hover\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .sm\:focus-within\:bg-green:focus-within {
@@ -23546,6 +23642,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .sm\:focus-within\:bg-opinions:focus-within {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .sm\:focus-within\:bg-white:focus-within {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -23553,6 +23653,10 @@ h3 {
 
   .sm\:focus-within\:bg-transparent:focus-within {
     background-color: transparent;
+  }
+
+  .sm\:focus-within\:bg-menu:focus-within {
+    background-color: rgba(120,115,111, .93);
   }
 
   .sm\:hover\:bg-green:hover {
@@ -23565,6 +23669,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .sm\:hover\:bg-opinions:hover {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .sm\:hover\:bg-white:hover {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -23572,6 +23680,10 @@ h3 {
 
   .sm\:hover\:bg-transparent:hover {
     background-color: transparent;
+  }
+
+  .sm\:hover\:bg-menu:hover {
+    background-color: rgba(120,115,111, .93);
   }
 
   .sm\:focus\:bg-green:focus {
@@ -23584,6 +23696,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .sm\:focus\:bg-opinions:focus {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .sm\:focus\:bg-white:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -23591,6 +23707,10 @@ h3 {
 
   .sm\:focus\:bg-transparent:focus {
     background-color: transparent;
+  }
+
+  .sm\:focus\:bg-menu:focus {
+    background-color: rgba(120,115,111, .93);
   }
 
   .sm\:bg-none {
@@ -44896,6 +45016,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .md\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .md\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -44903,6 +45027,10 @@ h3 {
 
   .md\:bg-transparent {
     background-color: transparent;
+  }
+
+  .md\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .group:hover .md\:group-hover\:bg-green {
@@ -44915,6 +45043,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .group:hover .md\:group-hover\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .group:hover .md\:group-hover\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -44922,6 +45054,10 @@ h3 {
 
   .group:hover .md\:group-hover\:bg-transparent {
     background-color: transparent;
+  }
+
+  .group:hover .md\:group-hover\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .md\:focus-within\:bg-green:focus-within {
@@ -44934,6 +45070,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .md\:focus-within\:bg-opinions:focus-within {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .md\:focus-within\:bg-white:focus-within {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -44941,6 +45081,10 @@ h3 {
 
   .md\:focus-within\:bg-transparent:focus-within {
     background-color: transparent;
+  }
+
+  .md\:focus-within\:bg-menu:focus-within {
+    background-color: rgba(120,115,111, .93);
   }
 
   .md\:hover\:bg-green:hover {
@@ -44953,6 +45097,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .md\:hover\:bg-opinions:hover {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .md\:hover\:bg-white:hover {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -44960,6 +45108,10 @@ h3 {
 
   .md\:hover\:bg-transparent:hover {
     background-color: transparent;
+  }
+
+  .md\:hover\:bg-menu:hover {
+    background-color: rgba(120,115,111, .93);
   }
 
   .md\:focus\:bg-green:focus {
@@ -44972,6 +45124,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .md\:focus\:bg-opinions:focus {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .md\:focus\:bg-white:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -44979,6 +45135,10 @@ h3 {
 
   .md\:focus\:bg-transparent:focus {
     background-color: transparent;
+  }
+
+  .md\:focus\:bg-menu:focus {
+    background-color: rgba(120,115,111, .93);
   }
 
   .md\:bg-none {
@@ -66284,6 +66444,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .lg\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .lg\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -66291,6 +66455,10 @@ h3 {
 
   .lg\:bg-transparent {
     background-color: transparent;
+  }
+
+  .lg\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .group:hover .lg\:group-hover\:bg-green {
@@ -66303,6 +66471,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .group:hover .lg\:group-hover\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .group:hover .lg\:group-hover\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -66310,6 +66482,10 @@ h3 {
 
   .group:hover .lg\:group-hover\:bg-transparent {
     background-color: transparent;
+  }
+
+  .group:hover .lg\:group-hover\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .lg\:focus-within\:bg-green:focus-within {
@@ -66322,6 +66498,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .lg\:focus-within\:bg-opinions:focus-within {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .lg\:focus-within\:bg-white:focus-within {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -66329,6 +66509,10 @@ h3 {
 
   .lg\:focus-within\:bg-transparent:focus-within {
     background-color: transparent;
+  }
+
+  .lg\:focus-within\:bg-menu:focus-within {
+    background-color: rgba(120,115,111, .93);
   }
 
   .lg\:hover\:bg-green:hover {
@@ -66341,6 +66525,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .lg\:hover\:bg-opinions:hover {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .lg\:hover\:bg-white:hover {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -66348,6 +66536,10 @@ h3 {
 
   .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
+  }
+
+  .lg\:hover\:bg-menu:hover {
+    background-color: rgba(120,115,111, .93);
   }
 
   .lg\:focus\:bg-green:focus {
@@ -66360,6 +66552,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .lg\:focus\:bg-opinions:focus {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .lg\:focus\:bg-white:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -66367,6 +66563,10 @@ h3 {
 
   .lg\:focus\:bg-transparent:focus {
     background-color: transparent;
+  }
+
+  .lg\:focus\:bg-menu:focus {
+    background-color: rgba(120,115,111, .93);
   }
 
   .lg\:bg-none {
@@ -87672,6 +87872,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .xl\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .xl\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -87679,6 +87883,10 @@ h3 {
 
   .xl\:bg-transparent {
     background-color: transparent;
+  }
+
+  .xl\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .group:hover .xl\:group-hover\:bg-green {
@@ -87691,6 +87899,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .group:hover .xl\:group-hover\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .group:hover .xl\:group-hover\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -87698,6 +87910,10 @@ h3 {
 
   .group:hover .xl\:group-hover\:bg-transparent {
     background-color: transparent;
+  }
+
+  .group:hover .xl\:group-hover\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .xl\:focus-within\:bg-green:focus-within {
@@ -87710,6 +87926,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .xl\:focus-within\:bg-opinions:focus-within {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .xl\:focus-within\:bg-white:focus-within {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -87717,6 +87937,10 @@ h3 {
 
   .xl\:focus-within\:bg-transparent:focus-within {
     background-color: transparent;
+  }
+
+  .xl\:focus-within\:bg-menu:focus-within {
+    background-color: rgba(120,115,111, .93);
   }
 
   .xl\:hover\:bg-green:hover {
@@ -87729,6 +87953,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .xl\:hover\:bg-opinions:hover {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .xl\:hover\:bg-white:hover {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -87736,6 +87964,10 @@ h3 {
 
   .xl\:hover\:bg-transparent:hover {
     background-color: transparent;
+  }
+
+  .xl\:hover\:bg-menu:hover {
+    background-color: rgba(120,115,111, .93);
   }
 
   .xl\:focus\:bg-green:focus {
@@ -87748,6 +87980,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .xl\:focus\:bg-opinions:focus {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .xl\:focus\:bg-white:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -87755,6 +87991,10 @@ h3 {
 
   .xl\:focus\:bg-transparent:focus {
     background-color: transparent;
+  }
+
+  .xl\:focus\:bg-menu:focus {
+    background-color: rgba(120,115,111, .93);
   }
 
   .xl\:bg-none {
@@ -109060,6 +109300,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .\32xl\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .\32xl\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -109067,6 +109311,10 @@ h3 {
 
   .\32xl\:bg-transparent {
     background-color: transparent;
+  }
+
+  .\32xl\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .group:hover .\32xl\:group-hover\:bg-green {
@@ -109079,6 +109327,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .group:hover .\32xl\:group-hover\:bg-opinions {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .group:hover .\32xl\:group-hover\:bg-white {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -109086,6 +109338,10 @@ h3 {
 
   .group:hover .\32xl\:group-hover\:bg-transparent {
     background-color: transparent;
+  }
+
+  .group:hover .\32xl\:group-hover\:bg-menu {
+    background-color: rgba(120,115,111, .93);
   }
 
   .\32xl\:focus-within\:bg-green:focus-within {
@@ -109098,6 +109354,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .\32xl\:focus-within\:bg-opinions:focus-within {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .\32xl\:focus-within\:bg-white:focus-within {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -109105,6 +109365,10 @@ h3 {
 
   .\32xl\:focus-within\:bg-transparent:focus-within {
     background-color: transparent;
+  }
+
+  .\32xl\:focus-within\:bg-menu:focus-within {
+    background-color: rgba(120,115,111, .93);
   }
 
   .\32xl\:hover\:bg-green:hover {
@@ -109117,6 +109381,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .\32xl\:hover\:bg-opinions:hover {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .\32xl\:hover\:bg-white:hover {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -109124,6 +109392,10 @@ h3 {
 
   .\32xl\:hover\:bg-transparent:hover {
     background-color: transparent;
+  }
+
+  .\32xl\:hover\:bg-menu:hover {
+    background-color: rgba(120,115,111, .93);
   }
 
   .\32xl\:focus\:bg-green:focus {
@@ -109136,6 +109408,10 @@ h3 {
     background-color: rgba(211, 211, 211, var(--tw-bg-opacity));
   }
 
+  .\32xl\:focus\:bg-opinions:focus {
+    background-color: rgba(0,0,0,0.45);
+  }
+
   .\32xl\:focus\:bg-white:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
@@ -109143,6 +109419,10 @@ h3 {
 
   .\32xl\:focus\:bg-transparent:focus {
     background-color: transparent;
+  }
+
+  .\32xl\:focus\:bg-menu:focus {
+    background-color: rgba(120,115,111, .93);
   }
 
   .\32xl\:bg-none {

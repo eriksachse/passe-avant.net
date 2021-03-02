@@ -1,7 +1,6 @@
 <?php
 return [
-    'debug'  => true,
-
+    'debug'  => false,
     'routes' => [
         [
             'pattern' => 'sitemap.xml',

@@ -10,20 +10,14 @@ tabs:
         status: listed
         headline: Subpages
         layout: cards
-        image:
-          ratio: 3/2
-          cover: true
-        info: "{{ page.children.count }}"
-
-      hello:
-        type: pages
-        status: unlisted
-        headline: Unlisted Pages
         templates:
           - reviews
           - features
           - opinions
           - interviews
+        image:
+          ratio: 3/2
+          cover: true
         info: "{{ page.children.count }}"
 
   site:
@@ -31,7 +25,9 @@ tabs:
     icon: 🔍
     sections:
       ee_tab:
+        headline: Everything Else
         type: pages
         templates:
+          - ads
           - about
           - blank

@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<div class="grid grid-cols-2 m-2 mt-28 gap-12 about">
+<div class="block md:grid md:grid-cols-2 m-2 mt-28 md:gap-12 about">
     <div>
         <div class="font-Pbold pb-12">
             <?= $page->headline()->kirbyText() ?>
@@ -33,7 +33,7 @@
                 $socials = $page->social()->toStructure();
                 foreach ($socials as $item) : ?>
                     <div>
-                        <a href="<?= $item->platform()->url() ?>" target="_blank"><?= $item->platform()->html() ?></a>
+                        <a href="<?= $item->url() ?>" target="_blank"><?= $item->platform()->html() ?></a>
                     </div>
                 <?php endforeach ?>
 

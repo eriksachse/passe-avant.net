@@ -1,14 +1,16 @@
-<section class="projects mt-28<?php e($template == "interviews", ' grid grid-cols-2 gap-y-16');
-                                e($template == "features", ' features-grid');
-                                e($template == "reviews", ' reviews-grid') ?> ">
+<section class="projects min-h-screen mt-28<?php e($template == "interviews", ' block md:grid md:grid-cols-2 md:gap-y-16');
+                                            e($template == "features", ' features-grid');
+                                            e($template == "reviews", ' reviews-grid') ?> ">
 
 
     <?php foreach ($articles = $pages->find($template)->children()->listed()->paginate(10) as $article) : ?>
 
+
         <article class="<?php
-                        e($template == "interviews", ' h-interviews interviews relative text-center');
+                        e($template == "interviews", ' mb-8 md:mb-0 interviews relative text-center');
                         e($template == "features", 'features');
-                        e($template == "reviews", 'reviews') ?> ">
+                        e($template == "reviews", 'reviews');
+                        e($template == "opinions", 'opinions mb-20') ?> ">
 
             <?php if ($template == "interviews") : ?>
                 <div class="relative">
@@ -16,7 +18,7 @@
 
                 <a href="<?= $article->url() ?>">
                     <img src="<?php if ($image = $article->thumbnail()->toFile()) :
-                                    echo $image->resize(700)->url();
+                                    echo $image->resize(1000)->url();
                                 endif ?>">
                 </a>
 
@@ -25,9 +27,17 @@
                         <div class="font-Pbold orange-shadow text-white relative">
                             <?= $article->title()->html() ?>
                             <br />
-                            <?= $article->subtitle()->html() ?>
-                            <br />
-                            <?= $article->place()->html() ?>
+                            <?php if ($article->subtitle()->isNotEmpty()) : ?>
+                                <?= $article->subtitle()->html() ?>
+                                <br />
+                            <?php endif;
+                            if ($article->person()->isNotEmpty()) : ?>
+                                <?= $article->person()->html() ?>
+                                <br />
+                            <?php endif;
+                            if ($article->place()->isNotEmpty()) : ?>
+                                <?= $article->place()->html() ?>
+                            <?php endif ?>
                         </div>
                     </div>
                 <?php endif; ?>
@@ -38,18 +48,27 @@
             <?php if ($template == "features" || $template == "reviews" || $template == "opinions") : ?>
                 <div class="m-2 mb-24">
                     <div class="text-17 2xl:text-18">
-                        <?= $article->date()->toDate('d–m–Y') ?></div>
+                        <a href="<?= $article->url() ?>">
+                            <?= $article->date()->toDate('d–m–Y') ?>
+                        </a>
+                    </div>
                     <div class="m-4">
-                        <?= $article->title()->html() ?><br />
-                        <?= $article->place()->html() ?>
+                        <a href="<?= $article->url() ?>">
+                            <?= $article->title()->html() ?><br />
+                            <?= $article->place()->html() ?>
+                        </a>
                     </div>
                     <?php if ($template == "features") : ?>
                         <div class="border border-black rounded inline-block mt-1 p-1 pt-0.5">
-                            <?= $article->category() ?>
+                            <a href="<?= $article->url() ?>">
+                                <?= $article->category() ?>
+                            </a>
                         </div>
                     <?php endif ?>
                     <div class="mt-1">
-                        <?= $article->preview()->html() ?>
+                        <a href="<?= $article->url() ?>">
+                            <?= $article->preview()->html() ?>
+                        </a>
                     </div>
                 </div>
             <?php endif; ?>

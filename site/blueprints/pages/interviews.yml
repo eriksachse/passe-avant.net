@@ -1,5 +1,11 @@
 title: Interviews Page
-
+options:
+  changeTemplate: false
+  changeTitle: false
+  changeStatus: false
+  changePosition: false
+  delete: false
+  duplicate: false
 sections:
   drafts:
     headline: Drafts

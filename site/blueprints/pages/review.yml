@@ -17,9 +17,7 @@ columns:
           text:
             type: blocks
             fieldsets:
-              - heading
               - text
-              - list
               - image
               - video
 

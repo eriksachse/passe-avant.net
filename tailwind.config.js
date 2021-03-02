@@ -8,8 +8,10 @@ module.exports = {
     backgroundColor: () => ({
       green: "#0f0",
       interviews: "#d3d3d3",
+      opinions: "rgba(0,0,0,0.45)",
       white: "white",
       transparent: "transparent",
+      menu: "rgba(120,115,111, .93)",
     }),
     placeholderColor: {
       black: "black",

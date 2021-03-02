@@ -1,5 +1,5 @@
 <?php if ($page->template() != 'home') : ?>
-    <footer class="p-2 border-t border-orange">
+    <footer class="p-2 border-t bg-white border-orange">
 
 
 
@@ -36,6 +36,7 @@
     </footer>
 <?php endif ?>
 </div>
+
 </body>
 
 </html>

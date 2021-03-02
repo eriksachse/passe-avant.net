@@ -6,7 +6,6 @@ var imgLoad = imagesLoaded(img);
 var counter = document.getElementById("counter");
 imgLoad
   .on("progress", function (instance, image, i) {
-    var result = image.isLoaded ? "loaded" : "broken";
     counter.innerHTML = instance.progressedCount + "/" + img.length;
   })
   .on("done", function () {

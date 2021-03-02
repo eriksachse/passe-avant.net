@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 
 <head>
@@ -26,12 +25,11 @@
     <meta name="theme-color" content="#ffffff">
     <title><?= $site->title() ?> | <?= $page->title() ?></title>
 
-
-
     <?= css('assets/style.css') ?>
 
 </head>
 
-<body id="container" class="font-Pregular antialiased <?php e($page->template() == "interviews", ' bg-interviews') ?>">
+<body id="container" class="font-Pregular antialiased <?php e($page->template() == "interviews", ' bg-interviews');
+                                                        e($page->template() == "opinions", ' bg-opinions') ?>">
     <?php snippet('menu') ?><div class="leading-19 text-19 2xl:text-23 2xl:leading-23">
         <div style="position: fixed; top: 0;right: 0;" id="counter" class="m-2 color-gray text-12 leading-12"></div>
