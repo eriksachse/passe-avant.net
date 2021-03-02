@@ -10,6 +10,9 @@ Icon
 /media/*
 !/media/index.html
 
+/vendor/
+/vendor/*
+
 # Lock files
 # ---------------
 .lock

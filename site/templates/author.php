@@ -1,8 +1,8 @@
 <?php snippet('header') ?>
 <?php
 $email = $page->email()->value();
-$articles = page('reviews', 'interviews', 'features')->children()->listed()->filter(function ($article) use ($email) {
-    return $article->author()->toUsers()->has(kirby()->user($email));
+$articles = page('reviews', 'interviews', 'features', 'opinions')->children()->listed()->filter(function ($article) use ($email) {
+    return $article->authors()->toUsers()->has(kirby()->user($email));
 });
 ?>
 <div class="my-40">

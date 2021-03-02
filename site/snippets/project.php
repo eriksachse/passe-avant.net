@@ -14,9 +14,10 @@
         </div>
         <div class="my-2 mb-8 text-16 leading-16 2xl:text-19 2xl:leading-19">
             <?= $page->date()->toDate('d–m–Y') ?> <br />
-            <?= $page->category() ?> <?php $users = $page->author()->toUsers();
-                                        if ($users->exists()) : ?>by <?php endif ?>
-        <?php foreach ($users as $user) : ?>
+            <?= $page->category() ?>
+            <?php $users = $page->authors()->toUsers();
+            if ($users->isNotEmpty()) : ?>by <?php endif;
+                                            foreach ($users as $user) : ?>
             <a href="<?= $site->url() ?>/authors/<?= $user->name()->slug() ?>"><?= $user->name() ?></a>
         <?php endforeach ?>
         </div>

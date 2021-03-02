@@ -24,7 +24,9 @@ return [
             }
         ]
     ],  'panel' => [
-        'css' => 'assets/custom-panel.css'
+        'css' => 'assets/custom-panel.css',
+        'install' => true
+
     ],
     'thathoff' => [
         'git-content' => [

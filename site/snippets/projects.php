@@ -3,7 +3,7 @@
                                             e($template == "reviews", ' reviews-grid') ?> ">
 
 
-    <?php foreach ($articles = $pages->find($template)->children()->listed()->paginate(10) as $article) : ?>
+    <?php foreach ($articles = $pages->find($template)->children()->listed()->paginate(20) as $article) : ?>
 
 
         <article class="<?php
@@ -81,7 +81,7 @@
 
 <?php $pagination = $articles->pagination() ?>
 <nav>
-    <div class="flex items-center justify-center m-4">
+    <div class="flex items-center justify-center m-4 mt-24">
 
         <?php if ($pagination->hasPrevPage()) : ?>
             <div class="mx-1 text-orange">
